@@ -10,7 +10,15 @@ function createHeader() {
     </header>
     `;
 }
+
+function createFooter() {
+  return `
+      <footer>
+       <h5>Recepies 2024</h5>
+      </footer>
+      `;
+}
 function initEvents() {
-  document.body.innerHTML = createHeader();
+  document.body.innerHTML = createHeader() + createFooter();
 }
 initEvents();
