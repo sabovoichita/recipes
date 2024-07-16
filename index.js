@@ -6,7 +6,7 @@ function createHeader() {
   return `
      <!-- Header -->
   <header id="portfolio">
-    <a href="#"><img src="/images/logo.png" style="width:65px; height:65px;" class="w3-circle w3-right w3-margin w3-hide-large w3-hover-opacity"></a>
+    <a href="#"><img src="images/logo.png" style="width:65px; height:65px;" class="w3-circle w3-right w3-margin w3-hide-large w3-hover-opacity"></a>
     <span class="w3-button w3-hide-large w3-xxlarge w3-hover-text-grey" onclick="w3_open()"><i class="fa fa-bars"></i></span>
     <div class="w3-container">
     <h1><b>Voichita's Recepies</b></h1>
@@ -30,7 +30,7 @@ function createSidebar() {
     <a href="#" onclick="w3_close()" class="w3-hide-large w3-right w3-jumbo w3-padding w3-hover-grey" title="close menu">
       <i class="fa fa-remove"></i>
     </a>
-    <img src="/images/logo.png" style="width:90%;" class="w3-round"><br><br>
+    <img src="images/logo.png" style="width:90%;" class="w3-round"><br><br>
     <h4><b>Recepies</b></h4>
     <p class="w3-text-grey">...</p>
   </div>
@@ -207,7 +207,7 @@ function createFooter() {
           <ul class="w3-ul w3-hoverable">
             <li class="w3-padding-16">
               <img
-                src="/images/s-1.jpg"
+                src="images/s-1.jpg"
                 class="w3-left w3-margin-right"
                 style="width: 50px; height: 50px"
               />
@@ -216,7 +216,7 @@ function createFooter() {
             </li>
             <li class="w3-padding-16">
               <img
-                src="/images/s-1.jpg"
+                src="images/s-1.jpg"
                 class="w3-left w3-margin-right"
                 style="width: 50px; height: 50px"
               />

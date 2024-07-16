@@ -1,6 +1,6 @@
 [
   {
-    "src": "/images/t-1.jpg",
+    "src": "images/t-1.jpg",
     "alt": "Masuratori",
     "title": "Masuratori",
     "ingredients": [
@@ -9,7 +9,7 @@
     ]
   },
   {
-    "src": "/images/t-2.jpg",
+    "src": "images/t-2.jpg",
 
     "alt": "Dintii negresei + Eclere",
     "title": "Dintii negresei + Eclere",
@@ -20,7 +20,7 @@
     ]
   },
   {
-    "src": "/images/t-3.jpg",
+    "src": "images/t-3.jpg",
     "alt": "Prajitura cu Vanilie + Smerr - Chifle",
     "title": "Prajitura cu Vanilie + Smerr - Chifle",
     "ingredients": [
@@ -31,7 +31,7 @@
     ]
   },
   {
-    "src": "/images/t-4.jpg",
+    "src": "images/t-4.jpg",
     "alt": "Foi negre + Foi cu miere + Prajitura cu spuma",
     "title": "Foi negre + Foi cu miere + Prajitura cu spuma",
     "ingredients": [
@@ -44,7 +44,7 @@
     ]
   },
   {
-    "src": "/images/t-5.jpg",
+    "src": "images/t-5.jpg",
     "alt": "Budapesta",
     "title": "Budapesta",
     "ingredients": [
@@ -55,7 +55,7 @@
     ]
   },
   {
-    "src": "/images/t-6.jpg",
+    "src": "images/t-6.jpg",
     "alt": "Prajitura chinezeasca + Bombe + Tort simplu",
     "title": "Prajitura chinezeasca + Bombe + Tort simplu",
     "ingredients": [
@@ -68,7 +68,7 @@
     ]
   },
   {
-    "src": "/images/t-7.jpg",
+    "src": "images/t-7.jpg",
     "alt": "Ileana + Dobos",
     "title": "Ileana + Dobos",
     "ingredients": [
@@ -80,7 +80,7 @@
     ]
   },
   {
-    "src": "/images/t-8.jpg",
+    "src": "images/t-8.jpg",
     "alt": "Check simplu + Pogacele + Gelu",
     "title": "Check simplu + Pogacele + Gelu",
     "ingredients": [
@@ -92,7 +92,7 @@
     ]
   },
   {
-    "src": "/images/t-9.jpg",
+    "src": "images/t-9.jpg",
     "alt": "Petre Roman",
     "title": "Petre Roman",
     "ingredients": [
@@ -103,7 +103,7 @@
     ]
   },
   {
-    "src": "/images/t-10.jpg",
+    "src": "images/t-10.jpg",
     "alt": "Katy + Lamaita",
     "title": "Katy + Lamaita",
     "ingredients": [
@@ -115,7 +115,7 @@
     ]
   },
   {
-    "src": "/images/t-11.jpg",
+    "src": "images/t-11.jpg",
     "alt": "Fursecuri + Tort foarte fin",
     "title": "Fursecuri + Tort foarte fin",
     "ingredients": [
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "src": "/images/t-12.jpg",
+    "src": "images/t-12.jpg",
     "alt": "Tort Trunchi de copac",
     "title": "Tort Trunchi de copac",
     "ingredients": [
