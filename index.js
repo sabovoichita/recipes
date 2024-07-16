@@ -60,7 +60,7 @@ function createOverlay() {
       title="close side menu"
       id="myOverlay"
     >
-    </div>;
+    </div>
     </div>`;
 }
 
@@ -68,10 +68,10 @@ function createContent() {
   return `
      <!-- !PAGE CONTENT! -->
     <div class="w3-main" style="margin-left: 300px">
-    <div class="w3-row-padding">
-  </div>
-     <!-- Dynamic content will be injected here -->
-  </div>
+         <div class="w3-row-padding">
+        <!-- Dynamic content will be injected here -->
+         </div>
+    </div>
     `;
 }
 
