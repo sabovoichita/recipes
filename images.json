@@ -3,17 +3,16 @@
     "src": "/images/t-1.jpg",
     "alt": "Masuratori",
     "title": "Masuratori",
-    "title1": "1 lingurita rasa ==",
-    "title2": "1 pahar obisnuit ==",
-    "ingredients": ["apa---5gr, faina---6gr"],
-    "ingredients1": ["faina---125gr, zahar---200gr"]
+    "ingredients": [
+      "1 lingurita rasa de ==: apa = 5gr, faina = 6gr, gris = 7gr, zahar = 10gr, orez = 9gr, unt = 10gr, pesmet = 5gr, lapte = 5gr, ulei = 3.5gr",
+      "1 pahar obisnuit de ==: faina= 125gr,  zahar tos = 200gr, zahar praf = 180gr, sare = 220gr, orez = 230gr, gris = 200gr, nuci macinate = 200gr, lapte = 250gr, smantana = 250gr"
+    ]
   },
   {
     "src": "/images/t-2.jpg",
+
     "alt": "Dintii negresei + Eclere",
     "title": "Dintii negresei + Eclere",
-    "title1": "Dintii negresei",
-    "title2": "Eclere",
     "ingredients": [
       "Dintii negresei: 6 galbenusuri, 300gr zahar,  120gr margarina, 1/2 plic cacao, rom, bicarbonat, 300gr faina, 300gr lapte, gem, 6 ablusuri, 250/300gr zahar",
       "Eclere: 200gr margarina, 250gr apa, 250gr faina, 8 oua, putina sare",
@@ -35,7 +34,6 @@
     "src": "/images/t-4.jpg",
     "alt": "Foi negre + Foi cu miere + Prajitura cu spuma",
     "title": "Foi negre + Foi cu miere + Prajitura cu spuma",
-    "title1": "Foi negre",
     "ingredients": [
       "Foi negre: 300gr faina, 1 ou, 100gr margarina, 100gr zahar, 3 lg cacao, bicarbonat, 7 lg lapte",
       "Foi negre crema: 1/2 l lapte, 4 lg faina, 250gr unt, 200gr zahar praf si vanilie",
@@ -73,36 +71,67 @@
     "src": "/images/t-7.jpg",
     "alt": "Ileana + Dobos",
     "title": "Ileana + Dobos",
-    "ingredients": ["Ingredient 1", "Ingredient 2"]
+    "ingredients": [
+      "Ileana blat: 10 albusuri, 300gr zahar, 300gr nuca macinata, bicarbonat, 2 lg faina",
+      "Ileana crema: 10 galbenusuri, 3 lg lapte, 9 lg zahar, 1 pachet unt, vanilie",
+      "Dobos foi: 10 oua, 10lg zahar, 9 lg faina",
+      "Dobos crema: 6 oua, 18lg zahar, cacao, 350gr unt",
+      "Dobos caramel: 300gr zahar, 100ml apa, 3lg otet, 30gr unt"
+    ]
   },
   {
     "src": "/images/t-8.jpg",
     "alt": "Check simplu + Pogacele + Gelu",
     "title": "Check simplu + Pogacele + Gelu",
-    "ingredients": ["Ingredient 1", "Ingredient 2"]
+    "ingredients": [
+      "Check simplu: 6 galbenusuri, 1 cana zahar, 100ml apa calduta, 100gr ulei, bicarbonat, coaja lamaie, 300gr faina, 6 albusuri, cacao",
+      "Pogacele: 500gr faina, 400gr jumari macinate, 2 galbenusuri, 30gr drojdie crescuta, bicarbonat stins, 2lg apa cu otet, sare, 100gr smantana, ou pt uns, chimen",
+      "Gelu: 300gr faina, 120gr margarina, 100gr zahar, bicarbonat, 1 ou, 3lg lapte, 1lg smantana",
+      "Gelu crema: 1/2 l lapte, 3lg faina, 1 pachet unt, 250gr zahar praf, vanilie",
+      "Gelu glazura: 5lg zahar, 3lg apa, cacao, 1lg unt"
+    ]
   },
   {
     "src": "/images/t-9.jpg",
     "alt": "Petre Roman",
     "title": "Petre Roman",
-    "ingredients": ["Ingredient 1", "Ingredient 2"]
+    "ingredients": [
+      "Petre Roman foi: 9 albusuri, 18lg zahar, 9 galbenusuri, 1 lg apa, 9lg faina, 9lg nuca macinata, bicarbonat",
+      "Petre Roman crema 1: 1 cana zahar, putin unt",
+      "Petre Roman crema 2: 3 oua, 150gr zahar, 4lg faina, 1/2 l lapte, 1 pachet unt",
+      "Petre Roman glazura: 3 albusuri, 300gr zahar"
+    ]
   },
   {
     "src": "/images/t-10.jpg",
     "alt": "Katy + Lamaita",
     "title": "Katy + Lamaita",
-    "ingredients": ["Ingredient 1", "Ingredient 2"]
+    "ingredients": [
+      "Katy foi: 180gr margarina, 150gr zahar, 500gr faina, 2 galbenusuri, 200ml lapte, bicarbonat",
+      "Katy crema: 2-3lg gem, 1lg cacao, 1 pachet unt, rom, putin lapte caldut",
+      "Katy glazura: 2 albusuri, 200gr zahar",
+      "Lamaita foi: 300gr faina, 100gr unt, 80gr zahar, 1 ou, 1 lg-ita amoniac dizolvat cu zeama lamaie sau otet",
+      "Lamaita crema: 1 cana lapte, 2 lg faina, 1 pachet unt, 200gr zahar praf, zeama de la o lamaie, frisca pentru ornat"
+    ]
   },
   {
     "src": "/images/t-11.jpg",
     "alt": "Fursecuri + Tort foarte fin",
     "title": "Fursecuri + Tort foarte fin",
-    "ingredients": ["Ingredient 1", "Ingredient 2"]
+    "ingredients": [
+      "Fursecuri: 300gr unt, 300gr faina, 8 galbenusuri, 250gr zahar praf",
+      "Fursecuri crema: 200gr unt, 200gr zahar praf, cacao, nuca macinata",
+      "Tort foarte fin blat: 12 oua, 12 linguri zahar, 2 linguri faina, 50gr cacao, rom",
+      "Tort foarte fin crema: 10 linguri zahar, 200ml lapte, 150gr cacao, 400gr unt, rom"
+    ]
   },
   {
     "src": "/images/t-12.jpg",
     "alt": "Tort Trunchi de copac",
     "title": "Tort Trunchi de copac",
-    "ingredients": ["Ingredient 1", "Ingredient 2"]
+    "ingredients": [
+      "Tort Trunchi de copac blat: 8 oua, 7lg zahar, 1 lg faina, 150gr nuca macinata, bicarbonat",
+      "Tort Trunchi de copac crema: 250gr unt, 100gr nuci, 4 oua, 200gr zahar, 3lg cacao"
+    ]
   }
 ]

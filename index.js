@@ -68,6 +68,8 @@ function createContent() {
   return `
      <!-- !PAGE CONTENT! -->
     <div class="w3-main" style="margin-left: 300px">
+    <div class="w3-row-padding">
+  </div>
      <!-- Dynamic content will be injected here -->
   </div>
     `;
@@ -91,7 +93,7 @@ function createPagination() {
 
 function aboutMe() {
   return `
-    <div class="w3-container w3-padding-large" style="margin-bottom: 32px">
+    <div class="w3-container w3-padding-large" >
         <h4><b>About Me & Recepies</b></h4>
         <p>
           Just me, myself and I, exploring the universe of unknownment. I have a
@@ -278,7 +280,7 @@ function loadImages() {
 }
 
 function injectImages(images) {
-  const content = document.querySelector(".w3-main");
+  const content = document.querySelector(".w3-row-padding");
 
   // Clear existing content
   content.innerHTML = "";
@@ -296,21 +298,20 @@ function injectImages(images) {
           <img src="${image.src}" alt="${
       image.alt
     }" style="width: 100%" class="w3-hover-opacity"/>
-          <div class="w3-container w3-white">
-            <p><b>${image.title}</b></p>
-            <details>
-              <summary><b>Ingredients</b></summary>
-              <ul>
-               </br> 
-                ${image.ingredients
-                  .map((ingredient) => `<li>${ingredient}</li>`)
-                  .join("")}
-
-                   </br> 
-              </ul>
-            </details>
-          </div>
-        `;
+                <div class="w3-container w3-white">
+                    <p><b>${image.title}</b></p>
+                    <details>
+                    <summary><b>Ingredients</b></summary>
+                    <ul>
+                    </br> 
+                        ${image.ingredients
+                          .map((ingredient) => `<li>${ingredient}</li>`)
+                          .join("")}
+                        </br> 
+                    </ul>
+                    </details>
+                </div>
+                `;
 
     content.appendChild(imageContainer);
   });
