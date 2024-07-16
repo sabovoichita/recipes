@@ -1,0 +1,108 @@
+[
+  {
+    "src": "/images/t-1.jpg",
+    "alt": "Masuratori",
+    "title": "Masuratori",
+    "title1": "1 lingurita rasa ==",
+    "title2": "1 pahar obisnuit ==",
+    "ingredients": ["apa---5gr, faina---6gr"],
+    "ingredients1": ["faina---125gr, zahar---200gr"]
+  },
+  {
+    "src": "/images/t-2.jpg",
+    "alt": "Dintii negresei + Eclere",
+    "title": "Dintii negresei + Eclere",
+    "title1": "Dintii negresei",
+    "title2": "Eclere",
+    "ingredients": [
+      "Dintii negresei: 6 galbenusuri, 300gr zahar,  120gr margarina, 1/2 plic cacao, rom, bicarbonat, 300gr faina, 300gr lapte, gem, 6 ablusuri, 250/300gr zahar",
+      "Eclere: 200gr margarina, 250gr apa, 250gr faina, 8 oua, putina sare",
+      "Eclere crema: 1/2l lapte, vanilie, 4 oua, 175gr zahar, 80gr faina "
+    ]
+  },
+  {
+    "src": "/images/t-3.jpg",
+    "alt": "Prajitura cu Vanilie + Smerr - Chifle",
+    "title": "Prajitura cu Vanilie + Smerr - Chifle",
+    "ingredients": [
+      "Prajitura cu Vanilie: 300gr faina; 100gr margarina, 2 oua, 8lg zahar, bicarbonat, lapte cat cuprinde",
+      "crema: 400ml lapte, 3 lg faina, 250gr zahar, 1 pachet unt si vanilie",
+      "Smerr - Chifle: 600gr untura, 900gr faina, 1 ou, 2 galbenusuri, sare, 200ml apa cu 4 lg otet, 3 lg smantana, bicarbonat",
+      "gem pentru umplut: "
+    ]
+  },
+  {
+    "src": "/images/t-4.jpg",
+    "alt": "Foi negre + Foi cu miere + Prajitura cu spuma",
+    "title": "Foi negre + Foi cu miere + Prajitura cu spuma",
+    "title1": "Foi negre",
+    "ingredients": [
+      "Foi negre: 300gr faina, 1 ou, 100gr margarina, 100gr zahar, 3 lg cacao, bicarbonat, 7 lg lapte",
+      "Foi negre crema: 1/2 l lapte, 4 lg faina, 250gr unt, 200gr zahar praf si vanilie",
+      "Foi cu miere: 1 ou, 2 galbenusuri, 5lg lapte, 4lg ulei, 2lg miere, 250gr zahar, bicarbonat,450gr faina, coaja rasa lamaie ",
+      "Foi cu miere crema: 250ml lapte, 150gr zahar, 2lg faina, 250gr unt si vanilie",
+      "Prajitura cu spuma: 6 galbenusuri, 180gr margarina, 300gr zahar, 300gr ulei, 2 lg rase cacao. bicarbonat, 300gr faina, 6 albusuri batute, 8 lg zahar",
+      "Prajitura cu spuma crema: 200gr unt, 100gr zahar praf, 3 lg cacao"
+    ]
+  },
+  {
+    "src": "/images/t-5.jpg",
+    "alt": "Budapesta",
+    "title": "Budapesta",
+    "ingredients": [
+      "Budapesta blat1: 6 oua, 7 lg zahar, 3 lg apa, 7 lg faina",
+      "Budapesta blat2: 6 albusuri, 250gr nuca macinata, 250gr zahar, 2lg faina si bicarbonat",
+      "Budapesta crema: 6 galbenusuri, 250gr zahar, 2/3lg cacao, 4/5lg cafea lichida, 1 pachet unt",
+      "Budapesta glazura: 5 lg zahar, 2 lg lapte, 50gr margarina, cacao"
+    ]
+  },
+  {
+    "src": "/images/t-6.jpg",
+    "alt": "Prajitura chinezeasca + Bombe + Tort simplu",
+    "title": "Prajitura chinezeasca + Bombe + Tort simplu",
+    "ingredients": [
+      "Prajitura chinezeasca: 200gr margarina, 200gr zahar, 150gr nuci, coaja lamaie, 6 albusuri, 100gr faina, bicarbonat.",
+      "Prajitura chinezeasca crema: 5 galbenusuri, 150gr zahar, 2/3 lg lapte, vanilie, 1 pachet unt, glazura ciocolata",
+      "Bombe: biscuiti sau capete de la alte prajituri, zahar praf, cacao, rom , stafide, unt, lapte caldut, nuca cocs, 1/2 oua, visine, cirese, almendre, cacao",
+      "Tort simplu blat: 5 oua, 7 lg zahar, 3 lg apa, 7 lg fainaa(sau 6 si 1 lg cacao)",
+      "Tort simplu crema1: 4 oua, 1/3 cana zahar 2 lg cacao, 1 pachet unt",
+      "Tort simplu crema2: 1pachet unt, 1 cana zahar praf, 1 cana nuca fiarta, 1/2 cana lapte, cacao, rom"
+    ]
+  },
+  {
+    "src": "/images/t-7.jpg",
+    "alt": "Ileana + Dobos",
+    "title": "Ileana + Dobos",
+    "ingredients": ["Ingredient 1", "Ingredient 2"]
+  },
+  {
+    "src": "/images/t-8.jpg",
+    "alt": "Check simplu + Pogacele + Gelu",
+    "title": "Check simplu + Pogacele + Gelu",
+    "ingredients": ["Ingredient 1", "Ingredient 2"]
+  },
+  {
+    "src": "/images/t-9.jpg",
+    "alt": "Petre Roman",
+    "title": "Petre Roman",
+    "ingredients": ["Ingredient 1", "Ingredient 2"]
+  },
+  {
+    "src": "/images/t-10.jpg",
+    "alt": "Katy + Lamaita",
+    "title": "Katy + Lamaita",
+    "ingredients": ["Ingredient 1", "Ingredient 2"]
+  },
+  {
+    "src": "/images/t-11.jpg",
+    "alt": "Fursecuri + Tort foarte fin",
+    "title": "Fursecuri + Tort foarte fin",
+    "ingredients": ["Ingredient 1", "Ingredient 2"]
+  },
+  {
+    "src": "/images/t-12.jpg",
+    "alt": "Tort Trunchi de copac",
+    "title": "Tort Trunchi de copac",
+    "ingredients": ["Ingredient 1", "Ingredient 2"]
+  }
+]
