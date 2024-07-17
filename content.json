@@ -933,6 +933,92 @@
       "175gr vișine, 200gr iaurt, 200gr mascarpone, 2lg zahăr, 1lg zahăr vanilat, 1lg suc portocale, 2lg suc lămâie, 5g(1/2)plic gelatină, 4ceșcuțe pt cafea, 4 buc hârtie permanent pt copt brioșe"
     ]
   },
+  {
+    "src": "images/i-21.jpg",
+    "alt": "Parfe de vișine",
+    "title": "Parfe de vișine",
+    "type": "iceCreams",
+    "ingredients": [""]
+  },
+  {
+    "src": "images/i-22.jpg",
+    "alt": "Parfe de ciocolată",
+    "title": "Parfe de ciocolată",
+    "type": "iceCreams",
+    "ingredients": [""]
+  },
+  {
+    "src": "images/i-23.jpg",
+    "alt": "Mix de căpțune și afine cu înghetată",
+    "title": "Mix de căpțune și afine cu înghetată",
+    "type": "iceCreams",
+    "ingredients": [
+      "500gr căpșune, 250gr afine, zeama de la 1/2 lămâie, 3lg zahăr, 1pliculeț zahăr vanilat, 1 cutie înghețată Muffin"
+    ]
+  },
+  {
+    "src": "images/i-24.jpg",
+    "alt": "Înghetată asortată",
+    "title": "Înghetată asortată",
+    "type": "iceCreams",
+    "ingredients": [
+      "400gr fructe de pădure, 1 pepene roșu mic, 1 pepene galben, 2lg rom, 300gr zahăr pudră, 600ml frișcă lichidă, câteva pișcoturi"
+    ]
+  },
+  {
+    "src": "images/i-25.jpg",
+    "alt": "Înghetată de căpșune cu ananas",
+    "title": "Înghetată de căpșune cu ananas",
+    "type": "iceCreams",
+    "ingredients": [
+      "300gr zahăr, 1 cutie compot(600gr) de ananas, 300ml frișcă lichidă, 150gr capșune, sos de căpșuni de la Oetker, 1/2 lămâie"
+    ]
+  },
+  {
+    "src": "images/i-26.jpg",
+    "alt": "Înghetată cu alune, căpșune și ciocolată",
+    "title": "Înghetată cu alune, căpșune și ciocolată",
+    "type": "iceCreams",
+    "ingredients": [
+      "500gr căpșune, 300gr zahăr, 500ml frișcă lichidă, 100gr ciocolată amăruie, 100gr alune nesărate, 1/2 lămâie, 1 albuș, 1 praf de sare"
+    ]
+  },
+  {
+    "src": "images/i-27.jpg",
+    "alt": "Căpșune marinate spicy",
+    "title": "Căpșune marinate spicy",
+    "type": "iceCreams",
+    "ingredients": [
+      "500gr căpșune, 1 plic zahăr vanilat, 100ml suc(portocale sau vișine), 1 vârf de cuțit piper roz sau roșu, 1 cutie înghețată Mascarpone, frunze de mentă"
+    ]
+  },
+  {
+    "src": "images/i-28.jpg",
+    "alt": "Înghetată cu foi de napolitană",
+    "title": "Înghetată cu foi de napolitană",
+    "type": "iceCreams",
+    "ingredients": [
+      "3 foi de napolitană, 5 ouă, 250gr zahăr, 3lg făină, 6lg nucă măcinată, 300ml lapte, 500ml frișcă lichidă, 2 plicuri zahăr vanilat, 2 linguriță nes, 1lg cacao, 50gr ciocolată menaj"
+    ]
+  },
+  {
+    "src": "images/i-29.jpg",
+    "alt": "Înghetată de vanilie",
+    "title": "Înghetată de vanilie",
+    "type": "iceCreams",
+    "ingredients": [
+      "6 gălbenușuri, 180gr zahăr tos, 1 baton vanilie, 250ml lapte, sos caramel Oetker"
+    ]
+  },
+  {
+    "src": "images/i-30.jpg",
+    "alt": "Înghetată cu frișcă, nuci și ciocolată",
+    "title": "Înghetată cu frișcă, nuci și ciocolată",
+    "type": "iceCreams",
+    "ingredients": [
+      "1kg smântînă, 250gr zahăr, 200gr miez nucă, 100gr ciocolata menaj sau amăruie, 1/2 fiolă esență vanilie"
+    ]
+  },
 
   {
     "src": "images/m-1.jpg",
