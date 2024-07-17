@@ -754,6 +754,7 @@
     "type": "cakes",
     "ingredients": ["", ""]
   },
+
   {
     "src": "images/i-1.jpg",
     "alt": "Înghetate",
@@ -844,6 +845,95 @@
       ""
     ]
   },
+  {
+    "src": "images/i-11.jpg",
+    "alt": "Înghetată de zmeură",
+    "title": "Înghetată de zmeură",
+    "type": "iceCreams",
+    "ingredients": ["1kg zmeură, 250gr zahăr, 500ml frișcă lichidă"]
+  },
+  {
+    "src": "images/i-12.jpg",
+    "alt": "Înghetatăcu frișcă și piersici",
+    "title": "Înghetată cu frișcă și piersici",
+    "type": "iceCreams",
+    "ingredients": [
+      "300gr piersici, 400ml frișcă lichidă, 1 ou, 300ml lapte, zahăr pudră după gust"
+    ]
+  },
+  {
+    "src": "images/i-13.jpg",
+    "alt": "Înghetată de coacăze roșii",
+    "title": "Înghetată de coacăze roșii",
+    "type": "iceCreams",
+    "ingredients": [
+      "100gr coacăze roșii. 2 gălbenușuri, 20gr smântână, 2lg zahăr"
+    ]
+  },
+  {
+    "src": "images/i-14.jpg",
+    "alt": "Înghetată de pierici cu iaurt",
+    "title": "Înghetată de piersci cu iaurt",
+    "type": "iceCreams",
+    "ingredients": [
+      "800gr compot de piersici, 200gr zahăr, 250gr iaurt, 1 lămâie, 100ml frișcă lichidă, 100gr dulceață de piersici"
+    ]
+  },
+  {
+    "src": "images/i-15.jpg",
+    "alt": "Înghetată de mentă",
+    "title": "Înghetată de mentă",
+    "type": "iceCreams",
+    "ingredients": [
+      "4 ouă, 8lg zahăr, 1lg făină, 500ml lapte, 150ml sirop mentă, o mână mentă proaspătă"
+    ]
+  },
+  {
+    "src": "images/i-16.jpg",
+    "alt": "Înghetată de rubarbă",
+    "title": "Înghetată de rubarbă",
+    "type": "iceCreams",
+    "ingredients": [
+      "500gr rubarbă, 200gr zahăr, 1/2 pahar vin roșu, 4 gălbenușuri, 1/2 lămâie, 1/2 l frișcă, 1 baton vanilie, 4-5 căpșune pt decor"
+    ]
+  },
+  {
+    "src": "images/i-17.jpg",
+    "alt": "Înghetată de cacao cu nuci și dulceață",
+    "title": "Înghetată de cacao cu nuci și dulceață",
+    "type": "iceCreams",
+    "ingredients": [
+      "3lg cacao, 1 cană zahăr tos, 1/2 cană apă, 250gr unt, 2lg fructe din dulceață, 3 buc rahat, 1 mână miez de nucă, 1 fiolă esență rom"
+    ]
+  },
+  {
+    "src": "images/i-18.jpg",
+    "alt": "Înghetată cu ciocolată și fructe",
+    "title": "Înghetată cu ciocolată și fructe",
+    "type": "iceCreams",
+    "ingredients": [
+      "140gr ciocolaă menaj, 20gr unt, 200gr miez nucă, 6 gălbenușuri, 400ml frișcă, 150gr zahăr, 1lg lapte, 140gr zahăr pudră, 1lg lichior fructe, 1/2lg ulei, 1 portocală"
+    ]
+  },
+  {
+    "src": "images/i-19.jpg",
+    "alt": "Înghetată de caise cu marscapone",
+    "title": "Înghetată de caise cu marscapone",
+    "type": "iceCreams",
+    "ingredients": [
+      "500gr caise coapte, 200gr zahăr, 100ml lapte, 2ouă, 2 plicuri zahăr vanilat, 400gr mascarpone "
+    ]
+  },
+  {
+    "src": "images/i-20.jpg",
+    "alt": "Parfe de vișine",
+    "title": "Parfe de vișine",
+    "type": "iceCreams",
+    "ingredients": [
+      "175gr vișine, 200gr iaurt, 200gr mascarpone, 2lg zahăr, 1lg zahăr vanilat, 1lg suc portocale, 2lg suc lămâie, 5g(1/2)plic gelatină, 4ceșcuțe pt cafea, 4 buc hârtie permanent pt copt brioșe"
+    ]
+  },
+
   {
     "src": "images/m-1.jpg",
     "alt": "Sfaturi practice",
