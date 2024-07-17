@@ -11,7 +11,6 @@
   },
   {
     "src": "images/t-2.jpg",
-
     "alt": "Dinții negresei + Eclere",
     "title": "Dinții negresei + Eclere",
     "type": "cakes",
@@ -757,8 +756,71 @@
   },
   {
     "src": "images/i-1.jpg",
-    "alt": "Inghetate",
-    "title": "Inghetate",
+    "alt": "Înghetate",
+    "title": "Înghetate",
+    "type": "iceCreams",
+    "ingredients": ["", ""]
+  },
+  {
+    "src": "images/i-2.jpg",
+    "alt": "Salată de fructe exotice cu înghețată",
+    "title": "Salată de fructe exotice cu înghețată",
+    "type": "iceCreams",
+    "ingredients": ["", ""]
+  },
+  {
+    "src": "images/i-3.jpg",
+    "alt": "Înghetată de banane cu miere",
+    "title": "Înghetată de banane cu miere",
+    "type": "iceCreams",
+    "ingredients": ["", ""]
+  },
+  {
+    "src": "images/i-4.jpg",
+    "alt": "Înghetată cu banane",
+    "title": "Înghetată cu banane",
+    "type": "iceCreams",
+    "ingredients": ["", ""]
+  },
+  {
+    "src": "images/i-5.jpg",
+    "alt": "Înghetată cu trei straturi",
+    "title": "Înghetată cu trei straturi",
+    "type": "iceCreams",
+    "ingredients": ["", ""]
+  },
+  {
+    "src": "images/i-6.jpg",
+    "alt": "Înghetată cu lapte și vișine",
+    "title": "Înghetată cu lapte și vișine",
+    "type": "iceCreams",
+    "ingredients": ["", ""]
+  },
+  {
+    "src": "images/i-7.jpg",
+    "alt": "Înghetată cu căpșune",
+    "title": "Înghetată cu căpșune",
+    "type": "iceCreams",
+    "ingredients": ["", ""]
+  },
+  {
+    "src": "images/i-8.jpg",
+    "alt": "Înghetată de fistic cu ananas caramelizat",
+    "title": "Înghetată de fistic cu ananas caramelizat",
+    "type": "iceCreams",
+    "ingredients": ["", ""]
+  },
+  {
+    "src": "images/i-9.jpg",
+    "alt": "Înghetată de piersici",
+    "title": "Înghetată de piersici",
+    "type": "iceCreams",
+    "ingredients": ["", ""]
+  },
+  {
+    "src": "images/i-10.jpg",
+    "alt": "Înghetată de portocale",
+    "title": "Înghetată de portocale",
     "type": "iceCreams",
     "ingredients": ["", ""]
   },
@@ -858,8 +920,8 @@
   },
   {
     "src": "images/m-9.jpg",
-    "alt": "Salate",
-    "title": "Salate",
+    "alt": "Aperitive",
+    "title": "Aperitive",
     "type": "mains",
     "ingredients": [
       "34.Ouă umplute cu brânză",
@@ -871,8 +933,8 @@
   },
   {
     "src": "images/m-10.jpg",
-    "alt": "Salate",
-    "title": "Salate",
+    "alt": "Aperitive",
+    "title": "Aperitive",
     "type": "mains",
     "ingredients": [
       "39.Roșii umplute cu brânză",
