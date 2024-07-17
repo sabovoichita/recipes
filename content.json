@@ -759,70 +759,90 @@
     "alt": "Înghetate",
     "title": "Înghetate",
     "type": "iceCreams",
-    "ingredients": ["", ""]
+    "ingredients": [""]
   },
   {
     "src": "images/i-2.jpg",
     "alt": "Salată de fructe exotice cu înghețată",
     "title": "Salată de fructe exotice cu înghețată",
     "type": "iceCreams",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "2 kiwi, 1/2 ananas, 150gr physalis(fruct chinezesc ca o cireașă galbenă), 1 limetă, 1 linguriță zahăr pudră, 1/2 plic zahăr vaniliat, 1 cutie de înghețată Caramel sau Vanilla"
+    ]
   },
   {
     "src": "images/i-3.jpg",
     "alt": "Înghetată de banane cu miere",
     "title": "Înghetată de banane cu miere",
     "type": "iceCreams",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "500gr banane 150gr salcâm, 50gr nucă cocos, 1lg zeamă lămâie, 1 plic zahăr vanilat, 250gr smântână, 100gr musli, 1 kiwi sau 1lg nucă de cocos pentru decor"
+    ]
   },
   {
     "src": "images/i-4.jpg",
     "alt": "Înghetată cu banane",
     "title": "Înghetată cu banane",
     "type": "iceCreams",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "3 banane, 3 gălbenușuri, 150gr zahăr, 1/2 lămâie verde, 2 plicuro zahăr vanilat",
+      ""
+    ]
   },
   {
     "src": "images/i-5.jpg",
     "alt": "Înghetată cu trei straturi",
     "title": "Înghetată cu trei straturi",
     "type": "iceCreams",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "6 ouă, 180gr zahăr, 1lg cacao, 50gr ciocolată, 250gr fructe, 100ml frișcă lichidă. 1lg nes, 50gr miez de nucă",
+      ""
+    ]
   },
   {
     "src": "images/i-6.jpg",
     "alt": "Înghetată cu lapte și vișine",
     "title": "Înghetată cu lapte și vișine",
     "type": "iceCreams",
-    "ingredients": ["", ""]
+    "ingredients": ["1.5kg vișine, 750ml lapte, 300gr zahăr tos"]
   },
   {
     "src": "images/i-7.jpg",
     "alt": "Înghetată cu căpșune",
     "title": "Înghetată cu căpșune",
     "type": "iceCreams",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "150gr iaurt, 200gr smântână, 100gr zahăr pudră, 150gr capșune sau alte fructe roșii"
+    ]
   },
   {
     "src": "images/i-8.jpg",
     "alt": "Înghetată de fistic cu ananas caramelizat",
     "title": "Înghetată de fistic cu ananas caramelizat",
     "type": "iceCreams",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "6 gălbenușuri, 250gr zahăr, 500ml lapte, 100gr smântână, 100gr fistic fără sare, 50gr migdale, 1/2 fiolă esență de migdale, 4 lingurițe rom, 2 picături colorant alimentar verde, 6 rondele de anans, cireșe confiate pentru decor"
+    ]
   },
   {
     "src": "images/i-9.jpg",
     "alt": "Înghetată de piersici",
     "title": "Înghetată de piersici",
     "type": "iceCreams",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "2 piersici, 150gr zahăr, 1 albuș, 250ml frișcă vegetală",
+      ""
+    ]
   },
   {
     "src": "images/i-10.jpg",
     "alt": "Înghetată de portocale",
     "title": "Înghetată de portocale",
     "type": "iceCreams",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "500ml frișcă lichidă, 250ml suc de portocale, 6lg zahăr pudră, zeama de la 3 lămâi, 20ml apă, 1 albuș",
+      ""
+    ]
   },
   {
     "src": "images/m-1.jpg",
