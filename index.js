@@ -12,7 +12,7 @@ function createHeader() {
     <h1><b>Voichița's Recepies</b></h1>
     <div class="w3-section w3-bottombar w3-padding-16">
       <span class="w3-margin-right">Filter:</span> 
-      <button class="w3-button w3-black">ALL</button>
+      <button class="w3-button w3-black" id = "all">ALL</button>
       <button class="w3-button w3-white" id="cakes">🎂 Cakes</button>
       <button class="w3-button w3-white w3-hide-small" id='iceCream'>🍨 Ice creams</button>
       <button class="w3-button w3-white w3-hide-small" id="mains">🍽 Main</button>
@@ -337,6 +337,10 @@ function addEventListeners(images) {
   $("#mains").addEventListener("click", function () {
     // console.log("You clicked 🍽");
     injectImages(images, "mains");
+  });
+  $("#all").addEventListener("click", function () {
+    // console.log("You clicked ALL");
+    injectImages(images);
   });
 }
 
