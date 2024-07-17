@@ -9,13 +9,13 @@ function createHeader() {
     <a href="#"><img src="images/logo.png" style="width:65px; height:65px;" class="w3-circle w3-right w3-margin w3-hide-large w3-hover-opacity"></a>
     <span class="w3-button w3-hide-large w3-xxlarge w3-hover-text-grey" onclick="w3_open()"><i class="fa fa-bars"></i></span>
     <div class="w3-container">
-    <h1><b>Voichita's Recepies</b></h1>
+    <h1><b>Voichița's Recepies</b></h1>
     <div class="w3-section w3-bottombar w3-padding-16">
       <span class="w3-margin-right">Filter:</span> 
       <button class="w3-button w3-black">ALL</button>
-      <button class="w3-button w3-white">🎂 Cakes</button>
-      <button class="w3-button w3-white w3-hide-small">🍨 Ice creams</button>
-      <button class="w3-button w3-white w3-hide-small">🍽 Main</button>
+      <button class="w3-button w3-white" id="cakes">🎂 Cakes</button>
+      <button class="w3-button w3-white w3-hide-small" id='iceCream'>🍨 Ice creams</button>
+      <button class="w3-button w3-white w3-hide-small" id="mains">🍽 Main</button>
     </div>
     </div>
   </header>
@@ -67,10 +67,12 @@ function createOverlay() {
 function createContent() {
   return `
      <!-- !PAGE CONTENT! -->
+     <div class="main" >
     <div class="w3-main" style="margin-left: 300px">
          <div class="w3-row-padding">
-        <!-- Dynamic content will be injected here -->
+        <!-- content will be injected here -->
          </div>
+    </div>
     </div>
     `;
 }
@@ -197,7 +199,7 @@ function createFooter() {
           <p>
             Powered by
             <a href="https://github.com/sabovoichita/" target="_blank"
-              >Voichita</a
+              >Voichița</a
             >
           </p>
         </div>
@@ -255,7 +257,7 @@ function createFooter() {
         </div>
       </div>
     </footer>
-  <div class="w3-black w3-center w3-padding-24">Designed by <a href="https://github.com/sabovoichita/" title="W3.CSS" target="_blank" class="w3-hover-opacity">Voichita</a></div>
+  <div class="w3-black w3-center w3-padding-24">Designed by <a href="https://github.com/sabovoichita/" title="W3.CSS" target="_blank" class="w3-hover-opacity">Voichița</a></div>
 
       `;
 }
@@ -271,22 +273,28 @@ function w3_close() {
 }
 
 function loadImages() {
-  fetch("images.json")
+  fetch("content.json")
     .then((r) => r.json())
     .then((images) => {
       //   console.log(images);
       injectImages(images);
+      addEventListeners(images);
     });
 }
 
-function injectImages(images) {
+function injectImages(images, type) {
   const content = document.querySelector(".w3-row-padding");
 
   // Clear existing content
   content.innerHTML = "";
 
-  // Loop through the images array and create HTML for each image
-  images.forEach((image) => {
+  // Filter the images based on the type
+  const filteredImages = type
+    ? images.filter((image) => image.type === type)
+    : images;
+
+  // Loop through the filtered images array and create HTML for each image
+  filteredImages.forEach((image) => {
     const imageContainer = document.createElement("div");
     imageContainer.classList.add(
       "w3-third",
@@ -316,6 +324,22 @@ function injectImages(images) {
     content.appendChild(imageContainer);
   });
 }
+
+function addEventListeners(images) {
+  $("#cakes").addEventListener("click", function () {
+    // console.log("You clicked 🎂");
+    injectImages(images, "cakes");
+  });
+  $("#iceCream").addEventListener("click", function () {
+    // console.log("You clicked 🍨");
+    injectImages(images, "iceCreams");
+  });
+  $("#mains").addEventListener("click", function () {
+    // console.log("You clicked 🍽");
+    injectImages(images, "mains");
+  });
+}
+
 function initEvents() {
   document.body.innerHTML =
     createHeader() +
@@ -328,5 +352,6 @@ function initEvents() {
     createFooter();
   //   console.log("loading images");
   loadImages();
+  //   addEventListeners();
 }
 initEvents();

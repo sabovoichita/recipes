@@ -3,6 +3,7 @@
     "src": "images/t-1.jpg",
     "alt": "Măsurători",
     "title": "Măsurători",
+    "type": "cakes",
     "ingredients": [
       "1 linguriță rasă de ==: apă = 5gr, făină = 6gr, griș = 7gr, zahăr = 10gr, orez = 9gr, unt = 10gr, pesmet = 5gr, lapte = 5gr, ulei = 3.5gr",
       "1 pahar obisnuit de ==: făina= 125gr,  zahăr tos = 200gr, zahăr praf = 180gr, sare = 220gr, orez = 230gr, gris = 200gr, nuci măcinate = 200gr, lapte = 250gr, smântână = 250gr"
@@ -13,6 +14,7 @@
 
     "alt": "Dinții negresei + Eclere",
     "title": "Dinții negresei + Eclere",
+    "type": "cakes",
     "ingredients": [
       "Dinții negresei: 6 gălbenușuri, 300gr zahăr,  120gr margarină, 1/2 plic cacao, rom, bicarbonat, 300gr făina, 300gr lapte, gem, 6 albușuri, 250/300gr zahăr",
       "Eclere: 200gr margarină, 250gr apă, 250gr făina, 8 ouă, putina sare",
@@ -23,6 +25,7 @@
     "src": "images/t-3.jpg",
     "alt": "Prăjitură cu Vanilie + Smerr - Chifle",
     "title": "Prăjitură cu Vanilie + Smerr - Chifle",
+    "type": "cakes",
     "ingredients": [
       "Prăjitură cu Vanilie: 300gr făina; 100gr margarină, 2 ouă, 8lg zahăr, bicarbonat, lapte cat cuprinde",
       "crema: 400ml lapte, 3lg făina, 250gr zahăr, 1 pachet unt si vanilie",
@@ -34,6 +37,7 @@
     "src": "images/t-4.jpg",
     "alt": "Foi negre + Foi cu miere + Prăjitură cu spumă",
     "title": "Foi negre + Foi cu miere + Prăjitură cu spumă",
+    "type": "cakes",
     "ingredients": [
       "Foi negre: 300gr făina, 1 ou, 100gr margarină, 100gr zahăr, 3lg cacao, bicarbonat, 7lg lapte",
       "Foi negre crema: 1/2 l lapte, 4lg făina, 250gr unt, 200gr zahăr praf si vanilie",
@@ -46,6 +50,7 @@
   {
     "src": "images/t-5.jpg",
     "alt": "Budapesta",
+    "type": "cakes",
     "title": "Budapesta",
     "ingredients": [
       "Budapesta blat1: 6 ouă, 7lg zahăr, 3lg apă, 7lg făina",
@@ -58,6 +63,7 @@
     "src": "images/t-6.jpg",
     "alt": "Prăjitură chinezeasca + Bombe + Tort simplu",
     "title": "Prăjitură chinezeasca + Bombe + Tort simplu",
+    "type": "cakes",
     "ingredients": [
       "Prăjitură chinezeasca: 200gr margarină, 200gr zahăr, 150gr nuci, coaja lămâie, 6 albușuri, 100gr făina, bicarbonat.",
       "Prăjitură chinezeasca crema: 5 gălbenușuri, 150gr zahăr, 2/3lg lapte, vanilie, 1 pachet unt, glazura ciocolată",
@@ -71,6 +77,7 @@
     "src": "images/t-7.jpg",
     "alt": "Ileana + Dobos",
     "title": "Ileana + Dobos",
+    "type": "cakes",
     "ingredients": [
       "Ileana blat: 10 albușuri, 300gr zahăr, 300gr nucă măcinată, bicarbonat, 2lg făina",
       "Ileana crema: 10 gălbenușuri, 3 lglapte, 9lg zahăr, 1 pachet unt, vanilie",
@@ -83,6 +90,7 @@
     "src": "images/t-8.jpg",
     "alt": "Check simplu + Pogacele + Gelu",
     "title": "Check simplu + Pogacele + Gelu",
+    "type": "cakes",
     "ingredients": [
       "Check simplu: 6 gălbenușuri, 1 cană zahăr, 100ml apă calduta, 100gr ulei, bicarbonat, coaja lămâie, 300gr făina, 6 albușuri, cacao",
       "Pogacele: 500gr făina, 400gr jumari măcinate, 2 gălbenușuri, 30gr drojdie crescuta, bicarbonat stins, 2lg apă cu oțet, sare, 100gr smântână, ou pt uns, chimen",
@@ -95,6 +103,7 @@
     "src": "images/t-9.jpg",
     "alt": "Petre Roman",
     "title": "Petre Roman",
+    "type": "cakes",
     "ingredients": [
       "Petre Roman foi: 9 albușuri, 18lg zahăr, 9 gălbenușuri, 1lg apă, 9lg făina, 9lg nucă măcinată, bicarbonat",
       "Petre Roman crema 1: 1 cană zahăr, putin unt",
@@ -106,6 +115,7 @@
     "src": "images/t-10.jpg",
     "alt": "Katy + Lamaita",
     "title": "Katy + Lamaita",
+    "type": "cakes",
     "ingredients": [
       "Katy foi: 180gr margarină, 150gr zahăr, 500gr făina, 2 gălbenușuri, 200ml lapte, bicarbonat",
       "Katy crema: 2-3lg gem, 1lg cacao, 1 pachet unt, rom, putin lapte caldut",
@@ -118,6 +128,7 @@
     "src": "images/t-11.jpg",
     "alt": "Fursecuri + Tort foarte fin",
     "title": "Fursecuri + Tort foarte fin",
+    "type": "cakes",
     "ingredients": [
       "Fursecuri: 300gr unt, 300gr făina, 8 gălbenușuri, 250gr zahăr praf",
       "Fursecuri crema: 200gr unt, 200gr zahăr praf, cacao, nucă măcinată",
@@ -129,6 +140,7 @@
     "src": "images/t-12.jpg",
     "alt": "Tort Trunchi de copac",
     "title": "Tort Trunchi de copac",
+    "type": "cakes",
     "ingredients": [
       "Tort Trunchi de copac blat: 8 ouă, 7lg zahăr, 1lg făina, 150gr nucă măcinată, bicarbonat",
       "Tort Trunchi de copac crema: 250gr unt, 100gr nuci, 4 ouă, 200gr zahăr, 3lg cacao"
@@ -138,522 +150,623 @@
     "src": "images/t-13.jpg",
     "alt": "Tort Indiana + Tort de zahăr ars",
     "title": "Tort Indiana + Tort de zahăr ars",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-14.jpg",
     "alt": "Zerbo",
     "title": "Zerbo",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-15.jpg",
     "alt": "Prăjitură cu mar + Cer si nori",
     "title": "Prăjitură cu mar + Cer si nori",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-16.jpg",
     "alt": "Lizer + Cornulețe cu gem",
     "title": "Lizer + Cornulețe cu gem",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-17.jpg",
     "alt": "Tochio + Ciocolată de casă",
     "title": "Tochio + Ciocolată de casă",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-18.jpg",
     "alt": "Ștrudel + Prăjitură Maia",
     "title": "Ștrudel + Prăjitură Maia",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-19.jpg",
     "alt": "Sărățele + Turtite cu miere + Tăvălită",
     "title": "Sărățele + Turtite cu miere + Tăvălită",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-20.jpg",
     "alt": "Rumba + Crema pentru Cremeș",
     "title": "Rumba + Crema pentru Cremeș",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-21.jpg",
     "alt": "Rulouri + Prăjitură Săracului",
     "title": "Rulouri + Prăjitură Săracului",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-22.jpg",
     "alt": "Regina Maria + Crema de zahăr Ars",
     "title": "Regina Maria + Crema de zahăr Ars",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-23.jpg",
     "alt": "Diplomat + Steaua",
     "title": "Diplomat + Steaua",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-24.jpg",
     "alt": "Ruladă de Miere + Prăjitură cu Biscuiți",
     "title": "Ruladă de Miere + Prăjitură cu Biscuiți",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-25.jpg",
     "alt": "Tort de mere + Lenea Cucoanei",
     "title": "Tort de mere + Lenea Cucoanei",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-26.jpg",
     "alt": "Savarine",
     "title": "Savarine",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-27.jpg",
     "alt": "Foi albiene + Tarta de fructe",
     "title": "Foi albiene + Tarta de fructe",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-28.jpg",
     "alt": "Cornulețe in două culori + Pișcoturi prin masina",
     "title": "Cornulețe in două culori + Pișcoturi prin masina",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-29.jpg",
     "alt": "Minciunele + Tort cos de gunoi",
     "title": "Minciunele + Tort cos de gunoi",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-30.jpg",
     "alt": "Prăjitură Betica cu Stafide",
     "title": "Prăjitură Betica cu Stafide",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-31.jpg",
     "alt": "Prăjitură Bonti cu Cocos + Negreasa",
     "title": "Prăjitură Bonti cu Cocos + Negreasa",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-32.jpg",
     "alt": "Chec cu almendre + Rozete cu Mac",
     "title": "Chec cu almendre + Rozete cu Mac",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-33.jpg",
     "alt": "Papanași",
     "title": "Papanași",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-34.jpg",
     "alt": "Cozonac + Opincute cu brânză",
     "title": "Cozonac + Opincute cu brânză",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-35.jpg",
     "alt": "Flan + Prăjitură Tosca",
     "title": "Flan + Prăjitură Tosca",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-36.jpg",
     "alt": "Chec cu Cireșe + Prăjitură cu Cireșe",
     "title": "Chec cu Cireșe + Prăjitură cu Cireșe",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-37.jpg",
     "alt": "Rafaelo + Pastă de zahăr",
     "title": "Rafaelo + Pastă de zahăr",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-38.jpg",
     "alt": "Pastă de Lapte Praf + Pastă de Ciocolată + Tort Kinder",
     "title": "Pastă de Lapte Praf + Pastă de Ciocolată + Tort Kinder",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-39.jpg",
     "alt": "Sărățele fragede",
     "title": "Sărățele fragede",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-40.jpg",
     "alt": "Tort Barby",
     "title": "Tort Barby",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-41.jpg",
     "alt": "Felie de lapte",
     "title": "Felie de lapte",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-42.jpg",
     "alt": "Prăjitură cu crema de Ciocolată",
     "title": "Prăjitură cu crema de Ciocolată",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-43.jpg",
     "alt": "Prăjitură cu brânză si Stafide",
     "title": "Prăjitură cu brânză si Stafide",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-44.jpg",
     "alt": "Prăjitură cu Cioc si frișcă",
     "title": "Prăjitură cu Cioc si frișcă",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-45.jpg",
     "alt": "Kurtos + Glazura de Ciocolată",
     "title": "Kurtos + Glazura de Ciocolată",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-46.jpg",
     "alt": "Fursecuri cu unt",
     "title": "Fursecuri cu unt",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-47.jpg",
     "alt": "Fursecuri Ovis Molis + Fursecuri cu nucă si cioc",
     "title": "Fursecuri Ovis Molis + Fursecuri cu nucă si cioc",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-48.jpg",
     "alt": "Fursecuri Ciocolată",
     "title": "Fursecuri Ciocolată",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-49.jpg",
     "alt": "Muffins cu fructe rosii",
     "title": "Muffins cu fructe rosii",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-50.jpg",
     "alt": "Glazura alba, Prăjitură Snikars",
     "title": "Glazura alba, Prăjitură Snikars",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-51.jpg",
     "alt": "Prăjitură Snikars...",
     "title": "Prăjitură Snikars...",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-52.jpg",
     "alt": "Crema de lămâie + Negreasa",
     "title": "Crema de lămâie + Negreasa",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-53.jpg",
     "alt": "Glazura de lămâie + Chec cu martipan, mac si galzura lămâie",
     "title": "Glazura de lămâie + Chec cu martipan, mac si galzura lămâie",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-54.jpg",
     "alt": "Pastă de Nubes",
     "title": "Pastă de Nubes",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-55.jpg",
     "alt": "Blat de Bezea + Crema de Cocos pt Tort + Magdalene",
     "title": "Blat de Bezea + Crema de Cocos pt Tort + Magdalene",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-56.jpg",
     "alt": "Briose cu Cocos + Briose cu Fulgi de Ciocolată",
     "title": "Briose cu Cocos + Briose cu Fulgi de Ciocolată",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-57.jpg",
     "alt": "Briose cu Stafide + Melcisiori cu nucă",
     "title": "Briose cu Stafide + Melcisiori cu nucă",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-58.jpg",
     "alt": "Baigli cu Mac Unguresti + Briose Pufoase + Briose Pufoase de Ciocolată cu Crema Ciocolată",
     "title": "Baigli cu Mac Unguresti + Briose Pufoase + Briose Pufoase de Ciocolată cu Crema Ciocolată",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-59.jpg",
     "alt": "Briose americane",
     "title": "Briose americane",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-60.jpg",
     "alt": "Briose asortate + Tort de Portocale",
     "title": "Briose asortate + Tort de Portocale",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-61.jpg",
     "alt": "Tort de Portocale...",
     "title": "Tort de Portocale...",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-62.jpg",
     "alt": "Coca lămâie + Prăjitură Sofia",
     "title": "Coca lămâie + Prăjitură Sofia",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-63.jpg",
     "alt": "Prăjitură Sofia...",
     "title": "Prăjitură Sofia...",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-64.jpg",
     "alt": "Crema de Vanilie si Visine + Caramele",
     "title": "Crema de Vanilie si Visine + Caramele",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-65.jpg",
     "alt": "Savarine",
     "title": "Savarine",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-66.jpg",
     "alt": "Gofre + Indiene",
     "title": "Gofre + Indiene",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-67.jpg",
     "alt": "Prăjitură cu Cireșe + Prăjitură cu Gem si Glazura alba",
     "title": "Prăjitură cu Cireșe + Prăjitură cu Gem si Glazura alba",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-68.jpg",
     "alt": "Prăjitură cu Mac si Glazura Ciocolată + Tort Biscuiți cu Crema Iaurt si Caramel",
     "title": "Prăjitură cu Mac si Glazura Ciocolată + Tort Biscuiți cu Crema Iaurt si Caramel",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-69.jpg",
     "alt": "Tort Biscuiți cu Crema Iaurt si Caramel...",
     "title": "Tort Biscuiți cu Crema Iaurt si Caramel...",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-70.jpg",
     "alt": "Prăjitură Fantezie + Pajitura cu Visine",
     "title": "Prăjitură Fantezie + Pajitura cu Visine",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-71.jpg",
     "alt": "Ruladă de Napolitana cu Cocos si Caramel",
     "title": "Ruladă de Napolitana cu Cocos si Caramel",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-72.jpg",
     "alt": "Chec Marmolat",
     "title": "Chec Marmolat",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-73.jpg",
     "alt": "Placinta Crescuta a la Doina",
     "title": "Placinta Crescuta a la Doina",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-74.jpg",
     "alt": "Sărățele Stana + Cake Pops",
     "title": "Sărățele Stana + Cake Pops",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-75.jpg",
     "alt": "Cuiburi cu nucă, mac, cioco",
     "title": "Cuiburi cu nucă, mac, cioco",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-76.jpg",
     "alt": "Prăjitură Imperial",
     "title": "Prăjitură Imperial",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-77.jpg",
     "alt": "Tort Diplomat cu Pișcoturi",
     "title": "Tort Diplomat cu Pișcoturi",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-78.jpg",
     "alt": "Tort Diplomat cu Pișcoturi",
     "title": "Tort Diplomat cu Pișcoturi",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-79.jpg",
     "alt": "Petre Roman",
     "title": "Petre Roman",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-80.jpg",
     "alt": "Cozonac Bontea",
     "title": "Cozonac Bontea",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-81.jpg",
     "alt": "Coliva",
     "title": "Coliva",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-82.jpg",
     "alt": "Cornulețe Crocante + Cornulețe cu gem si nucă",
     "title": "Cornulețe Crocante + Cornulețe cu gem si nucă",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-83.jpg",
     "alt": "Tort cu Mere Intregi",
     "title": "Tort cu Mere Intregi",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-84.jpg",
     "alt": "Caramel Sărat + Cozonac Jamila",
     "title": "Caramel Sărat + Cozonac Jamila",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-85.jpg",
     "alt": "Fursecuri Crăpate cu Ciocolată",
     "title": "Fursecuri Crăpate cu Ciocolată",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-86.jpg",
     "alt": "Cornuri Lavinia + Rafaelo(bomboane)",
     "title": "Cornuri Lavinia + Rafaelo(bomboane)",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-87.jpg",
     "alt": "Prăjitură Marte",
     "title": "Prăjitură Marte",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-88.jpg",
     "alt": "Cozonac Lavinia",
     "title": "Cozonac Lavinia",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-89.jpg",
     "alt": "Tăvălită",
     "title": "Tăvălită",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-90.jpg",
     "alt": "Tarta Tatin cu Mere",
     "title": "Tarta Tatin cu Mere",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-91.jpg",
     "alt": "Tort Ralaelo",
     "title": "Tort Ralaelo",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-92.jpg",
     "alt": "Ciocolată de casă",
     "title": "Ciocolată de casă",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-93.jpg",
     "alt": "Mucenici",
     "title": "Mucenici",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-94.jpg",
     "alt": "Crema Fructe Pădure",
     "title": "Crema Fructe Pădure",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-95.jpg",
     "alt": "Dantelă de zahăr pt Tort + Colaci Japonezi",
     "title": "Dantelă de zahăr pt Tort + Colaci Japonezi",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-96.jpg",
     "alt": "Chec cu Iaurt si lămâie Bontea",
     "title": "Chec cu Iaurt si lămâie Bontea",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-97.jpg",
     "alt": "Mucenici + Prăjitură cu nucă si Caramel",
     "title": "Mucenici + Prăjitură cu nucă si Caramel",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-99.jpg",
     "alt": "Tort Ciocolată si Fructe de Pădure",
     "title": "Tort Ciocolată si Fructe de Pădure",
+    "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-99.jpg",
     "alt": "Tort Ciocolată si Fructe de Pădure...",
     "title": "Tort Ciocolată si Fructe de Pădure...",
+    "type": "cakes",
+    "ingredients": ["", ""]
+  },
+  {
+    "src": "images/i-1.jpg",
+    "alt": "Inghetate",
+    "title": "Inghetate",
+    "type": "iceCreams",
+    "ingredients": ["", ""]
+  },
+  {
+    "src": "images/m-1.jpg",
+    "alt": "Sfaturi practice",
+    "title": "Sfaturi practice",
+    "type": "mains",
     "ingredients": ["", ""]
   }
 ]
