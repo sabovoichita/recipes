@@ -14,8 +14,8 @@ function createHeader() {
       <span class="w3-margin-right">Filter:</span> 
       <button class="w3-button w3-black" id = "all">ALL</button>
       <button class="w3-button w3-white" id="cakes">🎂 Cakes</button>
-      <button class="w3-button w3-white w3-hide-small" id='iceCream'>🍨 Ice creams</button>
-      <button class="w3-button w3-white w3-hide-small" id="mains">🍽 Main</button>
+      <button class="w3-button w3-white" id='iceCream'>🍨 Ice creams</button>
+      <button class="w3-button w3-white" id="mains">🍽 Main</button>
     </div>
     </div>
   </header>
@@ -51,7 +51,7 @@ function createSidebar() {
 
 function createOverlay() {
   return `
-    <div class="w3-light-grey w3-content" style="max-width: 1600px">
+    <div class="w3 w3-content" style="max-width: 1600px">
     <!-- Overlay effect when opening sidebar on small screens -->
     <div
       class="w3-overlay w3-hide-large w3-animate-opacity"

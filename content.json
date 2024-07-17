@@ -768,5 +768,121 @@
     "title": "Sfaturi practice",
     "type": "mains",
     "ingredients": ["", ""]
+  },
+  {
+    "src": "images/m-2.jpg",
+    "alt": "Sfaturi practice",
+    "title": "Sfaturi practice",
+    "type": "mains",
+    "ingredients": ["", ""]
+  },
+  {
+    "src": "images/m-3.jpg",
+    "alt": "Sfaturi practice",
+    "title": "Sfaturi practice",
+    "type": "mains",
+    "ingredients": ["", ""]
+  },
+  {
+    "src": "images/m-4.jpg",
+    "alt": "Măsuri, Salate, Aperitive, Sosuri Reci și Calde",
+    "title": "Măsuri, Salate, Aperitive, Sosuri Reci și Calde",
+    "type": "mains",
+    "ingredients": [
+      "1.Salată de varză roșie",
+      "2.Salată de varză albă",
+      "3.Salata de ridichi de lună"
+    ]
+  },
+  {
+    "src": "images/m-5.jpg",
+    "alt": "Salate",
+    "title": "Salate",
+    "type": "mains",
+    "ingredients": [
+      "4.Salată de țelină cu mere",
+      "5.Salată de fasole boabe",
+      "6.Salată de ardei copți 1",
+      "7.Salată de ardei copți 2",
+      "8.Salată de fasole boabe",
+      "9.Salata de ardei prăjiți",
+      "10.Salată de gogoșari copți",
+      "11.Salată de vinete",
+      "12.Salata de vinete prăjite",
+      "13.Salata de dovlecei 1"
+    ]
+  },
+  {
+    "src": "images/m-6.jpg",
+    "alt": "Salate",
+    "title": "Salate",
+    "type": "mains",
+    "ingredients": [
+      "14.Salată de dovlecei 2",
+      "15.Salată de praz",
+      "16.Salată de fasole verde",
+      "17.Salată de conopidă",
+      "18.Salată de cartofi 1",
+      "19.Salata de cartofi 2",
+      "20.Vinegretă 1",
+      "21.Vinegretă 2"
+    ]
+  },
+  {
+    "src": "images/m-7.jpg",
+    "alt": "Salate",
+    "title": "Salate",
+    "type": "mains",
+    "ingredients": [
+      "22.Salată de scrumbii sărate cu ceapă",
+      "23.Salată de icre din scrumbii sărate",
+      "24.Salată de creier 1",
+      "25.Salată de creier 2",
+      "26.Salată de boeuf",
+      "27.Salata 'Sănătate'"
+    ]
+  },
+  {
+    "src": "images/m-8.jpg",
+    "alt": "Salate + Aperitive",
+    "title": "Salate + Aperitive",
+    "type": "mains",
+    "ingredients": [
+      "28.Salată 'Primăvara'",
+      "29.Salată 'Vitamina'",
+      "30.Ouă umplute 1",
+      "31.Ouă umplute 2",
+      "32.Ouă umplute cu muștar",
+      "33.Ouă umplute cu maioneză"
+    ]
+  },
+  {
+    "src": "images/m-9.jpg",
+    "alt": "Salate",
+    "title": "Salate",
+    "type": "mains",
+    "ingredients": [
+      "34.Ouă umplute cu brânză",
+      "35.Ouă umplute cu sos de smântână 1",
+      "36.Ouă umplute cu sos de smântână 2",
+      "37.Ouă umplute cu pastă de pește",
+      "38.Pâine mozaic"
+    ]
+  },
+  {
+    "src": "images/m-10.jpg",
+    "alt": "Salate",
+    "title": "Salate",
+    "type": "mains",
+    "ingredients": [
+      "39.Roșii umplute cu brânză",
+      "40.Roșii umplute cu zarzavat",
+      "41.Roșii umplute cu vinete",
+      "42.Roșii umplute cu ciuperci",
+      "43.Ardei grași umpluți cu brânză",
+      "44.Cornuri cu brânză",
+      "45.Cornuri cu crenvurști",
+      "46.Chifle umplute"
+    ]
   }
 ]
