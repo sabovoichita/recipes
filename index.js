@@ -380,14 +380,14 @@ function addEventListeners(images) {
 function createPhotoBook() {
   return `
     <div id="magazine">
-      <div style="background-image: url(images/logo.png)"><h3>Recepies</h3></div>
+      <div style="background-image: url(images/logo.png)"><h3>Start</h3></div>
       <div style="background-image: url(images/1.jpg)"><h3>Golda's cookies</h3></div>
       <div style="background-image: url(images/2.jpg)"><h3>Clafoutis</h3></div>
       <div style="background-image: url(images/3.jpg)"><h3>Cupcakes-Tăvălită</h3></div>
       <div style="background-image: url(images/4.jpg)"><h3>Biscuits Cake</h3></div>
       <div style="background-image: url(images/5.jpg)"><h3>Carrot Cake</h3></div>
       <div style="background-image: url(images/6.jpg)"><h3>Brânzoici</h3></div>
-      <div style="background-image: url(images/logo.png)"><h3>Recepies</h3></div>
+      <div style="background-image: url(images/logo.png)"><h3>End</h3></div>
     </div>
     `;
 }
