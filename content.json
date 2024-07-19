@@ -1144,7 +1144,152 @@
     ]
   },
   {
-    "src": "images/logo.png",
+    "src": "images/m-11.jpg",
+    "alt": "Aperitive",
+    "title": "Aperitive",
+    "type": "mains",
+    "ingredients": [
+      "47.Cornute de parizer umplute",
+      "48.Cupe de parizer umplute cu legume",
+      "49.Urdă cu mărar",
+      "50.Brânză cu chimen",
+      "51.Pastă de parizer",
+      "52.Coșulețe umplute cu salată de boeuf"
+    ]
+  },
+  {
+    "src": "images/m-12.jpg",
+    "alt": "Aperitive",
+    "title": "Aperitive",
+    "type": "mains",
+    "ingredients": [
+      "53.Pastă de fiat copt",
+      "54.Pateu de ficat de pasăre",
+      "55.Ciuperci umplute cu creier",
+      "56.Pateu de ficat cu ciuperci",
+      "57.Ciuperci în gelatină",
+      "58.Ciuperci umplute cu maioneză"
+    ]
+  },
+  {
+    "src": "images/m-13.jpg",
+    "alt": "Aperitive",
+    "title": "Aperitive",
+    "type": "mains",
+    "ingredients": [
+      "59.Ciuperci umplute cu brânză de vacă",
+      "60.Ciuperci umplute cu brânză de oi",
+      "61.Ciuperci umplute cu carne",
+      "62.Biftec tartar",
+      "63.Pastă de heringi cu mere",
+      "64.Pastă de heringi cu nuci"
+    ]
+  },
+  {
+    "src": "images/m-14.jpg",
+    "alt": "Aperitive",
+    "title": "Aperitive",
+    "type": "mains",
+    "ingredients": [
+      "65.Chifteluțe din hringi sau scrumbii sărate",
+      "66.Ciuperci pe frigănele",
+      "67.Creier în gelatină",
+      "68.Piftie de porc"
+    ]
+  },
+  {
+    "src": "images/m-15.jpg",
+    "alt": "Aperitive",
+    "title": "Aperitive",
+    "type": "mains",
+    "ingredients": [
+      "69.Piftie de pasăre",
+      "70.Piftie de pește",
+      "71.Fasole boabe cu maioneză",
+      "72.Fasole păstăi cu maioneză",
+      "73.Țelină cu maioneză",
+      "74.Farsmac"
+    ]
+  },
+  {
+    "src": "images/m-16.jpg",
+    "alt": "Aperitive + Unt pentru sandvișuri",
+    "title": "Aperitive + Unt pentru sandvișuri",
+    "type": "mains",
+    "ingredients": [
+      "75.Perișoare cu șvaițer",
+      "76.Cașcaval la capac(pt 1 pers)",
+      "77.Cașcaval panè(pt 1 pers)",
+      "78.Unt cu rocfort",
+      "79.Unt cu muștar",
+      "80.Unt cu raci",
+      "81.Unt cu sardele",
+      "82.Unt cu beringi",
+      "83.Unt galben",
+      "84.Unt verde"
+    ]
+  },
+  {
+    "src": "images/m-17.jpg",
+    "alt": "Unt pentru sandvișuri + Sosuri reci și calde",
+    "title": "Unt pentru sandvișuri + Sosuri reci și calde",
+    "type": "mains",
+    "ingredients": [
+      "85.Unt negru",
+      "86.Unt roz",
+      "87.Maioneză",
+      "88.Sos de unt cu gălbenuș",
+      "89.Sos de hrean cu smântână",
+      "90.Sos de muștar cu smântână",
+      "91.Sos de roșii",
+      "92.Sos de tarhon 1",
+      "93.Sos de tarhon 2",
+      "94.Sos de castraveți"
+    ]
+  },
+  {
+    "src": "images/m-18.jpg",
+    "alt": "Sosuri reci și calde",
+    "title": "Sosuri reci și calde",
+    "type": "mains",
+    "ingredients": [
+      "95.Sos de ceapă",
+      "96.Sos de lapte(Bechamel)",
+      "97.Sos de ciuperci",
+      "98.Sos de anason",
+      "99.Sos de smântână",
+      "100.Sos de ou 1",
+      "101.Sos de ou 2",
+      "102.Sos de ou 3"
+    ]
+  },
+  {
+    "src": "images/m-19.jpg",
+    "alt": "Sosuri reci și calde + Budinci sărate",
+    "title": "Sosuri reci și calde + Budinci sărate",
+    "type": "mains",
+    "ingredients": [
+      "103.Sos de usturoi",
+      "104.Budincă de cartofi cu carne",
+      "105.Budincă de cartofi cu brânză"
+    ]
+  },
+  {
+    "src": "images/m-20.jpg",
+    "alt": "Budinci sărate",
+    "title": "Budinci sărate",
+    "type": "mains",
+    "ingredients": [
+      "106.Budină de carne",
+      "107.Budincă de pește",
+      "108.Budincă de raci",
+      "109.Budincă de macaroane cu șuncă",
+      "110.Budincă de macaroane cu brânză",
+      "111.Budincă de cartofi cu carne"
+    ]
+  },
+  {
+    "src": "images/logo.",
     "alt": "logo",
     "title": "logo",
     "type": "none",
