@@ -39,10 +39,10 @@ function createSidebar() {
     
     <ul class="w3-text-grey">
     <li id="all1">ALL</li>
-    <li id="cakes1">Cakes</li>
-    <li id="iceCreams1">IceCreams</li>
-    <li id="mains1">Main</li>
-    <li id="mixed1">Mixed</li>
+    <li id="cakes1">🎂 Cakes</li>
+    <li id="iceCreams1">🍨 IceCreams</li>
+    <li id="mains1">🍽 Main</li>
+    <li id="mixed1">🍴Mixed</li>
     </ul></a> 
     <a href="#about" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-user fa-fw w3-margin-right"></i>ABOUT</a> 
     <a href="#contact" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-envelope fa-fw w3-margin-right"></i>CONTACT</a>
