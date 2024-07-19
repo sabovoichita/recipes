@@ -12,9 +12,9 @@ function createHeader() {
     <h1><b>Voichița's Recepies</b></h1>
     <div class="w3-section w3-bottombar w3-padding-16">
       <span class="w3-margin-right">Filter:</span> 
-      <button class="w3-button w3-black" id = "all">ALL</button>
+      <button class="w3-button w3-black" id="all">ALL</button>
       <button class="w3-button w3-white" id="cakes">🎂 Cakes</button>
-      <button class="w3-button w3-white" id='iceCream'>🍨 Ice creams</button>
+      <button class="w3-button w3-white" id="iceCreams">🍨 Ice creams</button>
       <button class="w3-button w3-white" id="mains">🍽 Main</button>
       <button class="w3-button w3-white" id="mixed">🍴 Mixed</button>
     </div>
@@ -31,13 +31,19 @@ function createSidebar() {
     <a href="#" onclick="w3_close()" class="w3-hide-large w3-right w3-jumbo w3-padding w3-hover-grey" title="close menu">
       <i class="fa fa-remove"></i>
     </a>
-    <img src="images/logo.png" style="width:90%;" class="w3-round"><br><br>
-    <h4><b>Recepies</b></h4>
-    <p class="w3-text-grey">...</p>
+    <img src="images/logo.png" style="width:90%;width:65px; height:65px;" class="w3-circle"><br><br>
+    
   </div>
   <div class="w3-bar-block">
     <a href="#portfolio" onclick="w3_close()" class="w3-bar-item w3-button w3-padding w3-text-teal"><i class="fa fa-th-large fa-fw w3-margin-right"></i>RECEPIES
-    </a> 
+    
+    <ul class="w3-text-grey">
+    <li id="all1">ALL</li>
+    <li id="cakes1">Cakes</li>
+    <li id="iceCreams1">IceCreams</li>
+    <li id="mains1">Main</li>
+    <li id="mixed1">Mixed</li>
+    </ul></a> 
     <a href="#about" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-user fa-fw w3-margin-right"></i>ABOUT</a> 
     <a href="#contact" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-envelope fa-fw w3-margin-right"></i>CONTACT</a>
   </div>
@@ -331,7 +337,7 @@ function addEventListeners(images) {
     // console.log("You clicked 🎂");
     injectImages(images, "cakes");
   });
-  document.querySelector("#iceCream").addEventListener("click", function () {
+  document.querySelector("#iceCreams").addEventListener("click", function () {
     // console.log("You clicked 🍨");
     injectImages(images, "iceCreams");
   });
@@ -346,7 +352,27 @@ function addEventListeners(images) {
   document.querySelector("#mixed").addEventListener("click", function () {
     console.log("You clicked mixed");
     injectImages(images, "none");
-
+    // turnFoto();
+  });
+  document.querySelector("#cakes1").addEventListener("click", function () {
+    // console.log("You clicked 🎂");
+    injectImages(images, "cakes");
+  });
+  document.querySelector("#iceCreams1").addEventListener("click", function () {
+    // console.log("You clicked 🍨");
+    injectImages(images, "iceCreams");
+  });
+  document.querySelector("#mains1").addEventListener("click", function () {
+    // console.log("You clicked 🍽");
+    injectImages(images, "mains");
+  });
+  document.querySelector("#all1").addEventListener("click", function () {
+    // console.log("You clicked ALL");
+    injectImages(images);
+  });
+  document.querySelector("#mixed1").addEventListener("click", function () {
+    console.log("You clicked mixed");
+    injectImages(images, "none");
     // turnFoto();
   });
 }

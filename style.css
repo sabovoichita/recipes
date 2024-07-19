@@ -92,6 +92,10 @@ nav,
 section {
   display: block;
 }
+
+w3-container img {
+  border-radius: 50%;
+}
 summary {
   display: list-item;
 }
@@ -933,6 +937,7 @@ a {
 .w3-display-position {
   position: absolute;
 }
+
 .w3-circle {
   border-radius: 50%;
 }
@@ -1547,6 +1552,21 @@ a {
 .w3-hover-text-gray:hover {
   color: #757575 !important;
 }
+
+ul.w3-text-grey {
+  list-style: circle;
+  padding-left: -4px;
+}
+
+ul.w3-text-grey li {
+  margin: 10px;
+  cursor: pointer;
+}
+ul.w3-text-grey li:hover {
+  background-color: #757575;
+  color: #fff;
+}
+
 .w3-text-light-grey,
 .w3-hover-text-light-grey:hover,
 .w3-text-light-gray,
