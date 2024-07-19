@@ -1289,6 +1289,151 @@
     ]
   },
   {
+    "src": "images/m-21.jpg",
+    "alt": "Budinci sărate",
+    "title": "Budinci sărate",
+    "type": "mains",
+    "ingredients": [
+      "112.Budină de șuncă",
+      "113.Budincă de creier 1",
+      "114.Budincă de creier 2",
+      "115.Budincă de ficat",
+      "116.Budincă de carne de iepure",
+      "117.Budincă de clătite cu brânză"
+    ]
+  },
+  {
+    "src": "images/m-22.jpg",
+    "alt": "Budinci sărate + Sufleuri sărate",
+    "title": "Budinci sărate + Sufleuri sărate",
+    "type": "mains",
+    "ingredients": [
+      "118.Budină de clătite cu spanac",
+      "119.Budincă de sparanghel",
+      "120.Budincă de ciuperci",
+      "121.Budincă de fasole verde",
+      "122.Sufleu de parmezan 1",
+      "123.Budincă de parmezan 2"
+    ]
+  },
+  {
+    "src": "images/m-23.jpg",
+    "alt": "Sufleuri sărate",
+    "title": "Sufleuri sărate",
+    "type": "mains",
+    "ingredients": [
+      "124.Sufleu de fasole verde",
+      "125.Sufleu de dovlecei",
+      "126.Sufleu de spanac cu parmezan",
+      "127.Sufleu de spanac cu șuncă",
+      "128.Sufleu de mazăre verde"
+    ]
+  },
+  {
+    "src": "images/m-24.jpg",
+    "alt": "Supe de legume",
+    "title": "Supe de legume",
+    "type": "mains",
+    "ingredients": [
+      "129.Supă de zarzavat cu smântână",
+      "130.Supă de zarzavat 1",
+      "131.Supă de zarzavat 2",
+      "132.Supă de sfeclă",
+      "133.Supă de conopidă",
+      "134.Supă de roșii 1"
+    ]
+  },
+  {
+    "src": "images/m-25.jpg",
+    "alt": "Supe de legume",
+    "title": "Supe de legume",
+    "type": "mains",
+    "ingredients": [
+      "135.Supă de roșii 1",
+      "136.Supa de cartofi(cremă)",
+      "137.Supă de spanac(cremă)",
+      "138.Supă de morcovi(cremă)",
+      "139.Supă de fasole boabe(cremă)",
+      "140.Supă de mazăre uscată(cremă)",
+      "141.Supă de mazăre uscată cu smântână"
+    ]
+  },
+  {
+    "src": "images/m-26.jpg",
+    "alt": "Supe de legume + Supe de carne",
+    "title": "Supe de legume + Supe de carne",
+    "type": "mains",
+    "ingredients": [
+      "142.Supă de gulii",
+      "143.Supă de ciuperci",
+      "144.Supă de linte",
+      "145.Supă de chimen",
+      "146.Supă de carne de vacă",
+      "147.Supă de pasăre",
+      "148.Supă de tăiței de casă"
+    ]
+  },
+  {
+    "src": "images/m-27.jpg",
+    "alt": "Supe de carne",
+    "title": "Supe de carne",
+    "type": "mains",
+    "ingredients": [
+      "149.Supă de orez",
+      "150.Supă de găluște cu griș",
+      "151.Supă de zdrențe",
+      "152.Supă de omletă",
+      "153.Supă de orez și smântână",
+      "154.Supă à la grec",
+      "155.Supă de brânză",
+      "156.Supă cu pateuri de carne"
+    ]
+  },
+  {
+    "src": "images/m-28.jpg",
+    "alt": "Ciorbe și borșuri de legume",
+    "title": "Ciorbe și borșuri de legume",
+    "type": "mains",
+    "ingredients": [
+      "157.Borș de dovlecei",
+      "158.Borș de fasole verde",
+      "159.Borș de fasole boabe",
+      "160.Borș de ștevie",
+      "161.Borș de ciuperci",
+      "162.Borș de lobodă"
+    ]
+  },
+  {
+    "src": "images/m-29.jpg",
+    "alt": "Ciorbe și borșuri de legume",
+    "title": "Ciorbe și borșuri de legume",
+    "type": "mains",
+    "ingredients": [
+      "163.Borș de urzici",
+      "164.Borș de varză dulce",
+      "165.Ciorbă de fasole verde",
+      "166.Ciorbă de varză acră",
+      "167.Ciorbă de cartofi",
+      "168.Ciorbă de rusească fără carne",
+      "169.Ciorbă de salată "
+    ]
+  },
+  {
+    "src": "images/m-30.jpg",
+    "alt": "Ciorbe și borșuri de carne",
+    "title": "Ciorbe și borșuri de carne",
+    "type": "mains",
+    "ingredients": [
+      "170.Ciorbă rusească de carne",
+      "171.Borș de perișoare",
+      "172.Borș de vițel",
+      "173.Borș de dovlecei umpluți",
+      "174.Borș de miel",
+      "175.Borș de berbec"
+    ]
+  },
+
+  {
     "src": "images/logo.",
     "alt": "logo",
     "title": "logo",
