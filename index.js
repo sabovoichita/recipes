@@ -1,6 +1,6 @@
-function $(selector) {
-  return document.querySelector(selector);
-}
+// function $(selector) {
+//   return document.querySelector(selector);
+// }
 
 function createHeader() {
   return `
@@ -16,6 +16,7 @@ function createHeader() {
       <button class="w3-button w3-white" id="cakes">🎂 Cakes</button>
       <button class="w3-button w3-white" id='iceCream'>🍨 Ice creams</button>
       <button class="w3-button w3-white" id="mains">🍽 Main</button>
+      <button class="w3-button w3-white" id="mixed">🍴 Mixed</button>
     </div>
     </div>
   </header>
@@ -326,21 +327,61 @@ function injectImages(images, type) {
 }
 
 function addEventListeners(images) {
-  $("#cakes").addEventListener("click", function () {
+  document.querySelector("#cakes").addEventListener("click", function () {
     // console.log("You clicked 🎂");
     injectImages(images, "cakes");
   });
-  $("#iceCream").addEventListener("click", function () {
+  document.querySelector("#iceCream").addEventListener("click", function () {
     // console.log("You clicked 🍨");
     injectImages(images, "iceCreams");
   });
-  $("#mains").addEventListener("click", function () {
+  document.querySelector("#mains").addEventListener("click", function () {
     // console.log("You clicked 🍽");
     injectImages(images, "mains");
   });
-  $("#all").addEventListener("click", function () {
+  document.querySelector("#all").addEventListener("click", function () {
     // console.log("You clicked ALL");
     injectImages(images);
+  });
+  document.querySelector("#mixed").addEventListener("click", function () {
+    console.log("You clicked mixed");
+    injectImages(images, "none");
+
+    // turnFoto();
+  });
+}
+
+function createPhotoBook() {
+  return `
+    <div id="magazine">
+      <div style="background-image: url(images/logo.png)"><h3>Recepies</h3></div>
+      <div style="background-image: url(images/1.jpg)"><h3>Golda's cookies</h3></div>
+      <div style="background-image: url(images/2.jpg)"><h3>Clafoutis</h3></div>
+      <div style="background-image: url(images/3.jpg)"><h3>Cupcakes-Tăvălită</h3></div>
+      <div style="background-image: url(images/4.jpg)"><h3>Biscuits Cake</h3></div>
+      <div style="background-image: url(images/5.jpg)"><h3>Carrot Cake</h3></div>
+      <div style="background-image: url(images/6.jpg)"><h3>Brânzoici</h3></div>
+      <div style="background-image: url(images/logo.png)"><h3>Recepies</h3></div>
+    </div>
+    `;
+}
+
+function turnFoto() {
+  $("#magazine").turn({
+    display: "double",
+    acceleration: true,
+    gradients: !$.isTouch,
+    elevation: 50,
+    when: {
+      turned: function (e, page) {
+        // console.log("Current view: ", $(this).turn("view"));
+      },
+    },
+  });
+
+  $(window).bind("keydown", function (e) {
+    if (e.keyCode == 37) $("#magazine").turn("previous");
+    else if (e.keyCode == 39) $("#magazine").turn("next");
   });
 }
 
@@ -350,12 +391,14 @@ function initEvents() {
     createSidebar() +
     createOverlay() +
     createContent() +
+    createPhotoBook() +
     createPagination() +
     aboutMe() +
     contactSection() +
     createFooter();
-  //   console.log("loading images");
+
   loadImages();
-  //   addEventListeners();
+  turnFoto();
 }
+
 initEvents();
