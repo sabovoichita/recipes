@@ -1432,6 +1432,155 @@
       "175.Borș de berbec"
     ]
   },
+  {
+    "src": "images/m-31.jpg",
+    "alt": "Ciorbe și borșuri de carne + Ciorbe și borșuri de pește",
+    "title": "Ciorbe și borșuri de carne + Ciorbe și borșuri de pește",
+    "type": "mains",
+    "ingredients": [
+      "176.Ciorbă de potroace.",
+      "177.Borș de pui",
+      "178.Borș de crap",
+      "179.Borș de perișoare de pește",
+      "180.Ciorbă de pește cu zeamă de varză",
+      "181....."
+    ]
+  },
+  {
+    "src": "images/m-32.jpg",
+    "alt": "Mâncăruri de legume",
+    "title": "Mâncăruri de legume",
+    "type": "mains",
+    "ingredients": [
+      "182.Ghiveci de legume",
+      "183....",
+      "184.Fasole verde cu unt",
+      "185.Fasole verde cu unt și pesmet",
+      "186.Mazăre verde cu unt",
+      "187.Varză de Bruzelles cu unt",
+      "188.Legume asortate cu unt"
+    ]
+  },
+  {
+    "src": "images/m-33.jpg",
+    "alt": "Mâncăruri de legume",
+    "title": "Mâncăruri de legume",
+    "type": "mains",
+    "ingredients": [
+      "189.Legume asortate cu unt 2",
+      "190.Legume asortate cu unt 3",
+      "191.Varză dulce cu unt și pesmet",
+      "192.Conopidă cu unt și pesmet",
+      "193.Morcovi cu unt și smântână",
+      "194.Morcovi cu unt",
+      "195.Sfeclă cu unt și smântână"
+    ]
+  },
+  {
+    "src": "images/m-34.jpg",
+    "alt": "Mâncăruri de legume",
+    "title": "Mâncăruri de legume",
+    "type": "mains",
+    "ingredients": [
+      "196.Gulii cu unt și smântână",
+      "197.Țelină cu unt și smântână",
+      "198.Audive cu unt",
+      "199.Iahnie de cartofi",
+      "207.Mâncare de cartofi noi",
+      "208.Chifteluțe de cartofi",
+      "209.Chifteluțe cu cartofi umplute cu brânză",
+      "210.Chifteluțe de cartofi umplute cu varză acră",
+      "211.Chifteluțe umpluți cu cașcaval"
+    ]
+  },
+  {
+    "src": "images/m-35.jpg",
+    "alt": "Mâncăruri de legume",
+    "title": "Mâncăruri de legume",
+    "type": "mains",
+    "ingredients": [
+      "212.Ruladă de cartofi cu legume",
+      "213.Dovlecei în floare cu ulei",
+      "214.Dovlecei prăjiți în ulei",
+      "215.Dovlecei prăjiți cu smântână",
+      "216.Chifteluțe de dovlecei",
+      "217.Mâncare de dovlecei cu cartofi"
+    ]
+  },
+  {
+    "src": "images/m-36.jpg",
+    "alt": "Mâncăruri de legume",
+    "title": "Mâncăruri de legume",
+    "type": "mains",
+    "ingredients": [
+      "225.Fasole boabe preparată grecește",
+      "226.Fasole boabe bătută",
+      "227.Fasole verde sau țucără cu sos de roșii și măsline",
+      "228.Mazăre cu smântână",
+      "229.Mazăre pregătită țărănește",
+      "230.Mazăre cu roșii",
+      "231.Mazăre uscată bătută"
+    ]
+  },
+  {
+    "src": "images/m-37.jpg",
+    "alt": "Mâncăruri de legume",
+    "title": "Mâncăruri de legume",
+    "type": "mains",
+    "ingredients": [
+      "232.Vinete în smântână 1",
+      "233.Vinete în smântână 2",
+      "234.Pireu de vinete",
+      "235.Mâncare de vinete cu usturoi",
+      "236.Vinete preparate grecește",
+      "237.Mâncare de vinete preparată rusește"
+    ]
+  },
+  {
+    "src": "images/m-38.jpg",
+    "alt": "Mâncăruri de legume",
+    "title": "Mâncăruri de legume",
+    "type": "mains",
+    "ingredients": [
+      "238.Chifteluțe de vinete",
+      "239.Varză de Bruxelles cu smântână",
+      "240.Varză de Bruxelles la cuptor",
+      "241.Praz cu măsline",
+      "242.Pilaf de praz",
+      "243.Mâncare de praz",
+      "244.Conopidă cu parmezan"
+    ]
+  },
+  {
+    "src": "images/m-39.jpg",
+    "alt": "Mâncăruri de legume",
+    "title": "Mâncăruri de legume",
+    "type": "mains",
+    "ingredients": [
+      "245.Măncare de conopidă",
+      "246.Varză dulce călită",
+      "247.Varză acră călită",
+      "248.Chifteluțe de varză",
+      "249.Varză cu smântână",
+      "250.Bame preparate grecește",
+      "251.Mâncare de țelină"
+    ]
+  },
+  {
+    "src": "images/m-40.jpg",
+    "alt": "Mâncăruri de legume",
+    "title": "Mâncăruri de legume",
+    "type": "mains",
+    "ingredients": [
+      "252.Mâncare de țelină cu ciuperci",
+      "171.Măncare de gulii",
+      "172.Piure de gulii",
+      "173.Gulii umplute cu orez",
+      "174.Piureu de spanac cu ochiuri",
+      "175.Piureu de spanac cu ceapă",
+      "175.Ardei umpluți cu vinete"
+    ]
+  },
 
   {
     "src": "images/logo.",
