@@ -1016,8 +1016,235 @@
     "title": "Înghetată cu frișcă, nuci și ciocolată",
     "type": "iceCreams",
     "ingredients": [
-      "1kg smântînă, 250gr zahăr, 200gr miez nucă, 100gr ciocolata menaj sau amăruie, 1/2 fiolă esență vanilie"
+      "1kg smântână, 250gr zahăr, 200gr miez nucă, 100gr ciocolata menaj sau amăruie, 1/2 fiolă esență vanilie"
     ]
+  },
+  {
+    "src": "images/i-31.jpg",
+    "alt": "Desert Triple Chocolate cu ananas",
+    "title": "Desert Triple Chocolate cu ananas",
+    "type": "iceCreams",
+    "ingredients": [
+      "1 ananas, 8lingurițe zahăr, a cutie înghețată Triple Chocolate sau Stracciatella"
+    ]
+  },
+  {
+    "src": "images/i-32.jpg",
+    "alt": "Înghetată cu fulgi de cereale",
+    "title": "Înghetată cu fulgi de cereale",
+    "type": "iceCreams",
+    "ingredients": [
+      "200gr fulgi de cereale, 100gr miez de nucă, 100gr unt, 4 ouă, 100gr ciocolată, 1 fiolă esență de vanilie, câțiva biscuiți și fructe confiate pentru decor"
+    ]
+  },
+  {
+    "src": "images/i-33.jpg",
+    "alt": "Înghetată de alune cu ciocolată ",
+    "title": "Înghetată de alune cu ciocolată ",
+    "type": "iceCreams",
+    "ingredients": [
+      "150gr zahăr tos, 500ml lapte, 3 ouă, 100gr alune nesărate, o mână de smeură pentru decor, sos de ciocolată"
+    ]
+  },
+  {
+    "src": "images/i-34.jpg",
+    "alt": "Înghetată cu iaurt și fructe",
+    "title": "Înghetată cu iaurt și fructe",
+    "type": "iceCreams",
+    "ingredients": [
+      "200gr iaurt, 500gr fructe de sezon, 2lg miere, zeamă de la 1 lămâie, 200gr smântână, 100gr frișcă"
+    ]
+  },
+  {
+    "src": "images/i-35.jpg",
+    "alt": "Înghetată de zmeură",
+    "title": "Înghetată cu ",
+    "type": "iceCreams",
+    "ingredients": [
+      "250gr zmeură, 300gr zahăr pudră, 750ml lapte rece, 1lg zeamă de lămâie, sos de zmeură"
+    ]
+  },
+  {
+    "src": "images/i-36.jpg",
+    "alt": "Înghetată cu lapte și kiwi",
+    "title": "Înghetată cu lapte și kiwi",
+    "type": "iceCreams",
+    "ingredients": [
+      "6ouă, 400gr zahăr, 1l lapte, 100gr unt, 1/2 baton vanilie, 3-4kiwi, coaja rasă de la 1 lămâie verde, 50gr fistic prăjit si decojit"
+    ]
+  },
+  {
+    "src": "images/i-37.jpg",
+    "alt": "Salată de căpșune cu înghețată și fistic",
+    "title": "Salată de căpșune cu înghețată și fistic",
+    "type": "iceCreams",
+    "ingredients": [
+      "40 gr fistic crud decojit, 2lg zahăr, 500gr căpșune, 1 limetă(lămâie verde), 1/2 pachețel zahăr vanilat(sau baton de vanilie), puțin piper măcinat mare, 1 cutie înghețată Stracciatella, frunze de mentă pentru ornat"
+    ]
+  },
+  {
+    "src": "images/i-38.jpg",
+    "alt": "Înghetată cu rom",
+    "title": "Înghetată cu rom",
+    "type": "iceCreams",
+    "ingredients": [
+      "500ml frișcă lichidă sau 500gr smântână, 150gr zahăr pudră, 1 pliculeț ceai negru, 5 gălbenușuri, 50ml rom, câteva fructe proaspete și rulouri de napolitană, pt decor"
+    ]
+  },
+  {
+    "src": "images/i-39.jpg",
+    "alt": "Banana split",
+    "title": "Banana split",
+    "type": "iceCreams",
+    "ingredients": [
+      "2 banane, 150gr înghețata Caramel sau Vanilla, 50ml coniac, 50gr topping caramel"
+    ]
+  },
+  {
+    "src": "images/i-40.jpg",
+    "alt": "Înghetată cu brânză dulce și căpșune",
+    "title": "Înghetată cu brânză dulce și căpșune",
+    "type": "iceCreams",
+    "ingredients": [
+      "250gr brânză dulce, 150gr smântână, 150gr zahăr, 400gr căpșune"
+    ]
+  },
+  {
+    "src": "images/i-41.jpg",
+    "alt": "Parfe de zmeură cu bezele",
+    "title": "Parfe de zmeură cu bezele",
+    "type": "iceCreams",
+    "ingredients": [
+      "6albușuri, 1 cană zmeură, 300gr zahăr, 500ml frișcă lichidă, 5-6 bezele, câțiva biscuiți și țigarete pentru decor"
+    ]
+  },
+  {
+    "src": "images/i-42.jpg",
+    "alt": "Parfe de căpșune cu sos de portocale",
+    "title": "Parfe de căpșune cu sos de portocale",
+    "type": "iceCreams",
+    "ingredients": [
+      "500gr căpșune, 200gr zahăr, 4 gălbenușuri, 400ml frișcă lichidă, 2 portocale, 1lg rasă amidon"
+    ]
+  },
+  {
+    "src": "images/i-43.jpg",
+    "alt": "Parfe de căpșune cu fistic",
+    "title": "Parfe de căpșune cu fistic",
+    "type": "iceCreams",
+    "ingredients": [
+      "100gr zahăr tos, 100ml apă, 50gr fistic decojit și prăjit, 1lg ulei, 500gr căpșune, 100gr zahăr pudră, 400ml frișcă lichidă, 5 gălbenușuri, 1 plic zahăr vanilat"
+    ]
+  },
+  {
+    "src": "images/i-44.jpg",
+    "alt": "Shake",
+    "title": "Shake",
+    "type": "iceCreams",
+    "ingredients": [
+      "1 cutie înghețată Cremă de Mascarpone, 250ml lapte rece(1.5% grăsime), 250gr iaurt, 200ml frișcă, 50gr cireșe pt ornat"
+    ]
+  },
+  {
+    "src": "images/i-45.jpg",
+    "alt": "Smoothy de zmeură cu înghețată",
+    "title": "Smoothy de zmeură cu înghețată",
+    "type": "iceCreams",
+    "ingredients": [
+      "300gr zmeură, 1 cutie înghețată Crema di Mascarpone, 250ml lapte bătut, bine răcit, 1 linguriță coajă de lămâie rasă, frunze de mentă"
+    ]
+  },
+  {
+    "src": "images/i-46.jpg",
+    "alt": "Tort de înghețată cu vișine și ciocolată",
+    "title": "Tort de înghețată cu vișine și ciocolată",
+    "type": "iceCreams",
+    "ingredients": [
+      "1 blat de pandișpan din comerț, 5 ouă, 500ml lapte, 200gr smântână, 150gr zahăr, 200gr ciocolată amăruie, 500gr vișine"
+    ]
+  },
+  {
+    "src": "images/i-47.jpg",
+    "alt": "Tort de înghețată",
+    "title": "Tort de înghețată",
+    "type": "iceCreams",
+    "ingredients": [
+      "Blat: 500gr biscuiți mari,1 fiolă esență de rom, 2 ouă, 200gr unt, 100gr zahăr",
+      "Crema:500ml frișcă lichidă, 4 ouă, coajă și sucul de la 1 lămîie sau de la 1 portocală, 2 plicuri de zahăr vanilat, 100gr zahăr",
+      "Decor: 5lg frișcă(oprești din cantitatea pt cremă, 1 plic glazură de ciocolată, 5-6 căpșune mari)"
+    ]
+  },
+  {
+    "src": "images/i-48.jpg",
+    "alt": "Tort de înghețată cu pișcoturi",
+    "title": "Tort de înghețată cu pișcoturi",
+    "type": "iceCreams",
+    "ingredients": [
+      "3 gălbenușuri, 4lg zahăr, 200ml lapte, 400ml frișcă lichidă, 200gr zmeură, 200gr ciocolată, 1 lămâie, 400gr pișcoturi pt șampanie"
+    ]
+  },
+  {
+    "src": "images/i-49.jpg",
+    "alt": "Tort de nuci, vișine și cacao",
+    "title": "Tort de nuci, vișine și cacao",
+    "type": "iceCreams",
+    "ingredients": [
+      "200gr unt, 150gr zahăr pudră, 3 linguri cacao, 4 gălbenușuri, 100gr vișine proaspete congelate sau din vișinată, 1lg coajă de portocală confiată, 50gr miez de nucă, 100ml frișcă lichidă"
+    ]
+  },
+  {
+    "src": "images/i-50.jpg",
+    "alt": "Tiramisu de fructe cu înghețată",
+    "title": "Tiramisu de fructe cu înghețată",
+    "type": "iceCreams",
+    "ingredients": [
+      "250gr afine(proaspete/congelate), 1 plic glazură roșie pt tort, 250ml suc de afine sau coacăze negre, 2lg zahăr, coajă de la o lămâie rasă, 2 lg rom sau lichior de fructe, 100gr pișcoturi de șampanie, 1 cutie înghețată Stracciatella sau Tiramisu"
+    ]
+  },
+  {
+    "src": "images/i-51.jpg",
+    "alt": "Desert cu înghețată și pișcoturi",
+    "title": "Desert cu înghețată și pișcoturi",
+    "type": "iceCreams",
+    "ingredients": [
+      "200gr pișcoturi pt șampanie,1 cutie mică(600ml înghețată din comerț), 300gr căpșune sau zmeură, 150ml lichior sau coniac, 200ml frișcă lichidă"
+    ]
+  },
+  {
+    "src": "images/i-52.jpg",
+    "alt": "Inimioare de gaufre cu înghețată",
+    "title": "Inimioare de gaufre cu înghețată",
+    "type": "iceCreams",
+    "ingredients": [
+      "Gaufre: 50gr unt moale, 30gr zahăr, 2 ouă(medii), 125gr făină, 1 vârf de cutie de sare, 125ml smântână, grăsime pt aparatul de gaufre",
+      "Umplutura: 1 cutie înghețată Crema di Mascarpone, 1 linguriță rasă de portocală, 3-4 lingurițe de lichior de portocale, 500gr căpșune"
+    ]
+  },
+  {
+    "src": "images/i-53.jpg",
+    "alt": "Piersici umplute cu înghețată",
+    "title": "Piersici umplute cu înghețată",
+    "type": "iceCreams",
+    "ingredients": [
+      "6 piersici mari, 1l lapte, 200gr zahăr pudră, 2 plicuri zahăr vanilat, 8 gălbenușuri, 150ml frișcă, 4lg dulceață de vișine, miezul de la 10 nuci, 10lg lichior de vișine"
+    ]
+  },
+  {
+    "src": "images/i-54.jpg",
+    "alt": "Tarte cu migdale și mandarine",
+    "title": "Tarte cu migdale și mandarine",
+    "type": "iceCreams",
+    "ingredients": [
+      "Aluat: 150gr făină, 100gr migdale măcinate, 100gr zahăr, 150gr unt rece, 1 gălbenuș(mediu), făină pt suprafața de lucru, unt pt formele de tartă",
+      "Extra: 2 lg marmeladă sau gem caise, 3 conserve de mandarine(175gr fiecare), 1 cutie de înghețată Stracciatella"
+    ]
+  },
+  {
+    "src": "images/i-55.jpg",
+    "alt": "Cuprins",
+    "title": "Cuprins",
+    "type": "iceCreams",
+    "ingredients": ["..."]
   },
 
   {
