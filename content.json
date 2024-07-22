@@ -1573,12 +1573,164 @@
     "type": "mains",
     "ingredients": [
       "252.Mâncare de țelină cu ciuperci",
-      "171.Măncare de gulii",
-      "172.Piure de gulii",
-      "173.Gulii umplute cu orez",
-      "174.Piureu de spanac cu ochiuri",
-      "175.Piureu de spanac cu ceapă",
-      "175.Ardei umpluți cu vinete"
+      "253.Măncare de gulii",
+      "254.Piure de gulii",
+      "255.Gulii umplute cu orez",
+      "256.Piureu de spanac cu ochiuri",
+      "257.Piureu de spanac cu ceapă",
+      "258.Ardei umpluți cu vinete"
+    ]
+  },
+  {
+    "src": "images/m-41.jpg",
+    "alt": "Mâncăruri de legume",
+    "title": "Mâncăruri de legume",
+    "type": "mains",
+    "ingredients": [
+      "259.Ardei umpluți cu orez",
+      "260.Roșii umplute cu orez",
+      "261.Sarmale cu orez(fără carne)",
+      "262.Macriș cu ouă",
+      "263.Urzici bătute",
+      "264.Pilaf de urzici",
+      "265.Sparanghel cu cașcaval"
+    ]
+  },
+  {
+    "src": "images/m-42.jpg",
+    "alt": "Mâncăruri de legume",
+    "title": "Mâncăruri de legume",
+    "type": "mains",
+    "ingredients": [
+      "266.Mâncare de prune",
+      "267.Mâncare de morcovi",
+      "268.Legume asortate în aluat",
+      "269.Chifteluțe de legume",
+      "270.Legume în sos de lapte",
+      "271.Ciulama de ciuperci",
+      "272.Mâncare de ciuperci cu roșii"
+    ]
+  },
+  {
+    "src": "images/m-43.jpg",
+    "alt": "Mâncăruri de legume",
+    "title": "Mâncăruri de legume",
+    "type": "mains",
+    "ingredients": [
+      "273.Ciuperci tărănești",
+      "274.Ciuperci cu sos de lapte",
+      "275.Pilaf de ciuperci",
+      "276.Ciuperci la tavă"
+    ]
+  },
+  {
+    "src": "images/m-44.jpg",
+    "alt": "Mâncăruri de ouă",
+    "title": "Mâncăruri de ouă",
+    "type": "mains",
+    "ingredients": [
+      "277.Omletă",
+      "278.Omletă cu smântână",
+      "279.Omletă cu șuncă",
+      "280.Omletă cu brânză",
+      "281.Omletă cu fasole verde",
+      "282.Omletă cu morcovi cruzi",
+      "283.Omletă cu orez",
+      "284.Omletă cu cartofi fierți"
+    ]
+  },
+  {
+    "src": "images/m-45.jpg",
+    "alt": "Mâncăruri de ouă",
+    "title": "Mâncăruri de ouă",
+    "type": "mains",
+    "ingredients": [
+      "285.Scrob(jumări)",
+      "286.Scrob(jumări) cu smântână",
+      "287.Scrob(jumări) cu șuncă",
+      "288.Scrob(jumări) preparat ardelenește",
+      "289.Scrob(jumări) cu brânză",
+      "290.Scrob(jumări) cu morcovi",
+      "291.Scrob(jumări) cu ciuperci",
+      "292.Scrob(jumări) cu vinete"
+    ]
+  },
+  {
+    "src": "images/m-46.jpg",
+    "alt": "Mâncăruri de carne: Mâncăruri din limbă, creier, fincat, rinichi, uger",
+    "title": "Mâncăruri de carne: Mâncăruri din limbă, creier, fincat, rinichi, uger",
+    "type": "mains",
+    "ingredients": [
+      "293.Limbă fiartă",
+      "294.Limbă cu măsline",
+      "295.Limbă în sos de smântână",
+      "296.Creier fiert",
+      "297.Creier pane"
+    ]
+  },
+  {
+    "src": "images/m-47.jpg",
+    "alt": "Mâncăruri de carne: Mâncăruri din limbă, creier, fincat, rinichi, uger",
+    "title": "Mâncăruri de carne: Mâncăruri din limbă, creier, fincat, rinichi, uger",
+    "type": "mains",
+    "ingredients": [
+      "298.Creier în aluat 1",
+      "299.Creier în aluat 2",
+      "300.Gulaș de inimă",
+      "301.Uger pane",
+      "315.Varză acră cu carne de vacă ",
+      "316.Ghiveci cu carne de vacă",
+      "317.Cartofi cu carne de vacă"
+    ]
+  },
+  {
+    "src": "images/m-48.jpg",
+    "alt": "Mâncăruri de carne de porc",
+    "title": "Mâncăruri de carne de porc",
+    "type": "mains",
+    "ingredients": [
+      "318.Tocană cu carne de porc",
+      "319.Tocană a ala Odobești",
+      "320.Fasole verde cu carne de porc",
+      "321.Mazăre cu carne de porc",
+      "322.Praz cu carne de porc",
+      "323.Ghiveci cu carne de porc",
+      "324.Castraveți cu carne de porc",
+      "325.Varză dulce cu carne de porc",
+      "326.Varză acră cu carne de porc",
+      "327.Cartofi cu carne de porc"
+    ]
+  },
+  {
+    "src": "images/m-49.jpg",
+    "alt": "Mâncăruri de carne de porc + Mâncăruri din carne de miel și de berbec",
+    "title": "Mâncăruri de carne de porc + Mâncăruri din carne de miel și de berbec",
+    "type": "mains",
+    "ingredients": [
+      "328.Ciuperci cu carne de porc",
+      "329.Miel cu spanac",
+      "330.Stufat de miel",
+      "331.Miel cu tarhon",
+      "332.Ciulama de miel",
+      "333.Miel cu smântână",
+      "334.Miel în sos de iaurt"
+    ]
+  },
+  {
+    "src": "images/m-50.jpg",
+    "alt": "Mâncăruri din carne de miel și de berbec + Mâncăruri din carne de pasăre",
+    "title": "Mâncăruri din carne de miel și de berbec + Mâncăruri din carne de pasăre",
+    "type": "mains",
+    "ingredients": [
+      "335.Miel cu ciuperci",
+      "336.Pilaf de miel",
+      "337.Pilaf bulgăresc(cu măruntaie de miel)",
+      "338.Tocană de berbec",
+      "339.Varză acră cu carne de berbec",
+      "340.Pilaf de pui",
+      "341.Pui cu mazăre verde",
+      "342.Anghemaht de pui",
+      "343.Ciulama de pui"
     ]
   },
 
