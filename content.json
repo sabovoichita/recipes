@@ -1733,6 +1733,153 @@
       "343.Ciulama de pui"
     ]
   },
+  {
+    "src": "images/m-51.jpg",
+    "alt": "Mâncăruri din carne de pasăre",
+    "title": "Mâncăruri din carne de pasăre",
+    "type": "mains",
+    "ingredients": [
+      "344.Pui cu roșii",
+      "345.Pui cu smântână",
+      "346.Pui cu tarhon",
+      "347.Pui cu fasole verde",
+      "348.Pui cu bame",
+      "349.Pui cu vinete",
+      "350.Pui cu conopidă"
+    ]
+  },
+  {
+    "src": "images/m-52.jpg",
+    "alt": "Mâncăruri din carne de pasăre",
+    "title": "Mâncăruri din carne de pasăre",
+    "type": "mains",
+    "ingredients": [
+      "352.Găină rasol",
+      "353.Găină cu mazăre verde",
+      "354.Anghermaht de găină",
+      "355.Găină cu roșii",
+      "356.Găină cu tarhon",
+      "357.Găină cu fasole verde",
+      "358.Găină cu gutui",
+      "359.Chifteluțe din piept de rață",
+      "360.Găină cu vinete"
+    ]
+  },
+  {
+    "src": "images/m-53.jpg",
+    "alt": "Mâncăruri din carne de pasăre",
+    "title": "Mâncăruri din carne de pasăre",
+    "type": "mains",
+    "ingredients": [
+      "361.Găină cu smântănă",
+      "362.Ciulama de găină",
+      "363.Pilaf de găină",
+      "364.Găină cu măsline",
+      "365.Boboc de rață pe varză acră",
+      "366.Boboc de rață pe varză dulce",
+      "367.Rață cu măsline",
+      "368.Rață cu varză acră sau dulce",
+      "369.Rață cu castraveți acri",
+      "370.Gâscă pe varză"
+    ]
+  },
+  {
+    "src": "images/m-54.jpg",
+    "alt": "Mâncăruri din carne de pasăre + Tocături",
+    "title": "Mâncăruri din carne de pasăre + Tocături",
+    "type": "mains",
+    "ingredients": [
+      "371.Gâscă cu măsline",
+      "372.Mâncare de curcan cu castane",
+      "373.Mâncare de curcan cu caise uscată",
+      "374.Mâncare de curcan cu măsline",
+      "375.Mâncare de curcan cu gutui",
+      "376.Ruladă de carne tocată",
+      "377.Ruladă de carne tocată umplută cu macaroane"
+    ]
+  },
+  {
+    "src": "images/m-55.jpg",
+    "alt": "Tocături",
+    "title": "Tocături",
+    "type": "mains",
+    "ingredients": [
+      "378.Ruladă cu carne tocată umplută cu orez",
+      "379.Ruladă pe iarnă",
+      "380.Mititei",
+      "381.Pârjoale moldovenești",
+      "382.Chiftele marinate",
+      "383.Ardei umpluți cu carne"
+    ]
+  },
+  {
+    "src": "images/m-56.jpg",
+    "alt": "Tocături",
+    "title": "Tocături",
+    "type": "mains",
+    "ingredients": [
+      "384.Roșii umplute cu carne",
+      "385.Vinete coapte cu carne",
+      "386.Dovlecei umpluți cu carne",
+      "387.Praz umplut cu carne",
+      "388.Varză umplută cu carne",
+      "389.Cartofi umpluți cu carne"
+    ]
+  },
+  {
+    "src": "images/m-57.jpg",
+    "alt": "Tocături",
+    "title": "Tocături",
+    "type": "mains",
+    "ingredients": [
+      "390.Musaca de cartofi cu carne",
+      "391.Musaca de dovlecei",
+      "392.Musaca de vinete",
+      "393.Musaca de macaroane sau tăiței de casă"
+    ]
+  },
+  {
+    "src": "images/m-58.jpg",
+    "alt": "Tocături",
+    "title": "Tocături",
+    "type": "mains",
+    "ingredients": [
+      "394.Musaca specială",
+      "395.Musaca specială cu smântână",
+      "396.Sarmale cu varză dulce",
+      "397.Sarmale cu varză acră",
+      "398.Sarmale cu foi de viță",
+      "399.Sarmale cu foi de viță și carne de miel",
+      "400.Drob de miel"
+    ]
+  },
+  {
+    "src": "images/m-59.jpg",
+    "alt": "Tocături + Fripturi de vită",
+    "title": "Tocături + Fripturi de vită",
+    "type": "mains",
+    "ingredients": [
+      "401.Drob de miel în aluat",
+      "402.Șnițel din carne tocată",
+      "403.Friptură înăbușită 1",
+      "404.Friptură înăbușită 2"
+    ]
+  },
+  {
+    "src": "images/m-60.jpg",
+    "alt": "Fripturi de vită + Fripturi de vițel + Fripturi de porc",
+    "title": "Fripturi de vită + Fripturi de vițel + Fripturi de porc",
+    "type": "mains",
+    "ingredients": [
+      "405.Biftec",
+      "406.Șnițel de vițel",
+      "407.Friptură de vițel la tavă",
+      "408.Șnițel parizian",
+      "409.Șnițel din carne de porc",
+      "410.Cotlete de porc pane",
+      "411.Coltlete de porc la cuptor"
+    ]
+  },
 
   {
     "src": "images/logo.",
