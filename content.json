@@ -1880,6 +1880,146 @@
       "411.Coltlete de porc la cuptor"
     ]
   },
+  {
+    "src": "images/m-61.jpg",
+    "alt": "Fripturi de porc + Fripturi de miel și berbec",
+    "title": "Fripturi de porc + Fripturi de miel și berbec",
+    "type": "mains",
+    "ingredients": [
+      "412.Pulpă de porc la tavă",
+      "413.Ceafă de porc(garf) la cuptor",
+      "414.Purcel de lapte la tavă",
+      "415.Purcel de lapte umplut cu măruntaie",
+      "416.Miel pane"
+    ]
+  },
+  {
+    "src": "images/m-62.jpg",
+    "alt": "Fripturi de miel și berbec + Fripturi de pasăre",
+    "title": "Fripturi de miel și berbec + Fripturi de pasăre",
+    "type": "mains",
+    "ingredients": [
+      "417.Șnițel de miel",
+      "418.Friptură de miel la tavă",
+      "419.Pulpă de berbec la tavă",
+      "420.Pui pane",
+      "421.Pui înăbușit",
+      "422.Pui la tavă",
+      "423.Găină înăbușită",
+      "424.Friptură de găină la tavă"
+    ]
+  },
+  {
+    "src": "images/m-63.jpg",
+    "alt": "Fripturi de pasăre + Preparate din pește",
+    "title": "Fripturi de pasăre + Preparate din pește",
+    "type": "mains",
+    "ingredients": [
+      "425.Friptură de gâscă la tavă",
+      "426.Friptură de rață cu mere coapte",
+      "427.Friptură de curcan la tavă",
+      "428.Crap prăjit",
+      "429.Crap rasol"
+    ]
+  },
+  {
+    "src": "images/m-64.jpg",
+    "alt": "Preparate din pește",
+    "title": "Preparate din pește",
+    "type": "mains",
+    "ingredients": [
+      "430.Plachie de crap",
+      "431.Crap pe orez",
+      "432.Crap cu maioneză",
+      "433.Marinată de crap",
+      "434.Șalău prăjit",
+      "435.Șalău rasol",
+      "436.Șalău cu maioneză"
+    ]
+  },
+  {
+    "src": "images/m-65.jpg",
+    "alt": "Preparate din pește",
+    "title": "Preparate din pește",
+    "type": "mains",
+    "ingredients": [
+      "437.Șalău mic pane",
+      "438.Șalău polonez",
+      "439.Șalău cu orez în aluat",
+      "440.Calcan în vin roșu",
+      "441.Știucă rasol"
+    ]
+  },
+  {
+    "src": "images/m-66.jpg",
+    "alt": "Preparate din pește",
+    "title": "Preparate din pește",
+    "type": "mains",
+    "ingredients": [
+      "442.Știucă prăjită",
+      "443.Știucă umplută(fiartă)",
+      "444.Stiucă umplută la cuptor",
+      "445.Somn prăjit",
+      "446.Somn cu maioneză",
+      "447.Mâncare de somn cu roșii",
+      "448.Scumbii în ulei"
+    ]
+  },
+  {
+    "src": "images/m-67.jpg",
+    "alt": "Preparate din pește + Vânat",
+    "title": "Preparate din pește + Vânat",
+    "type": "mains",
+    "ingredients": [
+      "449.Pește pescăresc",
+      "450.Pește prăjit în ulei",
+      "451.Marinată pentru vânat"
+    ]
+  },
+  {
+    "src": "images/m-68.jpg",
+    "alt": "Vânat",
+    "title": "Vânat",
+    "type": "mains",
+    "ingredients": [
+      "452.Iepure cu smântână",
+      "453.Papricaș de iepure",
+      "454.Iepure cu măsline",
+      "455.Pârjoale de iepure",
+      "456.Cârnați din carne de iepure",
+      "457.Pastă din carne iepure",
+      "458.Friptură de iepure"
+    ]
+  },
+  {
+    "src": "images/m-69.jpg",
+    "alt": "Vânat",
+    "title": "Vânat",
+    "type": "mains",
+    "ingredients": [
+      "459.Friptură de rață sălbatică",
+      "460.Gâscă sălbatică cu măsline",
+      "461.Friptură de gâscă sălbatică",
+      "462.Potârnichi cu smântână",
+      "463.Pilaf de potârnichi",
+      "464.Friptură de potârnichi",
+      "465.Potârnichi umplute",
+      "466.Prepelițe cu smântână",
+      "467.Prepelițe fripte"
+    ]
+  },
+  {
+    "src": "images/m-70.jpg",
+    "alt": "Vânat + Făinoase",
+    "title": "Vânat + Făinoase",
+    "type": "mains",
+    "ingredients": [
+      "468.Prepelițe fripte vânătorește",
+      "469.Friptură de fazan",
+      "470.Pâine cu lapte",
+      "471.Chifle cu chimen"
+    ]
+  },
 
   {
     "src": "images/logo.",
