@@ -353,61 +353,29 @@ function addEventListeners() {
   document.querySelector("#search").addEventListener("input", (e) => {
     const search = e.target.value;
     console.log("search", search);
+    let currentSearch = search;
+
     injectImages(allRecepies, currentType, currentSearch);
   });
 
-  document.querySelector("#cakes").addEventListener("click", () => {
-    console.log("You clicked 🎂");
-    currentType = "cakes";
-    injectImages(allRecepies, currentType, currentSearch);
-  });
-  document.querySelector("#iceCreams").addEventListener("click", () => {
-    console.log("You clicked 🍨");
-    currentType = "iceCreams";
-    injectImages(allRecepies, currentType, currentSearch);
-  });
-  document.querySelector("#mains").addEventListener("click", () => {
-    console.log("You clicked 🍽");
-    currentType = "mains";
-    injectImages(allRecepies, currentType, currentSearch);
-  });
-  document.querySelector("#all").addEventListener("click", () => {
-    console.log("You clicked ALL");
-    currentType = null;
-    injectImages(allRecepies, currentType, currentSearch);
-  });
-  document.querySelector("#mixed").addEventListener("click", () => {
-    // console.log("You clicked mixed");
-    currentType = "mixed";
-    injectImages(allRecepies, currentType, currentSearch);
-    // turnFoto();
-  });
-  document.querySelector("#cakes1").addEventListener("click", function () {
-    // console.log("You clicked 🎂");
-    currentType = "cakes";
-    injectImages(allRecepies, currentType, currentSearch);
-  });
-  document.querySelector("#iceCreams1").addEventListener("click", function () {
-    // console.log("You clicked 🍨");
-    currentType = "iceCreams";
-    injectImages(allRecepies, currentType, currentSearch);
-  });
-  document.querySelector("#mains1").addEventListener("click", function () {
-    // console.log("You clicked 🍽");
-    currentType = "mains";
-    injectImages(allRecepies, currentType, currentSearch);
-  });
-  document.querySelector("#all1").addEventListener("click", function () {
-    // console.log("You clicked ALL");
-    currentType = "all";
-    injectImages(allRecepies, currentType, currentSearch);
-  });
-  document.querySelector("#mixed1").addEventListener("click", function () {
-    console.log("You clicked mixed");
-    currentType = "mixed";
-    injectImages(allRecepies, currentType, currentSearch);
-    // turnFoto();
-  });
+  document
+    .querySelectorAll("#all, #cakes, #iceCreams, #mains, #mixed")
+    .forEach((button) => {
+      button.addEventListener("click", (e) => {
+        currentType = e.target.id === "all" ? null : e.target.id;
+        injectImages(allRecepies, currentType, currentSearch);
+      });
+    });
+
+  document
+    .querySelectorAll("#all1, #cakes1, #iceCreams1, #mains1, #mixed1")
+    .forEach((button) => {
+      button.addEventListener("click", (e) => {
+        currentType =
+          e.target.id === "all1" ? null : e.target.id.replace("1", "");
+        injectImages(allRecepies, currentType, currentSearch);
+      });
+    });
 
   // Initial load of all recipes
   injectImages(allRecepies);
