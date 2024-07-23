@@ -2,6 +2,8 @@
 //   return document.querySelector(selector);
 // }
 
+let allRecepies = [];
+
 function createHeader() {
   return `
      <!-- Header -->
@@ -11,6 +13,7 @@ function createHeader() {
     <div class="w3-container">
     <h1><b>Voichița's Recepies</b></h1>
     <div class="w3-section w3-bottombar w3-padding-16">
+      🔎 <input type="search" name="Search" id="search" placeholder="Searching..." /> <label for="search"></label>
       <span class="w3-margin-right">Filter:</span> 
       <button class="w3-button w3-black" id="all">ALL</button>
       <button class="w3-button w3-white" id="cakes">🎂 Cakes</button>
@@ -279,26 +282,37 @@ function w3_close() {
   document.getElementById("myOverlay").style.display = "none";
 }
 
-function loadImages() {
-  fetch("content.json")
-    .then((r) => r.json())
-    .then((images) => {
-      //   console.log(images);
-      injectImages(images);
-      addEventListeners(images);
-    });
+async function loadImages() {
+  try {
+    const response = await fetch("content.json");
+    const images = await response.json();
+    allRecepies = images;
+    injectImages(images);
+    addEventListeners();
+  } catch (error) {
+    console.error("Error fetching", error);
+  }
 }
 
-function injectImages(images, type) {
+function injectImages(images, type = null, search = "") {
   const content = document.querySelector(".w3-row-padding");
 
   // Clear existing content
   content.innerHTML = "";
 
-  // Filter the images based on the type
-  const filteredImages = type
-    ? images.filter((image) => image.type === type)
-    : images;
+  search = search.toLowerCase();
+
+  const filteredImages = images.filter((image) => {
+    const matchesType = type ? image.type === type : true;
+    const matchesSearch =
+      image.src.toLowerCase().includes(search) ||
+      image.alt.toLowerCase().includes(search) ||
+      image.title.toLowerCase().includes(search) ||
+      image.ingredients.some((ingredient) =>
+        ingredient.toLowerCase().includes(search)
+      );
+    return matchesType && matchesSearch;
+  });
 
   // Loop through the filtered images array and create HTML for each image
   filteredImages.forEach((image) => {
@@ -332,49 +346,71 @@ function injectImages(images, type) {
   });
 }
 
-function addEventListeners(images) {
-  document.querySelector("#cakes").addEventListener("click", function () {
-    // console.log("You clicked 🎂");
-    injectImages(images, "cakes");
+function addEventListeners() {
+  let currentType = null;
+  let currentSearch = "";
+
+  document.querySelector("#search").addEventListener("input", (e) => {
+    const search = e.target.value;
+    console.log("search", search);
+    injectImages(allRecepies, currentType, currentSearch);
   });
-  document.querySelector("#iceCreams").addEventListener("click", function () {
-    // console.log("You clicked 🍨");
-    injectImages(images, "iceCreams");
+
+  document.querySelector("#cakes").addEventListener("click", () => {
+    console.log("You clicked 🎂");
+    currentType = "cakes";
+    injectImages(allRecepies, currentType, currentSearch);
   });
-  document.querySelector("#mains").addEventListener("click", function () {
-    // console.log("You clicked 🍽");
-    injectImages(images, "mains");
+  document.querySelector("#iceCreams").addEventListener("click", () => {
+    console.log("You clicked 🍨");
+    currentType = "iceCreams";
+    injectImages(allRecepies, currentType, currentSearch);
   });
-  document.querySelector("#all").addEventListener("click", function () {
-    // console.log("You clicked ALL");
-    injectImages(images);
+  document.querySelector("#mains").addEventListener("click", () => {
+    console.log("You clicked 🍽");
+    currentType = "mains";
+    injectImages(allRecepies, currentType, currentSearch);
   });
-  document.querySelector("#mixed").addEventListener("click", function () {
-    console.log("You clicked mixed");
-    injectImages(images, "none");
+  document.querySelector("#all").addEventListener("click", () => {
+    console.log("You clicked ALL");
+    currentType = null;
+    injectImages(allRecepies, currentType, currentSearch);
+  });
+  document.querySelector("#mixed").addEventListener("click", () => {
+    // console.log("You clicked mixed");
+    currentType = "mixed";
+    injectImages(allRecepies, currentType, currentSearch);
     // turnFoto();
   });
   document.querySelector("#cakes1").addEventListener("click", function () {
     // console.log("You clicked 🎂");
-    injectImages(images, "cakes");
+    currentType = "cakes";
+    injectImages(allRecepies, currentType, currentSearch);
   });
   document.querySelector("#iceCreams1").addEventListener("click", function () {
     // console.log("You clicked 🍨");
-    injectImages(images, "iceCreams");
+    currentType = "iceCreams";
+    injectImages(allRecepies, currentType, currentSearch);
   });
   document.querySelector("#mains1").addEventListener("click", function () {
     // console.log("You clicked 🍽");
-    injectImages(images, "mains");
+    currentType = "mains";
+    injectImages(allRecepies, currentType, currentSearch);
   });
   document.querySelector("#all1").addEventListener("click", function () {
     // console.log("You clicked ALL");
-    injectImages(images);
+    currentType = "all";
+    injectImages(allRecepies, currentType, currentSearch);
   });
   document.querySelector("#mixed1").addEventListener("click", function () {
     console.log("You clicked mixed");
-    injectImages(images, "none");
+    currentType = "mixed";
+    injectImages(allRecepies, currentType, currentSearch);
     // turnFoto();
   });
+
+  // Initial load of all recipes
+  injectImages(allRecepies);
 }
 
 function createPhotoBook() {
@@ -427,4 +463,7 @@ function initEvents() {
   turnFoto();
 }
 
-initEvents();
+// initEvents();
+document.addEventListener("DOMContentLoaded", (event) => {
+  initEvents();
+});
