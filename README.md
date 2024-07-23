@@ -1,3 +1,3 @@
 # Recipes
 
-##[livelink](https://sabovoichita.github.io/recipes/)
+## [livelink](https://sabovoichita.github.io/recipes/)

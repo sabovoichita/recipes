@@ -13,8 +13,8 @@ function createHeader() {
     <div class="w3-container">
     <h1><b>Voichița's Recepies</b></h1>
     <div class="w3-section w3-bottombar w3-padding-16">
-      🔎 <input type="search" name="Search" id="search" placeholder="Searching..." /> <label for="search"></label>
       <span class="w3-margin-right">Filter:</span> 
+      🔎 <input type="search" name="Search" id="search" placeholder="Searching..." /> <label for="search"></label>
       <button class="w3-button w3-black" id="all">ALL</button>
       <button class="w3-button w3-white" id="cakes">🎂 Cakes</button>
       <button class="w3-button w3-white" id="iceCreams">🍨 Ice creams</button>
