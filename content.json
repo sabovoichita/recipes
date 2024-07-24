@@ -150,266 +150,438 @@
     "alt": "Tort Indiana + Tort de zahăr ars",
     "title": "Tort Indiana + Tort de zahăr ars",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Tort Indiana blat: 6 ouă, 6lg zahăr praf, 3lg făină, vanilie, 750gr frișcă, întăritor",
+      "Tort Indiana glazura: 2lg cacao, 2lg zahăr, 1lg unt, puțin lapte",
+      "Tort de zahăr ars blat: 5 ouă, 7lg zahăr, 3lg apă, 7lg făină",
+      "Tort de zahăr ars crema: 7lg zahăr, 5ouă, 5lg zahăr, 1l lapte călduț, rom, friscă pt decor"
+    ]
   },
   {
     "src": "images/t-14.jpg",
     "alt": "Zerbo",
     "title": "Zerbo",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Zerbo foi: 350gr făină, 180gr margarină, 1 gălbenuș, vanilie, 1lg smântănă, 1lg zahăr, bicarbonat, 100gr lapte",
+      "Zerbo crema: 200gr nuci, 250gr zahăr, puțin lapte, rom, gem",
+      "Zerbo glazura: 5lg zahăr, 2lg lapte, 1lg cacao, 50gr margarină"
+    ]
   },
   {
     "src": "images/t-15.jpg",
-    "alt": "Prăjitură cu mar + Cer si nori",
-    "title": "Prăjitură cu mar + Cer si nori",
+    "alt": "Prăjitură cu măr + Cer și nori",
+    "title": "Prăjitură cu măr + Cer și nori",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Prăjitură cu măr foi: 1/2 kg făină, 1ou, 250gr margarină, bicarbonat, 250gr zahăr, smântână, lapte",
+      "Prăjitură cu măr umplutură: 1kg mere, puțină margarină, zahăr, scorțișoară, vanilie",
+      "???Cer și nori: 1pachet marcarină, 2căni zahăr,...oua?, 1 cană lapte, 3 căni făină, bicarbonat, cacao"
+    ]
   },
   {
     "src": "images/t-16.jpg",
     "alt": "Lizer + Cornulețe cu gem",
     "title": "Lizer + Cornulețe cu gem",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Lizer foi: 600gr făină, 350gr margarină, 200gr zahăr, 2 gălbenusuri, bicarbonat, coajă de lămâie, puțin lapte",
+      "Lizer crema: gem",
+      "Cornulețe cu gem: 3 căni făină, 1 cană untură sau 1 1/2 cană margarină, 1 gălbenus, bicarbonat, 1 cană zahăr, lămâie, lapte/smântână, gem, rahat, nucă"
+    ]
   },
   {
     "src": "images/t-17.jpg",
     "alt": "Tochio + Ciocolată de casă",
     "title": "Tochio + Ciocolată de casă",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Tochio blat: 140gr unt, 140gr zahăr praf, 140gr nucă, 100gr făină, 4 albușuri",
+      "Tochio crema 1: 4 gălbenușuri, 150gr zahăr praf, vanilie",
+      "Tochio crema 2: 100gr unt, 100gr zahăr praf, 2lg cacao, rom, 100gr nucă măcinată",
+      "Ciocolată de casă: 250gr apă, 250gr zahăr, 150gr margarină, 300gr lapte praf, 50gr cacao"
+    ]
   },
   {
     "src": "images/t-18.jpg",
     "alt": "Ștrudel + Prăjitură Maia",
     "title": "Ștrudel + Prăjitură Maia",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Ștrudel aluat 1: 1 1/2 cană făină, 1 pachet margarină",
+      "Ștrudel aluat 2: 1 1/2 cană făină, 1ou, 1 cană apă, oțet, sare",
+      "Ștrudel umplutura: măr, dovleac, mac, nucă ",
+      "Prăjitură Maia foi: 6 gălbenușuri, 1 ceașcă ulei, lg zahăr, 1 ceașcă lapte, bicarbonat, făină cât cuprinde",
+      "Prăjitură Maia crema 1: 250gr nucă măcinată, puțin lapte, 150gr zahăr,",
+      "Prăjitură Maia crema 1: 6 albșuri spumă, 1 cană zahăr"
+    ]
   },
   {
     "src": "images/t-19.jpg",
-    "alt": "Sărățele + Turtite cu miere + Tăvălită",
-    "title": "Sărățele + Turtite cu miere + Tăvălită",
+    "alt": "Sărățele + Turtițe cu miere + Tăvălită",
+    "title": "Sărățele + Turtițe cu miere + Tăvălită",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Sărățele aluat: 250gr marganină, 1 ou, 1 pahar apă călduță, sare, 2-3lg smântână, făină cât cuprinde",
+      "Sărățele Uns: 1 ou bătut, brânză rasă, chimen",
+      "Turtițe cu miere: 3 cești făină, 1 ceașcă zahăr, 3lg miere, 3 ouă, 3lg ulei, bicarbonat",
+      "Tăvălită: 1 pachet margarină, 1 cană zahăr, 3 gălbenușuri, 2lg miere, 3 albuluri spumă, bicarbonat, 12-13lg făină",
+      "Tăvălită glazura:300gr lapte, zahăr, cacao după gust, 1 pachet unt, rom, nucă de cocos"
+    ]
   },
   {
     "src": "images/t-20.jpg",
     "alt": "Rumba + Crema pentru Cremeș",
     "title": "Rumba + Crema pentru Cremeș",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Rumba foi: 170gr unt, 150gr zahăr, 7gălbenușuri, 200gr făină, bicarbonat, 2lg cacao",
+      "Rumba crema: 200gr zahăr, 200gr nuci măcinate, vanilie, puțin lapte, ciocolată topită",
+      "Crema pentru Cremeș: 4 gălbenușuri, 120gr zahăr, 80gr făină, 1/2 l lapte, vanilie, 4 albușuri spumă, 150gr unt"
+    ]
   },
   {
     "src": "images/t-21.jpg",
     "alt": "Rulouri + Prăjitură Săracului",
     "title": "Rulouri + Prăjitură Săracului",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Rulouri foi: 2 ouă, 7lg ulei, 10lg zahăr, 1/2 cană lapte, vanilie, bicarbonat, făină cât cuprinde",
+      "Rulouri crema: budincă sau frișcă",
+      "Prăjitură Săracului: 1ou, 1 cană zahăr, 1 cană apă, bicarbonat, 12lg ulei, 2 1/2 căni făină, 3lg gem"
+    ]
   },
   {
     "src": "images/t-22.jpg",
     "alt": "Regina Maria + Crema de zahăr Ars",
     "title": "Regina Maria + Crema de zahăr Ars",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Regina Maria blat 1: 6 albușuri, 200gr zahăr, 200gr nucă tăiată, 2lg făină",
+      "Regina Maria blat 2: 4 ouă, 2lg apă, 6lg zahăr, 6lg făină",
+      "Regina Maria crema: 6 gălbenușuri, 250gr zahăr praf, 1lg cacao, 1 pachet unt",
+      "Regina Maria glazura: de cacao sau ciocolată topită",
+      "Crema de zahăr Ars: 200gr zahăr, 100gr unt, 50gr făină, 250gr lapte, rom"
+    ]
   },
   {
     "src": "images/t-23.jpg",
     "alt": "Diplomat + Steaua",
     "title": "Diplomat + Steaua",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Diplomat: 30gr gelatină, 3 ouă, 3lg zahăr, 600gr frișcă bătută, fructe, frișcă pentru ornat",
+      "Steaua blat: 6 albușuri, 6 gălbenușuri, 150gr zahăr, 1 cană nucă măcinată, 2lg făină, bicarbonat",
+      "Steaua crema 1: 1 pachet unt, 200gr zahăr, 3 gălbenușuri, vanilie",
+      "Steaua crema 2: 50gr nuci tăiate prăjite, 3 albulsuri, 4lg zahăr, 4lg zahăr"
+    ]
   },
   {
     "src": "images/t-24.jpg",
     "alt": "Ruladă de Miere + Prăjitură cu Biscuiți",
     "title": "Ruladă de Miere + Prăjitură cu Biscuiți",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Ruladă de Miere: 400gr făină, 120gr zahăr, 3lg miere, 60gr margarină, 2lg smântână, bicarbonat",
+      "Ruladă de Miere umplutură:gem, nucă tăiată, rahat tăiat, scorțișoară, safide, 1 ou pt uns",
+      " Prăjitură cu Biscuiți blat: 5 ouă, 3lg apă, 7lg zahăr, 7lg făină",
+      " Prăjitură cu Biscuiți crema: 4lg făină, 1/2 l lapte, 1 pachet unt, vanilie, biscuți simpli, lapte, frișcă pentru decor, ciocolată rasă pt decor"
+    ]
   },
   {
     "src": "images/t-25.jpg",
     "alt": "Tort de mere + Lenea Cucoanei",
     "title": "Tort de mere + Lenea Cucoanei",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Tort de mere: 4 gălbenușuri, 100gr zahăr, 80gr margarină, 100gr făină, 80gr nucă măcinată, bicarbonat",
+      "Tort de mere umplutura: 1kg mere rase, zahăr4 albușuri, 200gr zahăr",
+      "Lenea Cucoanei blat: 3 ouă, 250gr zahăr, 2lg cacao, 200gr unt, 300gr biscuiți, p pachet frișcă/150gr frișcă și 100 ml lapte, puțin rom",
+      "Lenea Cucoanei decor: frișcă, ciocolată rasă"
+    ]
   },
   {
     "src": "images/t-26.jpg",
     "alt": "Savarine",
     "title": "Savarine",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Savarine: 5 gălbenușuri, 6lg zahăr, 5 albușuri spumate, 6lg pesmet, bicarbonat",
+      "Savarine sirop: 1 pahar apă, 150gr zahăr, 2lg rom, frișcă pt decor, sirop de căpșuni"
+    ]
   },
   {
     "src": "images/t-27.jpg",
     "alt": "Foi albiene + Tarta de fructe",
     "title": "Foi albiene + Tarta de fructe",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Foi albiene blat: 6 albușuri, 250gr zahăr, 1lg apă, 5lg făină, 2lg caco, 250gr nuci măcinate",
+      "Foi albiene crema: 2 ouă, 150gr zahăr, vanilie, 2-3lg lapte, 1pachet unt spumat",
+      "Foi albiene decor: ciocolată topită",
+      "Tarta de fructe blat: 3 ouă, 5lg zahăr, 1lg apă, 5lg făină",
+      "Tarta de fructe umplutura: sirop din compot/suc natural, budincă de vanilie sau fructe, fructe din compot sau crude, gelatină, frișcă pt decor"
+    ]
   },
   {
     "src": "images/t-28.jpg",
-    "alt": "Cornulețe in două culori + Pișcoturi prin masina",
-    "title": "Cornulețe in două culori + Pișcoturi prin masina",
+    "alt": "Cornulețe in două culori + Pișcoturi prin mașină",
+    "title": "Cornulețe in două culori + Pișcoturi prin mașină",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Cornulețe in două culori aluat 1: 250gr făină, 3lg zahăr, 1 ou, 100ml ulei, 1/2 linguriță bicarbonat, 200ml apă sau lapte călduț, 50gr drojdie crescută",
+      "Cornulețe in două culori aluat 2: 250gr făină, 3lg zahăr, 1 ou, 100ml ulei, bicarbonat sau praf de copt, 200ml apă sau lapte, 50gr drojdie crescută, 2-3lg cacao",
+      "Cornulețe in două culori sirop: 1/2l apă, 3-4lg zahăr, rom, cocos pt ornat",
+      "Pișcoturi prin mașină: 3 ouă, 1 cană zahăr, 1 pachet margarină, 1 cană ulei, biccarbonat stins, făină cât cuprinde(1 cană untură)",
+      "",
+      ""
+    ]
   },
   {
     "src": "images/t-29.jpg",
-    "alt": "Minciunele + Tort cos de gunoi",
-    "title": "Minciunele + Tort cos de gunoi",
+    "alt": "Minciunele + Tort coș de gunoi",
+    "title": "Minciunele + Tort coș de gunoi",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Minciunele: 1/2 pahar ulei, 1/2 pahar iaurt, 2 ouă, 1/2 pahar zahăr, vanilie, bicarbonat stins, făină cât cuprinde, ulei pentru prăjit, zahăr pudră",
+      "Tort coș de gunoi blat: 10 ouă, 10lg zahăr, 10lg făină, 4lg apă",
+      "Tort coș de gunoi crema: 250gr unt, 200gr zahăr, 100gr stafide, 100gr ciocolată, 200gr rahat, 200gr nucă prăjită și tăiată, 4 ouă, frișcă pt ornat"
+    ]
   },
   {
     "src": "images/t-30.jpg",
     "alt": "Prăjitură Betica cu Stafide",
     "title": "Prăjitură Betica cu Stafide",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Prăjitură Betica cu Stafide crema: 200gr stafide, rom, 250gr zahăr, 3 ouă, 100ml lapte, 250gr unt spumat",
+      "Prăjitură Betica cu Stafide blat: 8 ouă, 150gr nuci, 250gr zahăr, 6lg făină",
+      "Prăjitură Betica cu Stafide decor: glazură de ciocolată sau ciocolată menaj topită"
+    ]
   },
   {
     "src": "images/t-31.jpg",
     "alt": "Prăjitură Bonti cu Cocos + Negreasa",
     "title": "Prăjitură Bonti cu Cocos + Negreasa",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Prăjitură Bonti cu Cocos blat: 1 ou, 250gr făină, 150gr margarină, 100gr zahăr, 1lg cacao",
+      "Prăjitură Bonti cu Cocos crema 1: 6 albușuri, 6lg zahăr, 200gr cocos",
+      "Prăjitură Bonti cu Cocos crema 2: 200gr zahăr, 50gr apă, 6 gălbenușuri, 250gr unt spumat",
+      "Prăjitură Bonti cu Cocos decor: ciocolată rasă",
+      "Negreasa: 1 cană zahăr, 4lg cacao, 1 pachet unt, 1/2 ciocolată menaj, 1 pahar lapte, 5 gălbenușuri, 1/2 cană zahăr, 1 cană făină"
+    ]
   },
   {
     "src": "images/t-32.jpg",
     "alt": "Chec cu almendre + Rozete cu Mac",
     "title": "Chec cu almendre + Rozete cu Mac",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Chec cu almendre: 250gr almendre măcinate, 250gr zahăr, 6 ouă, 2lg făină, bicarbonat, lămâie rasă",
+      "Rozete cu Mac aluat: 500gr făină, 3ouă, 150gr zahăr, 100gr unt topit, 25gr drojdie crescută, 100ml lapte, vanilie",
+      "Rozete cu Mac umplutură: 150gr mac măcinat, 2lg zahăr, puțin lapte, ou bătut pt uns"
+    ]
   },
   {
     "src": "images/t-33.jpg",
     "alt": "Papanași",
     "title": "Papanași",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Papanași: 500gr brânză de vaci, 100gr zahăr, 2 ouă, bicarbonat, sare, vanilie, 300gr făină, (smântână), dulceață de afine, 1lg zeamă de lămâie, gem și frișcă pt servit"
+    ]
   },
   {
     "src": "images/t-34.jpg",
-    "alt": "Cozonac + Opincute cu brânză",
-    "title": "Cozonac + Opincute cu brânză",
+    "alt": "Cozonac + Opincuțe cu brânză",
+    "title": "Cozonac + Opincuțe cu brânză",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Cozonac: 1 kg făină, 2 pumni făină, sare, zahăr 3 pumni, 1 lămâie rasă, 2 ouă, apă, o ceașcă lapte călduț, puțin ulei, 50gr drojdie crescută",
+      "Opincuțe cu brânză: 500gr făină, 1 ou, 1 cană apă caldă, sare, puțin ulei(5lg), brânză dulce cu zahăr, vanilie, ulei pentru prăjit, zahăr praf pentru decor"
+    ]
   },
   {
     "src": "images/t-35.jpg",
     "alt": "Flan + Prăjitură Tosca",
     "title": "Flan + Prăjitură Tosca",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Flan caramel: 1/3 cană zahăr, puțină apă",
+      "Flan crema: 1/2 l lapte, coajă de lămâie sau portocală, scorțișoară baton, 125gr zahăr, 3 ouă",
+      "Prăjitură Tosca blat: 8 ouă, 200gr zahăr, 50gr nucă de cocos, 200gr mac, 4lg făină, bicarbonat stins",
+      "Prăjitură Tosca crema: 1 budincă vanilie, 8lg zahăr, 300gr unt, 250gr ciocolată menaj, 300gr biscuiți, 300ml lapte",
+      "Prăjitură Tosca decor: ciocolată topită"
+    ]
   },
   {
     "src": "images/t-36.jpg",
     "alt": "Chec cu Cireșe + Prăjitură cu Cireșe",
     "title": "Chec cu Cireșe + Prăjitură cu Cireșe",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Chec cu Cireșe: 6 ouă, 600gr făină, 12lg ulei, 300g, 2 vanilii, coajă lămâie, 225gr lapte, bicarbonat, 1kg cireșe fără sâmburi",
+      "Prăjitură cu Cireșe; 5 ouă, 250gr zahăr, 100ml ulei, 250gr iaurt natural, 300gr făină, vanilie, bicarbonat, 1 linguriță cacao, rom, 700gr cireșe"
+    ]
   },
   {
     "src": "images/t-37.jpg",
     "alt": "Rafaelo + Pastă de zahăr",
     "title": "Rafaelo + Pastă de zahăr",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "190gr nucă cocos, 150gr almendre prăjite, 397gr lapte condensat, cocos pt decor",
+      "Pastă de zahăr: 099gr zahăr praf, 60ml apă, 10gr gelatină, 100gr miere, arome, colorant"
+    ]
   },
   {
     "src": "images/t-38.jpg",
     "alt": "Pastă de Lapte Praf + Pastă de Ciocolată + Tort Kinder",
     "title": "Pastă de Lapte Praf + Pastă de Ciocolată + Tort Kinder",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Pastă de Lapte Praf: 1 linguriță de miere, lapte praf, colorant și arome, esențe",
+      "Pastă de Ciocolată: 100gr ciocolată neagră, 60gr miere, 120gr ciocolată albă",
+      "Tort Kinder blat: 6 albușuri, 6lg zahăr, 4lg pesmet, 4lg nucă măcinată, 1lg făină, bicarbonat",
+      "Tort Kinder crema 1: nutela",
+      "Tort Kinder crema 2: 700ml lapte, 6 gălbenușuri, 3 budinci de vanilie, 2lg făină, 250gr zahăr, esență vanilie, cacao, nucă măcinată",
+      "Tort Kinder crema 3: 1 pachet mare biscuiți simpli, lapte",
+      "Tort Kinder decor: frișcă "
+    ]
   },
   {
     "src": "images/t-39.jpg",
     "alt": "Sărățele fragede",
     "title": "Sărățele fragede",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Sărățele fragede: 500gr făină, 150gr margarină, 100gr untură, 1 ou, sare, 1/2 pachet drojdie(12gr), 4lg lapte cald, 150gr smântână",
+      ""
+    ]
   },
   {
     "src": "images/t-40.jpg",
     "alt": "Tort Barby",
     "title": "Tort Barby",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Tort Barby blaturi: 10 ouă, 6lg apă, 14lg zahăr, 14lg făină(cacao)",
+      "Tort Barby crema: 12 ouă, 2 căni jumate zahăr, 5pachete unt"
+    ]
   },
   {
     "src": "images/t-41.jpg",
     "alt": "Felie de lapte",
     "title": "Felie de lapte",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Felie de lapte blat: 4 ouă, 80gr zahăr, 1 fiolă vanilie, 2lg miere, 2lg făină, 2lg griș, 2lg cacao, bicarbonat, 100ml ulei, 20ml lapte, sare",
+      "Felie de lapte crema: 220gr lapte condensat, 100ml lapte, 200ml frișcă lichidă, 50gr miere, 10gr gelatină, 5lg apă, vanilie",
+      "Felie de lapte glazura: 150gr ciocolată lapte, 2-3lg frișcă lichidă, 1lg unt"
+    ]
   },
   {
     "src": "images/t-42.jpg",
-    "alt": "Prăjitură cu crema de Ciocolată",
-    "title": "Prăjitură cu crema de Ciocolată",
+    "alt": "Prăjitură cu cremă de Ciocolată",
+    "title": "Prăjitură cu cremă de Ciocolată",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Prăjitură cu cremă de Ciocolată blat: 6 ouă, 150gr zahăr, 250gr făină, 3lg iaurt, 2lg miere, 50gr unt, bicarbonat",
+      "Prăjitură cu crema de Ciocolată crema: 4 gălbenușuri, 300gr zahăr praf, 250gr unt, rom, 1 plic ciocolată caldă, 4lg cacao",
+      "Prăjitură cu crema de Ciocolată glazura: 250gr frișcă, zahăr după gust, întăritor "
+    ]
   },
   {
     "src": "images/t-43.jpg",
     "alt": "Prăjitură cu brânză si Stafide",
     "title": "Prăjitură cu brânză si Stafide",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Prăjitură cu brânză si Stafide foi: 4lg untură/8lg margarină, 600-650gr făină, bicarbonat, 200ml lapte, 2 ouă, sare",
+      "Prăjitură cu brânză si Stafide umplutura: 800gr brânză dulce, 3 ouă, 6lg griș, coajă portocală, rom, zahăr după gust, 50gr stafide"
+    ]
   },
   {
     "src": "images/t-44.jpg",
-    "alt": "Prăjitură cu Cioc si frișcă",
-    "title": "Prăjitură cu Cioc si frișcă",
+    "alt": "Cremă cu Ciocolată și Frișcă",
+    "title": "Cremă cu Ciocolată și Frișcă",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Cremă cu Ciocolată și frișcă crema 1: 200gr ciocolată lapte, 200ml frișcă lichidă,",
+      "Cremă cu Ciocolată și frișcă crema 2: 200gr ciocolată albă, 160ml frișcă lichidă, vanilie, întăritor frișcă",
+      "Cremă cu Ciocolată și frișcă crema 3: 100gr ciocolată lapte, 100gr ciocolată neagră, 200ml frișcă lichidă, 200gr unt, 1lg cacao, 1lg zahăr praf, rom(truge tăiate, nucă prăjită și măcinată)"
+    ]
   },
   {
     "src": "images/t-45.jpg",
-    "alt": "Kurtos + Glazura de Ciocolată",
-    "title": "Kurtos + Glazura de Ciocolată",
+    "alt": "Kurtos + Glazură de Ciocolată",
+    "title": "Kurtos + Glazură de Ciocolată",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Kurtos aluat: 30gr drojdie, 300ml lapte, 2lg zahăr tos, 500gr făină, 2ouă, 2 gălbenușuri, 80gr margarină, sare",
+      "Kurtos sirop 200gr zahăr, 100ml apă",
+      "Kurtos glazura: 8lg zahăr, 200gr nucă măcinată",
+      "Glazură de Ciocolată 1: 50gr zahăr, 150ml lapte, 200gr ciocolată amăruie, 50gr unt.",
+      "Glazură de Ciocolată 1: 200gr ciocolată amăruie,100ml frișcă lichidă, 50gr unt.",
+      "Glazură de Ciocolată 1: 150gr ciocolată negră, 150gr zahăr, 75ml apă,40gr unt gras."
+    ]
   },
   {
     "src": "images/t-46.jpg",
     "alt": "Fursecuri cu unt",
     "title": "Fursecuri cu unt",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Fursecuri cu unt: 300gr făină, 250gr unt, 150gr zahăr, 2 gălbenușuri, 1 coajă portocală",
+      "Fursecuri cu unt glazura: 1 albuș, 4lg zahăr praf, 1 linguriță zeamă de lămâie/portocală",
+      "Fursecuri cu unt decor: ciocolată sau colorant"
+    ]
   },
   {
     "src": "images/t-47.jpg",
-    "alt": "Fursecuri Ovis Molis + Fursecuri cu nucă si cioc",
-    "title": "Fursecuri Ovis Molis + Fursecuri cu nucă si cioc",
+    "alt": "Fursecuri Ovis Molis + Fursecuri cu nucă și ciocolată",
+    "title": "Fursecuri Ovis Molis + Fursecuri cu nucă și ciocolată",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Fursecuri Ovis Molis: 300gr făină, 180gr unt, 100gr zahăr praf, 1 gălbenuș, bicarbonat, sare",
+      "Fursecuri Ovis Molis umplutura: gem, nucă sau rahat, zahăr praf",
+      "Fursecuri cu nucă și ciocolatăȘ 100gr unt, 100gr făină, 50 gr nucă măcinată, 50gr zahăr praf, 1 linguriță rom, sare, vanilie, bicarbonat"
+    ]
   },
   {
     "src": "images/t-48.jpg",
-    "alt": "Fursecuri Ciocolată",
-    "title": "Fursecuri Ciocolată",
+    "alt": "Fursecuri Ciocolată + Turtă dulce cu miere",
+    "title": "Fursecuri Ciocolată + Turtă dulce cu miere",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Fursecuri Ciocolată: 1.5 pahar făină, 0.5 pahar cacao + 2lg, bicarbonat, sare, 0.5 pahar zahăr , 80ml ulei, dulceță de zmeură",
+      "Turtă dulce cu miere: 550gr făină, 200gr zahăr praf, 2 ouă întregi, 3 gălbenușuri, 2 lingurițe scorțișoară, zahăr vanilat, bicarbonat, 10lg miere",
+      "Turtă dulce cu miere glazura: 3 albușsuri, 400gr zahăr"
+    ]
   },
   {
     "src": "images/t-49.jpg",
-    "alt": "Muffins cu fructe rosii",
-    "title": "Muffins cu fructe rosii",
+    "alt": "Muffins cu fructe roșii",
+    "title": "Muffins cu fructe roșii",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Muffins cu fructe roșii: 1 iaurt natural, 3 ouă, 240gr zahăr, 225gr făină, 100ml ulei măsline, bicarbonat, zahăr vanilat, 120gr fructe roșii",
+      ""
+    ]
   },
   {
     "src": "images/t-50.jpg",
-    "alt": "Glazura alba, Prăjitură Snikars",
-    "title": "Glazura alba, Prăjitură Snikars",
+    "alt": "Glazură albă, Prăjitură Snikars",
+    "title": "Glazură albă, Prăjitură Snikars",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Glazură albă: 100gr ciocolată albă, 1 albuș, 2lg lapte, 4lf zahăr praf, zeama de la o lămâie",
+      "Prăjitură Snikars blat: 7 albușuri, 7lg zahăr, 200gr nuci măcinate, 4lg făină, bicarbonat",
+      "Prăjitură Snikars crema albă: 200gr ciocolată albă, 2lg ulei",
+      "Prăjitură Snikars crema caramel: 12lg zahăr, 200gr unt, 7 gălbenușuri, 200gr alune/almendre/nucă tăiată",
+      "Prăjitură Snikars crema neagră: 200gr ciocolată lapte, 2lg ulei"
+    ]
   },
   {
     "src": "images/t-51.jpg",
@@ -420,8 +592,8 @@
   },
   {
     "src": "images/t-52.jpg",
-    "alt": "Crema de lămâie + Negreasa",
-    "title": "Crema de lămâie + Negreasa",
+    "alt": "Cremă de lămâie + Negreasă",
+    "title": "Cremă de lămâie + Negreasă",
     "type": "cakes",
     "ingredients": ["", ""]
   },
