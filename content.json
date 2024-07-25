@@ -849,14 +849,21 @@
     "alt": "Prăjitură Imperial",
     "title": "Prăjitură Imperial",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Prăjitură Imperial blat cacao: 6 ouă, 2-3lg zahăr, 2lg cacao neagră, 6lg făină, praf de copt/bicarbonat",
+      "Prăjitură Imperial blat nucă: 4 ouă, 150gr nucă măcinată, 50gr zahăr, 1.5lg miere, 4lg făină, praf copt",
+      "Prăjitură Imperial blat crema: 500gr lapte, vanilie, 5 gălbenușuri, 100gr zahăr, 250gr unt spumat, 1.5lg amidon, 1.5lg făină",
+      "Prăjitură Imperial blat decor: ciocolată topită"
+    ]
   },
   {
     "src": "images/t-77.jpg",
     "alt": "Tort Diplomat cu Pișcoturi",
     "title": "Tort Diplomat cu Pișcoturi",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Tort Diplomat cu Pișcoturi: 400gr pișcoturi, fructe din compot sau naturale tăiate cubulețe, 500ml lapte, 500ml frișcă lichidă, 200gr zahăr, 5 gălbenușuri, 2lg făină, 20gr gelatină, esență lămâie"
+    ]
   },
   {
     "src": "images/t-78.jpg",
@@ -870,140 +877,207 @@
     "alt": "Petre Roman",
     "title": "Petre Roman",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Petre Roman foi: 10 ouă, 300gr zahăr, 120ml apă, coaja de la o lămâie, vanilie, bicarbonat stins cu zeama de la o lămâie, 300gr făină, sare",
+      "Petre Roman crema: 4 gălbenușuri, 200gr zahăr, 450ml lapte, 1 fiolă vanilie, 1 pachet unt",
+      "Petre Roman caramelul: 400gr zahăr, 1/2 pachet unt",
+      "Petre Roman bezea: 4 albușuri, 150gr zahăr, puțină sare"
+    ]
   },
   {
     "src": "images/t-80.jpg",
     "alt": "Cozonac Bontea",
     "title": "Cozonac Bontea",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Cozonac Bontea(2 buc): 1 kg făină, 350gr zahăr, coaja lămâie + portocală, sare, vanilie, 8 gălbenușuri, 50ml ulei, 14gr drojdie uscată, 400ml lapte, 150gr unt, sare"
+    ]
   },
   {
     "src": "images/t-81.jpg",
     "alt": "Coliva",
     "title": "Coliva",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Coliva: 500gr arpacas, 2l apă, 12gr sare, 200gr zahăr",
+      "Coliva umplutura: 500gr nucă, 200gr zahăr, vanilie, rom, coajă lămâie, biscuiti măcinați"
+    ]
   },
   {
     "src": "images/t-82.jpg",
     "alt": "Cornulețe Crocante + Cornulețe cu gem si nucă",
     "title": "Cornulețe Crocante + Cornulețe cu gem si nucă",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Cornulețe Crocante: 1 ou, 200gr unt sau margarină, 150gr zahăr pudră, 500gr făină(coajă lămâie, zahăr vanilat, esențe)",
+      "Cornulețe cu gem si nucă: 550gr făină, 250gr unt moale, 4 gălbenușuri, 4lg smânână, 5lg zahăr, vanilie, bicarbonat, gem",
+      "Cornulețe cu gem si nucă: spumă de nucă: 4 albușuri, 7lg zahăr, esență rom, 250gr nucă măcinată"
+    ]
   },
   {
     "src": "images/t-83.jpg",
-    "alt": "Tort cu Mere Intregi",
-    "title": "Tort cu Mere Intregi",
+    "alt": "Tort cu Mere Întregi",
+    "title": "Tort cu Mere Întregi",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Tort cu Mere Întregi: 200gr zahăr, 6 mere, 5 ouă separate, 5lg făină, 5lg zahăr, 5lg ulei, esență vanilie, bicarbonat, câteva nuci, frișcă pt ornat"
+    ]
   },
   {
     "src": "images/t-84.jpg",
     "alt": "Caramel Sărat + Cozonac Jamila",
     "title": "Caramel Sărat + Cozonac Jamila",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Caramel Sărat: 200gr zahăr, 90gr unt, 200gr frișcă lichidă, 2lg apă, 1/2 linguriță sare",
+      "Cozonac Jamila: 1kg făină, 600ml lapte, 150gr unt, 5 gălbenușuri, 300gr zahăr, 20gr drojdie, vanilie, coajă portocală sau lămâie, esență, sare"
+    ]
   },
   {
     "src": "images/t-85.jpg",
     "alt": "Fursecuri Crăpate cu Ciocolată",
     "title": "Fursecuri Crăpate cu Ciocolată",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Fursecuri Crăpate cu Ciocolată: 300gr făină, 250gr zahăr, 80gr cacao, 100gr zahăr pudră, 4 ouă, 100gr unt, sare, bicarbonat, rom"
+    ]
   },
   {
     "src": "images/t-86.jpg",
     "alt": "Cornuri Lavinia + Rafaelo(bomboane)",
     "title": "Cornuri Lavinia + Rafaelo(bomboane)",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Cornuri Lavinia: 50gr drojdie crescută, 125gr unt topit, 3lg zahăr, 2 ouă, puțină sare, 200ml lapte crescut, făină cât cuprinde, gem, rahat, nucă",
+      "Rafaelo(bomboane): 110gr cocos, 100gr lapte condensat, 1lg lapte praf, alune întregi, 70gr foi napolitană, 60ml ulei cocos, 2-3lg sirop arțar"
+    ]
   },
   {
     "src": "images/t-87.jpg",
     "alt": "Prăjitură Marte",
     "title": "Prăjitură Marte",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Prăjitură Marte blaturi: 3 ouă, 80gr zahăr, sare, vanilie, 30ml ulei, 50ml lapte80gr făină, 25gr cacao, praf de copt",
+      "Prăjitură Marte caramel: 150gr zahăr, 250gr frișcă lichidă",
+      "Prăjitură Marte sirop: 80ml lapte, 1lg caramel",
+      "Prăjitură Marte crema 1: 250gr mascarpone, 1lg cu vârf zahăr praf, vanilie, 250gr frișcă lichidă",
+      "Prăjitură Marte crema 2: 250ml frișcă lichidă rece, 1lg caramel"
+    ]
   },
   {
     "src": "images/t-88.jpg",
     "alt": "Cozonac Lavinia",
     "title": "Cozonac Lavinia",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Cozonac Lavinia: 1kg făină, sare, 200gr zahăr, 1 cub drojdie(50gr) crescută, 500ml lapte călduț, 5 gălbenușuri, 200ml ulei călduț, vanilie saum rom",
+      ""
+    ]
   },
   {
     "src": "images/t-89.jpg",
     "alt": "Tăvălită",
     "title": "Tăvălită",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Tăvălită: 1 pachet margarină, 1 cană zahăr, 3 gălbenușuri, 2lg miere, 12-13lg făină, bicarbonat",
+      "Tăvălită glazură: 300ml lapte, cacao, zahăr, unt, cocos, nucă sau alune măcinate"
+    ]
   },
   {
     "src": "images/t-90.jpg",
     "alt": "Tarta Tatin cu Mere",
     "title": "Tarta Tatin cu Mere",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Tarta Tatin cu Mere aluat: 250gr făină, 125gr unt sărat, 1 ou, 60gr zahăr, puțină sare, zeama de la 1 lămâie",
+      "Tarta Tatin cu Mere caramel: 150gr zahăr, 70gr unt, sos caramel pt servit, înghețată sau frișcă"
+    ]
   },
   {
     "src": "images/t-91.jpg",
     "alt": "Tort Ralaelo",
     "title": "Tort Ralaelo",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Tort Ralaelo blat: 6 ouă, sare, 200gr zahăr, 100gr almendre măcinate, 125gr făină, esență almendre",
+      "Tort Ralaelo glazura: 200gr ciocolată albă, 250gr mascarpone, 500ml frișcă, 30gr zahăr praf, 40gr cocos",
+      "Tort Ralaelo sirop: 3lg lapte cocos"
+    ]
   },
   {
     "src": "images/t-92.jpg",
     "alt": "Ciocolată de casă",
     "title": "Ciocolată de casă",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Ciocolată de casă: 200ml apă, 400gr zahăr brun, sare, 500ml lapte praf, 3lg cacao, zahăr vanilat, zeama de la 1/2 lămâie sau 1 linguriță, 200gr unt, 1 linguriță rom, nucă, stafide, alune"
+    ]
   },
   {
     "src": "images/t-93.jpg",
     "alt": "Mucenici",
     "title": "Mucenici",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Mucenici: 500gr făină, 100gr zahăr praf, 2 vanilie, 10gr drojdie uscată, sare, coajă lămâie și portocală, 100gr unt topit, 150gr Kefir sau iaurt, 3 ouă",
+      "Mucenici decor: miere, nucă măcinată"
+    ]
   },
   {
     "src": "images/t-94.jpg",
-    "alt": "Crema Fructe Pădure",
-    "title": "Crema Fructe Pădure",
+    "alt": "Cremă Fructe Pădure",
+    "title": "Cremă Fructe Pădure",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Cremă Fructe Pădure: 350gr fructe padure, 80-85gr zahăr, 3lg zeamă de lămâie, 4gr  gelatină, 2lg apă",
+      ""
+    ]
   },
   {
     "src": "images/t-95.jpg",
     "alt": "Dantelă de zahăr pt Tort + Colaci Japonezi",
     "title": "Dantelă de zahăr pt Tort + Colaci Japonezi",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Dantelă de zahăr pt Tort: 8gr maizena(corn starch/amidon), 70ml apă, 250gr lapte condensat, colorant",
+      "Colaci Japonezi aluat: 700gr făină, 25gr drojdie proaspătă(7 uscată), 80gr zahăr, 50ml ulei, 400ml apă călduță, coajă lămâie, zahăr vanilat, 14gr sare",
+      "Colaci Japonezi sirop: 120gr zahăr, 75ml apă, nucă pt decor"
+    ]
   },
   {
     "src": "images/t-96.jpg",
     "alt": "Chec cu Iaurt si lămâie Bontea",
     "title": "Chec cu Iaurt si lămâie Bontea",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Chec cu Iaurt si lămâie Bontea: 60ml ulei, 160gr făină, 6 ouă, 180gr zahăr, 3 lămâi, 120gr iaurt, praf de copt",
+      ""
+    ]
   },
   {
     "src": "images/t-97.jpg",
-    "alt": "Mucenici + Prăjitură cu nucă si Caramel",
-    "title": "Mucenici + Prăjitură cu nucă si Caramel",
+    "alt": "Mucenici + Prăjitură cu nucă și Caramel",
+    "title": "Mucenici + Prăjitură cu nucă și Caramel",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Mucenici: 500gr făină, 100gr zahăr praf, 10gr drojdie, vanilie, sare, coajă lămâie, 100gr unt topit, 150gr Kefir sau iart, 3 ouă, ou pt uns, miere, nucă pt decor",
+      "Prăjitură cu nucă si Caramel blat: 100gr nucă măcinată, 100gr făină, 8 albușuri, sare, coajă de lămâie",
+      "Prăjitură cu nucă si Caramel crema: 100gr zahăr, 50ml apă, 100gr făină, 500ml lapte, 30gr amidon, 5 gălbenușuri, 250gr frișcă lichidă, 100gr zahăr, vanilie",
+      "Prăjitură cu nucă si Caramel glazura: 150gr ciocolată topită cu 80ml lapte"
+    ]
   },
   {
     "src": "images/t-99.jpg",
-    "alt": "Tort Ciocolată si Fructe de Pădure",
-    "title": "Tort Ciocolată si Fructe de Pădure",
+    "alt": "Tort Ciocolată și Fructe de Pădure",
+    "title": "Tort Ciocolată și Fructe de Pădure",
     "type": "cakes",
-    "ingredients": ["", ""]
+    "ingredients": [
+      "Tort Ciocolată și Fructe de Pădure crema de ciocolată lapte: 150gr ciocolată lapte, 200ml frișcă lichidă, 250gr mascarpone",
+      "Tort Ciocolată și Fructe de Pădure crema de fructe de pădure: 20gr gelatină, 1 pungă fructe congelate, 150-170gr zahăr, 200gr frișcă",
+      "Tort Ciocolată și Fructe de Pădure  glazura: ciocolată topită sau frișcă"
+    ]
   },
   {
     "src": "images/t-99.jpg",
