@@ -1923,13 +1923,13 @@
     "title": "Supe de legume + Supe de carne",
     "type": "mains",
     "ingredients": [
-      "142.Supă de gulii",
-      "143.Supă de ciuperci",
-      "144.Supă de linte",
-      "145.Supă de chimen",
-      "146.Supă de carne de vacă",
-      "147.Supă de pasăre",
-      "148.Supă de tăiței de casă"
+      "142.Supă de gulii: 1 1/2 l apă, 6 gulii, 2 lingurițe unt, 1 linguriță făină, 1 pahar smântână, sare, 1 1/2 linguriță mărar tocat",
+      "143.Supă de ciuperci: 1 1/2 l apă, 600 g ciuperci, 1 ceapă, 1 morcov, 1 pătrunjel, 4 lingurițe unt, 3 pahare lapte, 1 linguriță făină, mărar tocat",
+      "144.Supă de linte: 3 l apă, 250 g linte, 1 ceapă, 2 căţei usturoi, 2 linguri ulei, 1 linguriţă făină, ½ linguriţă cimbru pisat, sare",
+      "145.Supă de chimen: 3 l apă, 1 ceapă mare, 2 morcovi mari, 1 pătrunjel mare, 1 ţelină, 1 lingură unt, 1 lingură făină, 1 lingură chimen, sare, sare, pâine tăiată cuburi şi prăjită",
+      "146.Supă de carne de vacă: 1 kg carne, 3 l apă, 2 morcovi, 1 pătrunjel, 1 ţelină, 1 ardei gras, 1 ceapă şi cîteva foi galbene de ceapă, 5 boabe ienibahar (facultativ), 1 foaie de dafin (facultativ), sare, tăiţei (găluşte, orez)",
+      "147.Supă de pasăre: 1 kg carne de pasăre, 3 l apă, 2 morcovi, 1 pătrunjel, 1 ţelină, 1 ardei gras, 1 ceapă, 5 boabe ienibahar (facultativ), 1 foaie de dafin (facultativ), sare",
+      "148.Supă de tăiței de casă: Supă de carne de vacă sau de pasăre. T ă i ţ e i : 1 ou, 1 lingură apă, făină, un praf sare"
     ]
   },
   {
@@ -1938,14 +1938,14 @@
     "title": "Supe de carne",
     "type": "mains",
     "ingredients": [
-      "149.Supă de orez",
-      "150.Supă de găluște cu griș",
-      "151.Supă de zdrențe",
-      "152.Supă de omletă",
-      "153.Supă de orez și smântână",
-      "154.Supă à la grec",
-      "155.Supă de brânză",
-      "156.Supă cu pateuri de carne"
+      "149.Supă de orez: Supă de carne de vacă sau de pasăre, pentru fiecare persoană ½ lingură orez",
+      "150.Supă de găluște cu griș: Supă de carne de vacă sau de pasăre. G ă l u şt e : 2 ouă, ½ linguriţă unt (în lipsă, untură), 5-6 linguri griş, sare",
+      "151.Supă de zdrențe: Supă de carne de vacă sau de pasăre. Z d r e n ţ e: 2 ouă, 2-3 linguri făină, sare",
+      "152.Supă de omletă: Supă de carne de vacă sau de pasăre. O m l e t ă : 4 ouă, 1 lingură smântână, 1 lingură lapte, 1 linguriţă unt, sare",
+      "153.Supă de orez și smântână: Supă de carne de vacă sau de pasăre. 4 linguri orez, 6 linguri smântână bună, 6 felii lămâie, sare",
+      "154.Supă à la grec: Supă de carne de vacă sau de pasăre. Un vîrf de cuţit sare de lămîie, 1 ou",
+      "155.Supă de brânză: Supă de carne de vacă sau de pasăre. 3 linguri brânză de oi, rasă.",
+      "156.Supă cu pateuri de carne: 1.250 kg carne de vacă, 3 l apă, 1 morcov, 1 pătrunjel, 1 țelină, 1 ceapă, 1 foaie de dafin, 2-3 boabe ienibahar, sare"
     ]
   },
   {
@@ -1954,12 +1954,12 @@
     "title": "Ciorbe și borșuri de legume",
     "type": "mains",
     "ingredients": [
-      "157.Borș de dovlecei",
-      "158.Borș de fasole verde",
-      "159.Borș de fasole boabe",
-      "160.Borș de ștevie",
-      "161.Borș de ciuperci",
-      "162.Borș de lobodă"
+      "157.Borș de dovlecei: 1,5 l apă, 0,5 l borş, 1 ceapă, 1 morcov mic, 1 pătrunjel, 2 dovlecei mari, 3-4 roşii, 1 linguriţă unt, ½ linguriţă făină, smântână, sare, pătrunjel, mărar",
+      "158.Borș de fasole verde: 2 l apă, 0,5 l borş, 300 g fasole verde, 1 morcov mic, 1 ceapă, 1 pătrunjel mic, 4 roşii, 1 ardei gras, 1 lingură ulei, ½ linguriţă făină, verdeaţă, sare",
+      "159.Borș de fasole boabe: 3 l apă, 250 g fasole boabe, 1 ceapă, 1 morcov, 1 pătrunjel, ½ linguriţă făină, 2 linguri ulei, borş (după gust), pătrunjel şi mărar verde, sare",
+      "160.Borș de ștevie: 1 1/2 l apă, 1/2 l borș, 600 g ștevie, 200 g macriș, 2 fire ceapă verde, 2 lingurițe mărar, pătrunjel și leuștean tocate, 2 lingurițe orez, 3 linguri unt, sare, ulei, 1 ou",
+      "161.Borș de ciuperci: 1 1/2 l apă, 400 g ciuperci, 1 ceapă, 1 morcov, 1 pătrunjel, 2 1/2 linguri orez, 6 linguri smântână, 1/2 l borș, mărar verde, pătrunjel verde, sare",
+      "162.Borș de lobodă: 1 1/2 l apă, 1/2 l borș, 5-6 legături lobodă, 4 fire ceapă verde, 1 morcov, 1 pătrunjel, 3 lingurițe orez, 3 linfurițe mărar și pătrunjel verde tocate, 1 linguriță leuștean tocat, 3 linguri unt sau ulei, 1 ou, are"
     ]
   },
   {
@@ -1968,13 +1968,13 @@
     "title": "Ciorbe și borșuri de legume",
     "type": "mains",
     "ingredients": [
-      "163.Borș de urzici",
-      "164.Borș de varză dulce",
-      "165.Ciorbă de fasole verde",
-      "166.Ciorbă de varză acră",
-      "167.Ciorbă de cartofi",
-      "168.Ciorbă de rusească fără carne",
-      "169.Ciorbă de salată "
+      "163.Borș de urzici: 1 l apă, 1/2 l borș, 1 ceapă mică, 2 lingurițe orez, 1 vârf cuțit boia, 2 linguri ulei sau unt, 1/2 linguriță făină, sare, 1 ou, 2 farfurii adânci frunze de urzici",
+      "164.Borș de varză dulce: 1 1/2 l apă, 3/4 varză dulce, 1 morcov, 1 pătrunjel, 1 ceapă, 6 roșii mari, sare, 3 linguri unt, 1 ou, zeamă de lămâie(după gust)",
+      "165.Ciorbă de fasole verde: 2 l apă, 300g fasole, 1 ceapă, 1 morcov, 1 pătrunjel, 500 g roșii, 1 lingură unt, 1 linguriță făină, 1/2 pahar smântână, verdeață tocată, sare",
+      "166.Ciorbă de varză acră: 1 1/2 l apă, 3/4 varză acră, 1 morcov, 1 pătrunjel, 1 ceapă, 3-4 linguri ulei, 2 linguri pastă roșii, 3-4 linguri smântână",
+      "167.Ciorbă de cartofi: 1 l apă, 1/2 morcov, 1/2 pătrunjel, 1 ceapă, 4 cartofi, 4 roșii mari, 1/2 linguriță făină, 2 linguri unt sau ulei, 2 lingurițe pătrunjel tocat, sare, 2 linguri smântână",
+      "168.Ciorbă de rusească fără carne: 3 l apă, 1 morcov mic, 1 pătrunjel mic, 1 ceapă mare, 1 mână de fasole verde, 1 sfeclă roşie mică, ¼ varză mică, 2 ardei graşi, 1 lingură unt sau untură, 1 lingură mărar şi pătrunjel tocat, ½ linguriţă făină, sare, 1 pahar smântână",
+      "169.Ciorbă de salată: 2 l apă, 2 salate cu miez tare, 1 morcov, 1 pătrunjel, 1 ceapă mare, 1 căţel usturoi (facultativ), 1 lingură făină, 2 gălbenuşuri, 2 linguri smântnă, 2-3 linguri oţet, pătrunjel tocat, sare. O m l e t ă din: 150 g slănină afumată, 4 ouă, 2 linguri lapte, sare"
     ]
   },
   {
@@ -1983,12 +1983,12 @@
     "title": "Ciorbe și borșuri de carne",
     "type": "mains",
     "ingredients": [
-      "170.Ciorbă rusească de carne",
-      "171.Borș de perișoare",
-      "172.Borș de vițel",
-      "173.Borș de dovlecei umpluți",
-      "174.Borș de miel",
-      "175.Borș de berbec"
+      "170.Ciorbă rusească de carne: 3 l apă, 500 g carne grasă de vacă, 500 g roşii, 1 morcov mic, 1 pătrunjel mic, 1 ardei gras, 10 păstăi fasole, 1 ceapă, 1 sfeclă roşie de mărimea unui cartof mare, 1 bucăti varză dulce, mărar şi pătrunjel verde tocat, sare, smântână. ",
+      "171.Borș de perișoare: 2 l apă, 0,500 l borş, 500 g roşii, 1 morcov mic, 1 pătrunjel mic, 1 ceapă, sare, verdeaţă. P e r i ş o a r e : 500 g carne de vacă, 1 lingură orez, 1 ou, 1 ceapă prăjită cu ½ lingură untură, sare, piper",
+      "172.Borș de vițel: 750 g carne de viţel, 2 l apă, 1 l borş, 1 ceapă, 1 morcov, 1 pătrunjel, 1 ţelină, 1 lingură orez, 1 linguriţă leuştean tocat, 1 ou, sare.",
+      "173.Borș de dovlecei umpluți: 500 g carne de vacă, 2 l apă, 1 lingură orez, 1 morcov, 1 pătrunjel, 2 cepe, 1 lingură untură, 3 dovlecei tineri, 1 ţelină, 1 lingură mărar şi pătrunjel tocat, sare, piper, borş (0,500-0,750 l, după gust), ½ pahar smântână",
+      "174.Borș de miel: 750 g carne de miel, 2 l apă, 1 l borş, 1 ceapă, 1 morcov, 1 pătrunjel, 1 ţelină, 1 lingură orez, 1 linguriţă leuştean tocat, 1 ou, sare",
+      "175.Borș de berbec: 750 g carne, 1 l apă, 0,5 l borş, 1 ceapă, 1 morcov, 1 pătrunjel, 1 ardei gras, 5-6 roşii, 2 linguri orez, leuştean, sare"
     ]
   },
   {
@@ -1997,11 +1997,11 @@
     "title": "Ciorbe și borșuri de carne + Ciorbe și borșuri de pește",
     "type": "mains",
     "ingredients": [
-      "176.Ciorbă de potroace.",
-      "177.Borș de pui",
-      "178.Borș de crap",
-      "179.Borș de perișoare de pește",
-      "180.Ciorbă de pește cu zeamă de varză",
+      "176.Ciorbă de potroace: 2 la apă, 1 l zeamă de varză, măruntaiele şi aripile de la o pasăre (găină, curcan, gâscă sau amestecate), 1 morcov, 1 pătrunjel, 1 ceapă mare, ½ ţelină, verdeaţă tocată (pătrunjel şi mărar), sare",
+      "177.Borș de pui: 1 pui tânăr, 2 l apă, borş (după gust), 1 pătrunjel, 1 morcov, 1 ceapă, 2 roşii, 2 linguri orez, ½ lingură mărar şi pătrunjel tocat, 1 ou, sare.",
+      "178.Borș de crap: Capul şi coada de la crap, 2 l apă, 0,5 l borş, 1 morcov mic, 1 pătrunjel mic, 1 ceapă mare, 1 lingură orez, verdeaţă",
+      "179.Borș de perișoare de pește: 2 1 apă, 0,5 l borş sau zeamă de varză, 500 g crap sau ştiucă, 1 morcov, 1 pătrunjel, 2 cepe, 1 ou, 1 lingură ulei, miezul de la o felie de pâine albă, 1 lingură mărar şi pătrunjel tocat, sare, piper",
+      "180.Ciorbă de pește cu zeamă de varză: 500 g peşte, 0,5 l apă, zeamă de varză, 1 morcov, 1 pătrunjel, 1 ceapă, leuştean, sare",
       "181....."
     ]
   },
@@ -2011,13 +2011,13 @@
     "title": "Mâncăruri de legume",
     "type": "mains",
     "ingredients": [
-      "182.Ghiveci de legume",
+      "182.Ghiveci de legume: 2 cepe, 1 morcov, 1 pătrunjel, 1 țelină, 1/4 varză, 1 conopidă, o mână fasole verrde, o mână mazăre boabe, o mână bame curățate și opărite cu borș, 2 ardei grași sau gogoșari, 1 vânătă, 2 cartofi, 1 dovlecel, 3-4 roșii mari, pătrunjel verde, 1/2 pahar untdelemn, sare",
       "183....",
-      "184.Fasole verde cu unt",
-      "185.Fasole verde cu unt și pesmet",
-      "186.Mazăre verde cu unt",
-      "187.Varză de Bruzelles cu unt",
-      "188.Legume asortate cu unt"
+      "184.Fasole verde cu unt: 1 kg fasole verde, 2 linguri unt, sare, crochete de griş",
+      "185.Fasole verde cu unt și pesmet: 1 kg fasole verde, 3 linguri unt, 2 linguri pesmet alb, sare",
+      "186.Mazăre verde cu unt: 1 kg mazăre, 2 linguri unt, ½ linguriţă zahăr (facultativ), 1 linguriţă mărar, sare",
+      "187.Varză de Bruzelles cu unt: 1 kg varză de Bruxelles, 3 linguri unt, 1 lingură pesmet , sare",
+      "188.Legume asortate cu unt: 250 g morcovi, 250 g ţelină, 2-3 gulii, 1 linguriţă zahăr, 2 linguri unt, sare"
     ]
   },
   {
@@ -2026,13 +2026,13 @@
     "title": "Mâncăruri de legume",
     "type": "mains",
     "ingredients": [
-      "189.Legume asortate cu unt 2",
-      "190.Legume asortate cu unt 3",
-      "191.Varză dulce cu unt și pesmet",
-      "192.Conopidă cu unt și pesmet",
-      "193.Morcovi cu unt și smântână",
-      "194.Morcovi cu unt",
-      "195.Sfeclă cu unt și smântână"
+      "189.Legume asortate cu unt 2: 200 g cartofi, 200 g morcovi, 200 g mazăre boabe, 2 linguri unt",
+      "190.Legume asortate cu unt 3: ½ conopidă, 250 g carote, 250 g mazăre boabe, 250 g cartofi noi, 2 linguri unt, 1 lingură pesmet, sare",
+      "191.Varză dulce cu unt și pesmet: 1 varză mijlocie, 3 linguri unt, 2 linguri pesmet, sare.",
+      "192.Conopidă cu unt și pesmet: 1 conopidă mijlocie, 3-4 linguri unt, 2 linguri pesmet, sare. ",
+      "193.Morcovi cu unt și smântână: 500 g morcovi, 1 lingură unt, 1 linguriţă zahăr (facultativ), ½ pahar smântână, ½ linguriţă de făină, sare.",
+      "194.Morcovi cu unt: 500 g morcovi tineri, 1½ lingură unt, 1 linguriţă zahăr (facultativ), sare",
+      "195.Sfeclă cu unt și smântână: 1 kg sfeclă, 1 lingură unt, 1 linguriţă zahăr, 1 lingură oţet, ½ pahar smântână, sare."
     ]
   },
   {
@@ -2041,15 +2041,15 @@
     "title": "Mâncăruri de legume",
     "type": "mains",
     "ingredients": [
-      "196.Gulii cu unt și smântână",
-      "197.Țelină cu unt și smântână",
-      "198.Audive cu unt",
-      "199.Iahnie de cartofi",
-      "207.Mâncare de cartofi noi",
-      "208.Chifteluțe de cartofi",
-      "209.Chifteluțe cu cartofi umplute cu brânză",
-      "210.Chifteluțe de cartofi umplute cu varză acră",
-      "211.Chifteluțe umpluți cu cașcaval"
+      "196.Gulii cu unt și pesmet: 12 gulii tinere, 4 linguri unt, 2 linguri pesmet, sare",
+      "197.Țelină cu unt și smântână: 4 țeline mari sau 5 mijlocii, 3 linguri unt, 2 linguri pesmet, sare",
+      "198.Audive cu unt: 750 g andive, 3 1/2 linguri unt, 2 lingurițe zeamă de lămâie, sare, 1 1/2 linguriță pătrunjel verde tocat",
+      "199.Iahnie de cartofi: 1 kg cartofi, 2 cepe, 5 linguri ulei, 1 linguriţă boia, 2 linguri bulion, 1 linguriţă făină, 1 foaie de dafin, sare ",
+      "207.Mâncare de cartofi noi: 750 g cartofi, 1 ceapă mare, 500 g roşii sau 2 linguri bulion, 1 linguriţă verdeaţă, sare, 2 linguri ulei, ½ linguriţă făină",
+      "208.Chifteluțe de cartofi: 500 g cartofi, 2 linguri făină, 1 ou, sare, piper (facultativ), 2-3 linguri untură sau ulei pentru prăjit.",
+      "209.Chifteluțe cu cartofi umplute cu brânză: 500 g cartofi, 2 linguri făină, 1 ou, sare, 150 g brânză de oi frământată cu un ou, 2-3 linguri untură sau ulei pentru prăjit",
+      "210.Chifteluțe de cartofi umplute cu varză acră: Aceleaşi cantităţi ca la 208, în plus puţină varză acră.",
+      "211.Chifteluțe umpluți cu cașcaval: 6 cartofi mari, 1 1/2 lingură unt, 150g cașcaval uscat, 150 g smântână, 1 lingură mărar tocat, sare"
     ]
   },
   {
@@ -2058,12 +2058,12 @@
     "title": "Mâncăruri de legume",
     "type": "mains",
     "ingredients": [
-      "212.Ruladă de cartofi cu legume",
-      "213.Dovlecei în floare cu ulei",
-      "214.Dovlecei prăjiți în ulei",
-      "215.Dovlecei prăjiți cu smântână",
-      "216.Chifteluțe de dovlecei",
-      "217.Mâncare de dovlecei cu cartofi"
+      "212.Ruladă de cartofi cu legume: 1 kg cartofi, 2 ouă, 1 pahar lapte, 1linguriţă unt, sare. U m p l u t u ra : 500 g morcovi, 2 linguri unt, 1 linguriţă zahăr, sare. Sos de smântână, de lapte sau de ou. ",
+      "213.Dovlecei în floare cu ulei: 750 g dovlecei în floare, 5 roşii mari, 1 ceapă, 1 linguriţă mărar şi pătrunjel tocat, 2 linguri ulei, 1 căţel usturoi, ¼ linguriţă zahăr, sare",
+      "214.Dovlecei prăjiți în ulei: 4 dovlecei, 2 linguri făină, 3-4 linguri ulei, oţet sau zeamă de lămâie, sare",
+      "215.Dovlecei prăjiți cu smântână: 6 dovlecei nu prea mari, 2 linguri untură, 1 linguriţă unt, 1 pahar smântână, 1 linguriţă făină, 1 linguriţă mărar tocat, sare",
+      "216.Chifteluțe de dovlecei: 4 dovlecei mijlocii, 1 ou, 2 linguri făină, 1 lingură verdeaţă tocată, miez de franzelă muiat în apă şi bine bine (de mărimea unui ou), 2 linguri untură, 1 ceapă tocată puţin prăjită, sare, piper, salată verde sau roşii",
+      "217.Mâncare de dovlecei cu cartofi: 4 dovlecei potrivit de mari, 4-5 cartofi, 1 lingură untură, 1 lingură unt, 1 ceaşcă smântână, 1 lingură făină, mărar, sare"
     ]
   },
   {
@@ -2072,13 +2072,13 @@
     "title": "Mâncăruri de legume",
     "type": "mains",
     "ingredients": [
-      "225.Fasole boabe preparată grecește",
-      "226.Fasole boabe bătută",
+      "225.Fasole boabe preparată grecește: 350 g boabe de fasole verde, o mînă de mărar, o mînă de pătrunjel, o mână de leuştean, 10-15 fire de ceapă verde, 1 linguriţă bulion, 4 linguri, sare, piper",
+      "226.Fasole boabe bătută: 500 g fasole boabe uscată, 3 l apă, 3 cepe mari, 3-4 linguri ulei, ½ linguriţă boia de ardei, usturoi pisat (facultativ), sare, murături.",
       "227.Fasole verde sau țucără cu sos de roșii și măsline",
-      "228.Mazăre cu smântână",
-      "229.Mazăre pregătită țărănește",
-      "230.Mazăre cu roșii",
-      "231.Mazăre uscată bătută"
+      "228.Mazăre cu smântână: 1 kg mazăre boabe, 1 lingură unt, 1 linguriţă făină, 1 linguriţă zahăr (facultativ), 1 linguriţă mărar tocat, 1 pahar smântână, sare, friganele (facultativ).",
+      "229.Mazăre pregătită țărănește: 1 kg mazăre, 2 linguri ulei, 4-5 roşii, 1 lingură verdeaţă tocată, sare",
+      "230.Mazăre cu roșii: 1 kg mazăre verde, 1 linguriţă unt, 4-5 roşii, 1 ceapă, 1 linguriţă zahăr (facultativ), 1 linguriţă mărar tocat, sare. ",
+      "231.Mazăre uscată bătută: 400 g mazăre, 4 l apă, 1 linguriţă zahăr (facultativ), 5-6 linguri ulei, sare, gogoşari (sfeclă roşie)"
     ]
   },
   {
@@ -2087,12 +2087,12 @@
     "title": "Mâncăruri de legume",
     "type": "mains",
     "ingredients": [
-      "232.Vinete în smântână 1",
-      "233.Vinete în smântână 2",
-      "234.Pireu de vinete",
-      "235.Mâncare de vinete cu usturoi",
-      "236.Vinete preparate grecește",
-      "237.Mâncare de vinete preparată rusește"
+      "232.Vinete în smântână 1: 3 vinete frumoase, 2 linguri unt sau untură, 1 lingură făină, 1 pahar smântână, 1 linguriţă mărar tocat, sare",
+      "233.Vinete în smântână 2: 3 vinete mari, 2-3 linguri făină, 1 pahar smântână, 3 linguri unt sau ulei, 1 linguriță pătrunjel tocat",
+      "234.Pireu de vinete: 2 vinete mari, 1 pahar lapte, 1 lingură unt, 1/2 linguriță zahăr, sare",
+      "235.Mâncare de vinete cu usturoi: 3-4 vinete potrivit de mari, 4 cepe, 5 căţei de usturoi, 4 roşii, 3 linguri ulei, sare",
+      "236.Vinete preparate grecește: 3-4 vinete mari, 500 g roşii, 4 linguri ulei, ½ linguriţă zahăr, 2 linguri făină, 1 căpăţână usturoi, sare.",
+      "237.Mâncare de vinete preparată rusește: 3 vinete potrivite, 500 g roşii, 3 cepe, 1 morcov, 3 ardei graşi, 1 pătrunjel, 1 ţelină, 1 lingură mărar şi pătrunjel verde, 1 căpăţână usturoi, 2 linguri făină, 4 linguri ulei, ½ linguriţă zahăr, sare."
     ]
   },
   {
@@ -2101,13 +2101,13 @@
     "title": "Mâncăruri de legume",
     "type": "mains",
     "ingredients": [
-      "238.Chifteluțe de vinete",
-      "239.Varză de Bruxelles cu smântână",
-      "240.Varză de Bruxelles la cuptor",
-      "241.Praz cu măsline",
-      "242.Pilaf de praz",
-      "243.Mâncare de praz",
-      "244.Conopidă cu parmezan"
+      "238.Chifteluțe de vinete: 2 vinete mari, 2 linguri brânză, 2 ouă, 2 linguri făină, ulei pentru prăjit, sare, salată verde",
+      "239.Varză de Bruxelles cu smântână: 750 g varză, 2 linguri unt, 1 pahar smântână, sare",
+      "240.Varză de Bruxelles la cuptor: 750 g varză, 2 linguri unt, 2 linguri brânză, 2 ouă, 2-3 linguri lapte, sare, pesmet",
+      "241.Praz cu măsline: 4-5 fire de praz, 4 linguri ulei, ½ linguriţă zahăr, 1 lingură oţet, 1 lingură bulion, 150 g măsline, sare, piper.",
+      "242.Pilaf de praz: 4-5 fire de praz, 2 cepe, 1 pahar orez, 2 pahare apă, 3 linguri ulei, 1 lingură bulion, sare, piper.",
+      "243.Mâncare de praz: 6 fire de praz, 1/2 pahar lapte, 1 pahar smântână, 2-3 linguri cașcaval ras, sare",
+      "244.Conopidă cu parmezan: 1 conopidă mare, 3 linguri unt, 3-4 linguri parmezan ras (se poate înlocui cu caşcaval), 1 lingură pesmet, sare. "
     ]
   },
   {
@@ -2116,13 +2116,13 @@
     "title": "Mâncăruri de legume",
     "type": "mains",
     "ingredients": [
-      "245.Măncare de conopidă",
-      "246.Varză dulce călită",
-      "247.Varză acră călită",
-      "248.Chifteluțe de varză",
-      "249.Varză cu smântână",
-      "250.Bame preparate grecește",
-      "251.Mâncare de țelină"
+      "245.Măncare de conopidă: 1 conopidă mare, 3 linguri ulei, 1 ceapă mare, ½ linguriţă făină, 5-6 roşii mari, ½ linguriţă zahăr, 1 lingură mărar şi pătrunjel tocat, sare. ",
+      "246.Varză dulce călită: 1 varză mijlocie, 3 linguri untură, câteva boabe piper, 3-4 roşii, sare.",
+      "247.Varză acră călită: 1 varză mijlocie, 3 linguri untură, câteva boabe piper.",
+      "248.Chifteluțe de varză: 1 varză mică, 1 ou, 2-3 linguri făină, sare, piper, 1 linguriţă mărar şi pătrunjel tocat, 3 linguri untură sau ulei",
+      "249.Varză cu smântână: 1 varză mijlocie, 1/2 kg lapte, 1 pahar smântână, 2-3 linguri parmezan sau cașcaval ras, 1/2 linguriță sare",
+      "250.Bame preparate grecește: 500 g bame tinere, 2-3 linguri ulei, 5-6 roşii, 1 ceapă, 1 lingură oţet, ½ linguriţă zahăr, 1 lingură mărar şi pătrunjel tocat, sare. ",
+      "251.Mâncare de țelină: 5 ţeline mari, 1 ceapă, 2 linguri untură, 2 linguri făină, 1 pahar lapte, 1 linguriţă frunză de ţelină tocată, sare"
     ]
   },
   {
@@ -2132,12 +2132,12 @@
     "type": "mains",
     "ingredients": [
       "252.Mâncare de țelină cu ciuperci",
-      "253.Măncare de gulii",
-      "254.Piure de gulii",
-      "255.Gulii umplute cu orez",
-      "256.Piureu de spanac cu ochiuri",
-      "257.Piureu de spanac cu ceapă",
-      "258.Ardei umpluți cu vinete"
+      "253.Măncare de gulii: 6-7 gulii frumoase, 2 linguri unt sau untură, 1 ceapă, 1 pahar lapte, 2 linguri făină, ½ linguriţă zahăr, 1 linguriţă de mărar şi pătrunjel tocat, sare. ",
+      "254.Piure de gulii: 600 g gulii, 1 lingură unt, 1/4 pahar lapte, 1/2 linguriță zahăr, sare",
+      "255.Gulii umplute cu orez: 6 gulii, 1 pahar orez, 1/4 kg mazăre curățată, mărar, sare, ulei, 1 ceapă, 2 cești supă zarzavat sau apă",
+      "256.Piureu de spanac cu ochiuri: 1,5 kg spanac, 2 linguri unt, 1 pahar lapte, sare. ",
+      "257.Piureu de spanac cu ceapă: 1,5 kg spanac, 2 linguri unt, 1½ pahar lapte, 1 ceapă mică, 1 linguriţă făină, un praf zahăr, sare",
+      "258.Ardei umpluți cu vinete: 6 ardei mari, 500 g roşii, 2 vinete mari, 2 cepe, 1 ou, 2 linguriţe făină, 2 linguri untură, ½ linguriţă zahăr, sare, piper, 1 lingură pătrunjel şi mărar tocat. "
     ]
   },
   {
@@ -2586,7 +2586,7 @@
     "type": "mains",
     "ingredients": [
       "472.Chifle",
-      "473.Tăiței",
+      "473.Tăiței:3 ouă, 1 ceşcuţă cu apă, făină cât cuprinde, ½ linguriţă sare.  ",
       "474.Iofca(Laște)",
       "475.Tăiței cu nuci",
       "476.Macaroane cu brânză sau parmezan",
