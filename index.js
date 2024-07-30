@@ -328,9 +328,11 @@ function injectImages(images, type = null, search = "") {
       image.alt
     }" style="width: 100%" class="w3-hover-opacity"/>
                 <div class="w3-container w3-white">
-                    <p><b>${image.title}</b></p>
+                    <p><b>${image.title
+                      .map((title) => `<li>${title}</li>`)
+                      .join("")}</b></p>
                     <details>
-                    <summary><b>Ingredients</b></summary>
+                    <summary>Ingrediente</summary>
                     <ul>
                     </br> 
                         ${image.ingredients

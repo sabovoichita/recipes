@@ -2,7 +2,7 @@
   {
     "src": "images/t-1.jpg",
     "alt": "Măsurători",
-    "title": "Măsurători",
+    "title": ["Măsurători"],
     "type": "cakes",
     "ingredients": [
       "1 linguriță rasă de ==: apă = 5gr, făină = 6gr, griș = 7gr, zahăr = 10gr, orez = 9gr, unt = 10gr, pesmet = 5gr, lapte = 5gr, ulei = 3.5gr",
@@ -12,7 +12,7 @@
   {
     "src": "images/t-2.jpg",
     "alt": "Dinții negresei + Eclere",
-    "title": "Dinții negresei + Eclere",
+    "title": ["1. Dinții negresei", "2. Eclere"],
     "type": "cakes",
     "ingredients": [
       "Dinții negresei: 6 gălbenușuri, 300gr zahăr,  120gr margarină, 1/2 plic cacao, rom, bicarbonat, 300gr făină, 300gr lapte, gem, 6 albușuri, 250/300gr zahăr",
@@ -23,19 +23,18 @@
   {
     "src": "images/t-3.jpg",
     "alt": "Prăjitură cu Vanilie + Smerr - Chifle",
-    "title": "Prăjitură cu Vanilie + Smerr - Chifle",
+    "title": ["3. Prăjitură cu Vanilie", "4. Smerr -Chifle"],
     "type": "cakes",
     "ingredients": [
       "Prăjitură cu Vanilie: 300gr făină; 100gr margarină, 2 ouă, 8lg zahăr, bicarbonat, lapte cât cuprinde",
-      "crema: 400ml lapte, 3lg făină, 250gr zahăr, 1 pachet unt si vanilie",
-      "Smerr - Chifle: 600gr untură, 900gr făină, 1 ou, 2 gălbenușuri, sare, 200ml apă cu 4lg oțet, 3lg smântână, bicarbonat",
-      "gem pentru umplut: "
+      "Prăjitură cu Vanilie crema: 400ml lapte, 3lg făină, 250gr zahăr, 1 pachet unt si vanilie",
+      "Smerr - Chifle: 600gr untură, 900gr făină, 1 ou, 2 gălbenușuri, sare, 200ml apă cu 4lg oțet, 3lg smântână, bicarbonat, gem pentru umplut"
     ]
   },
   {
     "src": "images/t-4.jpg",
     "alt": "Foi negre + Foi cu miere + Prăjitură cu spumă",
-    "title": "Foi negre + Foi cu miere + Prăjitură cu spumă",
+    "title": ["4. Foi negre", "5. Foi cu miere", "6. Prăjitură cu spumă"],
     "type": "cakes",
     "ingredients": [
       "Foi negre: 300gr făină, 1 ou, 100gr margarină, 100gr zahăr, 3lg cacao, bicarbonat, 7lg lapte",
@@ -50,18 +49,18 @@
     "src": "images/t-5.jpg",
     "alt": "Budapesta",
     "type": "cakes",
-    "title": "Budapesta",
+    "title": ["7. Budapesta"],
     "ingredients": [
-      "Budapesta blat1: 6 ouă, 7lg zahăr, 3lg apă, 7lg făină",
-      "Budapesta blat2: 6 albușuri, 250gr nucă măcinată, 250gr zahăr, 2lg făină si bicarbonat",
+      "Budapesta blat 1: 6 ouă, 7lg zahăr, 3lg apă, 7lg făină",
+      "Budapesta blat 2: 6 albușuri, 250gr nucă măcinată, 250gr zahăr, 2lg făină si bicarbonat",
       "Budapesta crema: 6 gălbenușuri, 250gr zahăr, 2/3lg cacao, 4/5lg cafea lichida, 1 pachet unt",
-      "Budapesta Glazură: 5lg zahăr, 2lg lapte, 50gr margarină, cacao"
+      "Budapesta glazură: 5lg zahăr, 2lg lapte, 50gr margarină, cacao"
     ]
   },
   {
     "src": "images/t-6.jpg",
-    "alt": "Prăjitură chinezeasca + Bombe + Tort simplu",
-    "title": "Prăjitură chinezeasca + Bombe + Tort simplu",
+    "alt": "Prăjitură chinezească + Bombe + Tort simplu",
+    "title": ["8. Prăjitură chinezească", "9. Bombe", "10. Tort simplu"],
     "type": "cakes",
     "ingredients": [
       "Prăjitură chinezească: 200gr margarină, 200gr zahăr, 150gr nuci, coaja lămâie, 6 albușuri, 100gr făină, bicarbonat",
@@ -75,7 +74,7 @@
   {
     "src": "images/t-7.jpg",
     "alt": "Ileana + Doboș",
-    "title": "Ileana + Doboș",
+    "title": ["11. Ileana", "12. Doboș"],
     "type": "cakes",
     "ingredients": [
       "Ileana blat: 10 albușuri, 300gr zahăr, 300gr nucă măcinată, bicarbonat, 2lg făină",
@@ -88,7 +87,7 @@
   {
     "src": "images/t-8.jpg",
     "alt": "Check simplu + Pogăcele + Gelu",
-    "title": "Check simplu + Pogăcele + Gelu",
+    "title": ["13. Check simplu", "14. Pogăcele", "15. Gelu"],
     "type": "cakes",
     "ingredients": [
       "Check simplu: 6 gălbenușuri, 1 cană zahăr, 100ml apă călduță, 100gr ulei, bicarbonat, coaja lămâie, 300gr făină, 6 albușuri, cacao",
@@ -101,7 +100,7 @@
   {
     "src": "images/t-9.jpg",
     "alt": "Petre Roman",
-    "title": "Petre Roman",
+    "title": ["16. Petre Roman"],
     "type": "cakes",
     "ingredients": [
       "Petre Roman foi: 9 albușuri, 18lg zahăr, 9 gălbenușuri, 1lg apă, 9lg făină, 9lg nucă măcinată, bicarbonat",
@@ -113,7 +112,7 @@
   {
     "src": "images/t-10.jpg",
     "alt": "Katy + Lămâița",
-    "title": "Katy + Lămâița",
+    "title": ["17. Katy", "18. Lămâița"],
     "type": "cakes",
     "ingredients": [
       "Katy foi: 180gr margarină, 150gr zahăr, 500gr făină, 2 gălbenușuri, 200ml lapte, bicarbonat",
@@ -126,7 +125,7 @@
   {
     "src": "images/t-11.jpg",
     "alt": "Fursecuri + Tort foarte fin",
-    "title": "Fursecuri + Tort foarte fin",
+    "title": ["19. Fursecuri ", "20. Tort foarte fin"],
     "type": "cakes",
     "ingredients": [
       "Fursecuri: 300gr unt, 300gr făină, 8 gălbenușuri, 250gr zahăr praf",
@@ -138,7 +137,7 @@
   {
     "src": "images/t-12.jpg",
     "alt": "Tort Trunchi de copac",
-    "title": "Tort Trunchi de copac",
+    "title": ["21. Tort Trunchi de copac"],
     "type": "cakes",
     "ingredients": [
       "Tort Trunchi de copac blat: 8 ouă, 7lg zahăr, 1lg făină, 150gr nucă măcinată, bicarbonat",
@@ -148,7 +147,7 @@
   {
     "src": "images/t-13.jpg",
     "alt": "Tort Indiana + Tort de zahăr ars",
-    "title": "Tort Indiana + Tort de zahăr ars",
+    "title": ["22. Tort Indiana ", "23. Tort de zahăr ars"],
     "type": "cakes",
     "ingredients": [
       "Tort Indiana blat: 6 ouă, 6lg zahăr praf, 3lg făină, vanilie, 750gr frișcă, întăritor",
@@ -160,7 +159,7 @@
   {
     "src": "images/t-14.jpg",
     "alt": "Zerbo",
-    "title": "Zerbo",
+    "title": ["24. Zerbo"],
     "type": "cakes",
     "ingredients": [
       "Zerbo foi: 350gr făină, 180gr margarină, 1 gălbenuș, vanilie, 1lg smântănă, 1lg zahăr, bicarbonat, 100gr lapte",
@@ -171,18 +170,18 @@
   {
     "src": "images/t-15.jpg",
     "alt": "Prăjitură cu măr + Cer și nori",
-    "title": "Prăjitură cu măr + Cer și nori",
+    "title": ["25. Prăjitură cu măr ", "26. Cer și nori"],
     "type": "cakes",
     "ingredients": [
       "Prăjitură cu măr foi: 1/2 kg făină, 1ou, 250gr margarină, bicarbonat, 250gr zahăr, smântână, lapte",
       "Prăjitură cu măr umplutură: 1kg mere, puțină margarină, zahăr, scorțișoară, vanilie",
-      "???Cer și nori: 1pachet marcarină, 2căni zahăr,...oua?, 1 cană lapte, 3 căni făină, bicarbonat, cacao"
+      "???Cer și nori: 1pachet margarină, 2 căni zahăr,...oua?, 1 cană lapte, 3 căni făină, bicarbonat, cacao"
     ]
   },
   {
     "src": "images/t-16.jpg",
     "alt": "Lizer + Cornulețe cu gem",
-    "title": "Lizer + Cornulețe cu gem",
+    "title": ["27. Lizer ", "28. Cornulețe cu gem"],
     "type": "cakes",
     "ingredients": [
       "Lizer foi: 600gr făină, 350gr margarină, 200gr zahăr, 2 gălbenusuri, bicarbonat, coajă de lămâie, puțin lapte",
@@ -193,7 +192,7 @@
   {
     "src": "images/t-17.jpg",
     "alt": "Tochio + Ciocolată de casă",
-    "title": "Tochio + Ciocolată de casă",
+    "title": ["29. Tochio ", "30. Ciocolată de casă"],
     "type": "cakes",
     "ingredients": [
       "Tochio blat: 140gr unt, 140gr zahăr praf, 140gr nucă, 100gr făină, 4 albușuri",
@@ -205,7 +204,7 @@
   {
     "src": "images/t-18.jpg",
     "alt": "Ștrudel + Prăjitură Maia",
-    "title": "Ștrudel + Prăjitură Maia",
+    "title": ["31. Ștrudel ", "32. Prăjitură Maia"],
     "type": "cakes",
     "ingredients": [
       "Ștrudel aluat 1: 1 1/2 cană făină, 1 pachet margarină",
@@ -219,7 +218,7 @@
   {
     "src": "images/t-19.jpg",
     "alt": "Sărățele + Turtițe cu miere + Tăvălită",
-    "title": "Sărățele + Turtițe cu miere + Tăvălită",
+    "title": ["33. Sărățele", "34. Turtițe cu miere", "35.Tăvălită"],
     "type": "cakes",
     "ingredients": [
       "Sărățele aluat: 250gr marganină, 1 ou, 1 pahar apă călduță, sare, 2-3lg smântână, făină cât cuprinde",
@@ -232,7 +231,7 @@
   {
     "src": "images/t-20.jpg",
     "alt": "Rumba + Crema pentru Cremeș",
-    "title": "Rumba + Crema pentru Cremeș",
+    "title": ["36. Rumba", "37. Crema pentru Cremeș"],
     "type": "cakes",
     "ingredients": [
       "Rumba foi: 170gr unt, 150gr zahăr, 7gălbenușuri, 200gr făină, bicarbonat, 2lg cacao",
@@ -243,7 +242,7 @@
   {
     "src": "images/t-21.jpg",
     "alt": "Rulouri + Prăjitură Săracului",
-    "title": "Rulouri + Prăjitură Săracului",
+    "title": ["38. Rulouri", "39. Prăjitură Săracului"],
     "type": "cakes",
     "ingredients": [
       "Rulouri foi: 2 ouă, 7lg ulei, 10lg zahăr, 1/2 cană lapte, vanilie, bicarbonat, făină cât cuprinde",
@@ -254,7 +253,7 @@
   {
     "src": "images/t-22.jpg",
     "alt": "Regina Maria + Crema de zahăr Ars",
-    "title": "Regina Maria + Crema de zahăr Ars",
+    "title": ["40. Regina Maria", "41. Crema de zahăr Ars"],
     "type": "cakes",
     "ingredients": [
       "Regina Maria blat 1: 6 albușuri, 200gr zahăr, 200gr nucă tăiată, 2lg făină",
@@ -267,19 +266,19 @@
   {
     "src": "images/t-23.jpg",
     "alt": "Diplomat + Steaua",
-    "title": "Diplomat + Steaua",
+    "title": ["42. Diplomat", "43. Steaua"],
     "type": "cakes",
     "ingredients": [
       "Diplomat: 30gr gelatină, 3 ouă, 3lg zahăr, 600gr frișcă bătută, fructe, frișcă pentru ornat",
       "Steaua blat: 6 albușuri, 6 gălbenușuri, 150gr zahăr, 1 cană nucă măcinată, 2lg făină, bicarbonat",
       "Steaua crema 1: 1 pachet unt, 200gr zahăr, 3 gălbenușuri, vanilie",
-      "Steaua crema 2: 50gr nuci tăiate prăjite, 3 albulsuri, 4lg zahăr, 4lg zahăr"
+      "Steaua crema 2: 50gr nuci tăiate prăjite, 3 albul;uri, 4lg zahăr, 4lg zahăr"
     ]
   },
   {
     "src": "images/t-24.jpg",
     "alt": "Ruladă de Miere + Prăjitură cu Biscuiți",
-    "title": "Ruladă de Miere + Prăjitură cu Biscuiți",
+    "title": ["44. Ruladă de Miere", "45. Prăjitură cu Biscuiți"],
     "type": "cakes",
     "ingredients": [
       "Ruladă de Miere: 400gr făină, 120gr zahăr, 3lg miere, 60gr margarină, 2lg smântână, bicarbonat",
@@ -291,7 +290,7 @@
   {
     "src": "images/t-25.jpg",
     "alt": "Tort de mere + Lenea Cucoanei",
-    "title": "Tort de mere + Lenea Cucoanei",
+    "title": ["46. Tort de mere ", "47. Lenea Cucoanei"],
     "type": "cakes",
     "ingredients": [
       "Tort de mere: 4 gălbenușuri, 100gr zahăr, 80gr margarină, 100gr făină, 80gr nucă măcinată, bicarbonat",
@@ -303,7 +302,7 @@
   {
     "src": "images/t-26.jpg",
     "alt": "Savarine",
-    "title": "Savarine",
+    "title": ["48. Savarine"],
     "type": "cakes",
     "ingredients": [
       "Savarine: 5 gălbenușuri, 6lg zahăr, 5 albușuri spumate, 6lg pesmet, bicarbonat",
@@ -313,20 +312,20 @@
   {
     "src": "images/t-27.jpg",
     "alt": "Foi albiene + Tarta de fructe",
-    "title": "Foi albiene + Tarta de fructe",
+    "title": ["49. Foi albiene", "50. Tartă de fructe"],
     "type": "cakes",
     "ingredients": [
       "Foi albiene blat: 6 albușuri, 250gr zahăr, 1lg apă, 5lg făină, 2lg caco, 250gr nuci măcinate",
       "Foi albiene crema: 2 ouă, 150gr zahăr, vanilie, 2-3lg lapte, 1pachet unt spumat",
       "Foi albiene decor: ciocolată topită",
-      "Tarta de fructe blat: 3 ouă, 5lg zahăr, 1lg apă, 5lg făină",
-      "Tarta de fructe umplutura: sirop din compot/suc natural, budincă de vanilie sau fructe, fructe din compot sau crude, gelatină, frișcă pt decor"
+      "Tartă de fructe blat: 3 ouă, 5lg zahăr, 1lg apă, 5lg făină",
+      "Tartă de fructe umplutura: sirop din compot/suc natural, budincă de vanilie sau fructe, fructe din compot sau crude, gelatină, frișcă pt decor"
     ]
   },
   {
     "src": "images/t-28.jpg",
     "alt": "Cornulețe in două culori + Pișcoturi prin mașină",
-    "title": "Cornulețe in două culori + Pișcoturi prin mașină",
+    "title": ["51. Cornulețe in două culori", "52. Pișcoturi prin mașină"],
     "type": "cakes",
     "ingredients": [
       "Cornulețe in două culori aluat 1: 250gr făină, 3lg zahăr, 1 ou, 100ml ulei, 1/2 linguriță bicarbonat, 200ml apă sau lapte călduț, 50gr drojdie crescută",
@@ -340,7 +339,7 @@
   {
     "src": "images/t-29.jpg",
     "alt": "Minciunele + Tort coș de gunoi",
-    "title": "Minciunele + Tort coș de gunoi",
+    "title": ["53. Minciunele", "54. Tort coș de gunoi"],
     "type": "cakes",
     "ingredients": [
       "Minciunele: 1/2 pahar ulei, 1/2 pahar iaurt, 2 ouă, 1/2 pahar zahăr, vanilie, bicarbonat stins, făină cât cuprinde, ulei pentru prăjit, zahăr pudră",
@@ -351,7 +350,7 @@
   {
     "src": "images/t-30.jpg",
     "alt": "Prăjitură Betica cu Stafide",
-    "title": "Prăjitură Betica cu Stafide",
+    "title": ["55. Prăjitură Betica cu Stafide"],
     "type": "cakes",
     "ingredients": [
       "Prăjitură Betica cu Stafide crema: 200gr stafide, rom, 250gr zahăr, 3 ouă, 100ml lapte, 250gr unt spumat",
@@ -362,7 +361,7 @@
   {
     "src": "images/t-31.jpg",
     "alt": "Prăjitură Bonti cu Cocos + Negreasa",
-    "title": "Prăjitură Bonti cu Cocos + Negreasa",
+    "title": ["56. Prăjitură Bonti cu Cocos", "57. Negreasa"],
     "type": "cakes",
     "ingredients": [
       "Prăjitură Bonti cu Cocos blat: 1 ou, 250gr făină, 150gr margarină, 100gr zahăr, 1lg cacao",
@@ -375,7 +374,7 @@
   {
     "src": "images/t-32.jpg",
     "alt": "Chec cu almendre + Rozete cu Mac",
-    "title": "Chec cu almendre + Rozete cu Mac",
+    "title": ["58. Chec cu almendre", "59. Rozete cu Mac"],
     "type": "cakes",
     "ingredients": [
       "Chec cu almendre: 250gr almendre măcinate, 250gr zahăr, 6 ouă, 2lg făină, bicarbonat, lămâie rasă",
@@ -386,7 +385,7 @@
   {
     "src": "images/t-33.jpg",
     "alt": "Papanași",
-    "title": "Papanași",
+    "title": ["60. Papanași"],
     "type": "cakes",
     "ingredients": [
       "Papanași: 500gr brânză de vaci, 100gr zahăr, 2 ouă, bicarbonat, sare, vanilie, 300gr făină, (smântână), dulceață de afine, 1lg zeamă de lămâie, gem și frișcă pt servit"
@@ -395,7 +394,7 @@
   {
     "src": "images/t-34.jpg",
     "alt": "Cozonac + Opincuțe cu brânză",
-    "title": "Cozonac + Opincuțe cu brânză",
+    "title": ["61. Cozonac", "62. Opincuțe cu brânză"],
     "type": "cakes",
     "ingredients": [
       "Cozonac: 1 kg făină, 2 pumni făină, sare, zahăr 3 pumni, 1 lămâie rasă, 2 ouă, apă, o ceașcă lapte călduț, puțin ulei, 50gr drojdie crescută",
@@ -405,7 +404,7 @@
   {
     "src": "images/t-35.jpg",
     "alt": "Flan + Prăjitură Tosca",
-    "title": "Flan + Prăjitură Tosca",
+    "title": ["63. Flan", "64. Prăjitură Tosca"],
     "type": "cakes",
     "ingredients": [
       "Flan caramel: 1/3 cană zahăr, puțină apă",
@@ -418,7 +417,7 @@
   {
     "src": "images/t-36.jpg",
     "alt": "Chec cu Cireșe + Prăjitură cu Cireșe",
-    "title": "Chec cu Cireșe + Prăjitură cu Cireșe",
+    "title": ["65. Chec cu Cireșe", "66. Prăjitură cu Cireșe"],
     "type": "cakes",
     "ingredients": [
       "Chec cu Cireșe: 6 ouă, 600gr făină, 12lg ulei, 300g, 2 vanilii, coajă lămâie, 225gr lapte, bicarbonat, 1kg cireșe fără sâmburi",
@@ -428,7 +427,7 @@
   {
     "src": "images/t-37.jpg",
     "alt": "Rafaelo + Pastă de zahăr",
-    "title": "Rafaelo + Pastă de zahăr",
+    "title": ["67. Rafaelo", "68. Pastă de zahăr"],
     "type": "cakes",
     "ingredients": [
       "190gr nucă cocos, 150gr almendre prăjite, 397gr lapte condensat, cocos pt decor",
@@ -438,7 +437,11 @@
   {
     "src": "images/t-38.jpg",
     "alt": "Pastă de Lapte Praf + Pastă de Ciocolată + Tort Kinder",
-    "title": "Pastă de Lapte Praf + Pastă de Ciocolată + Tort Kinder",
+    "title": [
+      "69. Pastă de Lapte Praf",
+      "70. Pastă de Ciocolată",
+      "71. Tort Kinder"
+    ],
     "type": "cakes",
     "ingredients": [
       "Pastă de Lapte Praf: 1 linguriță de miere, lapte praf, colorant și arome, esențe",
@@ -453,7 +456,7 @@
   {
     "src": "images/t-39.jpg",
     "alt": "Sărățele fragede",
-    "title": "Sărățele fragede",
+    "title": ["72. Sărățele fragede"],
     "type": "cakes",
     "ingredients": [
       "Sărățele fragede: 500gr făină, 150gr margarină, 100gr untură, 1 ou, sare, 1/2 pachet drojdie(12gr), 4lg lapte cald, 150gr smântână",
@@ -463,7 +466,7 @@
   {
     "src": "images/t-40.jpg",
     "alt": "Tort Barby",
-    "title": "Tort Barby",
+    "title": ["73. Tort Barby"],
     "type": "cakes",
     "ingredients": [
       "Tort Barby blaturi: 10 ouă, 6lg apă, 14lg zahăr, 14lg făină(cacao)",
@@ -473,7 +476,7 @@
   {
     "src": "images/t-41.jpg",
     "alt": "Felie de lapte",
-    "title": "Felie de lapte",
+    "title": ["74. Felie de lapte"],
     "type": "cakes",
     "ingredients": [
       "Felie de lapte blat: 4 ouă, 80gr zahăr, 1 fiolă vanilie, 2lg miere, 2lg făină, 2lg griș, 2lg cacao, bicarbonat, 100ml ulei, 20ml lapte, sare",
@@ -484,7 +487,7 @@
   {
     "src": "images/t-42.jpg",
     "alt": "Prăjitură cu cremă de Ciocolată",
-    "title": "Prăjitură cu cremă de Ciocolată",
+    "title": ["75. Prăjitură cu cremă de Ciocolată"],
     "type": "cakes",
     "ingredients": [
       "Prăjitură cu cremă de Ciocolată blat: 6 ouă, 150gr zahăr, 250gr făină, 3lg iaurt, 2lg miere, 50gr unt, bicarbonat",
@@ -495,7 +498,7 @@
   {
     "src": "images/t-43.jpg",
     "alt": "Prăjitură cu brânză si Stafide",
-    "title": "Prăjitură cu brânză si Stafide",
+    "title": ["76. Prăjitură cu brânză si Stafide"],
     "type": "cakes",
     "ingredients": [
       "Prăjitură cu brânză si Stafide foi: 4lg untură/8lg margarină, 600-650gr făină, bicarbonat, 200ml lapte, 2 ouă, sare",
@@ -505,7 +508,7 @@
   {
     "src": "images/t-44.jpg",
     "alt": "Cremă cu Ciocolată și Frișcă",
-    "title": "Cremă cu Ciocolată și Frișcă",
+    "title": ["77. Cremă cu Ciocolată și Frișcă"],
     "type": "cakes",
     "ingredients": [
       "Cremă cu Ciocolată și frișcă crema 1: 200gr ciocolată lapte, 200ml frișcă lichidă,",
@@ -516,7 +519,7 @@
   {
     "src": "images/t-45.jpg",
     "alt": "Kurtos + Glazură de Ciocolată",
-    "title": "Kurtos + Glazură de Ciocolată",
+    "title": ["78. Kurtos", "79. Glazură de Ciocolată"],
     "type": "cakes",
     "ingredients": [
       "Kurtos aluat: 30gr drojdie, 300ml lapte, 2lg zahăr tos, 500gr făină, 2ouă, 2 gălbenușuri, 80gr margarină, sare",
@@ -530,7 +533,7 @@
   {
     "src": "images/t-46.jpg",
     "alt": "Fursecuri cu unt",
-    "title": "Fursecuri cu unt",
+    "title": ["80. Fursecuri cu unt"],
     "type": "cakes",
     "ingredients": [
       "Fursecuri cu unt: 300gr făină, 250gr unt, 150gr zahăr, 2 gălbenușuri, 1 coajă portocală",
@@ -541,7 +544,7 @@
   {
     "src": "images/t-47.jpg",
     "alt": "Fursecuri Ovis Molis + Fursecuri cu nucă și ciocolată",
-    "title": "Fursecuri Ovis Molis + Fursecuri cu nucă și ciocolată",
+    "title": ["81. Fursecuri Ovis Molis", "82. Fursecuri cu nucă și ciocolată"],
     "type": "cakes",
     "ingredients": [
       "Fursecuri Ovis Molis: 300gr făină, 180gr unt, 100gr zahăr praf, 1 gălbenuș, bicarbonat, sare",
@@ -552,7 +555,7 @@
   {
     "src": "images/t-48.jpg",
     "alt": "Fursecuri Ciocolată + Turtă dulce cu miere",
-    "title": "Fursecuri Ciocolată + Turtă dulce cu miere",
+    "title": ["83. Fursecuri Ciocolată", "84. Turtă dulce cu miere"],
     "type": "cakes",
     "ingredients": [
       "Fursecuri Ciocolată: 1.5 pahar făină, 0.5 pahar cacao + 2lg, bicarbonat, sare, 0.5 pahar zahăr , 80ml ulei, dulceță de zmeură",
@@ -563,7 +566,7 @@
   {
     "src": "images/t-49.jpg",
     "alt": "Muffins cu fructe roșii",
-    "title": "Muffins cu fructe roșii",
+    "title": ["85. Muffins cu fructe roșii"],
     "type": "cakes",
     "ingredients": [
       "Muffins cu fructe roșii: 1 iaurt natural, 3 ouă, 240gr zahăr, 225gr făină, 100ml ulei măsline, bicarbonat, zahăr vanilat, 120gr fructe roșii",
@@ -573,7 +576,7 @@
   {
     "src": "images/t-50.jpg",
     "alt": "Glazură albă, Prăjitură Snikars",
-    "title": "Glazură albă, Prăjitură Snikars",
+    "title": ["86. Glazură albă", "87. Prăjitură Snikars"],
     "type": "cakes",
     "ingredients": [
       "Glazură albă: 100gr ciocolată albă, 1 albuș, 2lg lapte, 4lf zahăr praf, zeama de la o lămâie",
@@ -586,14 +589,14 @@
   {
     "src": "images/t-51.jpg",
     "alt": "Prăjitură Snikars...",
-    "title": "Prăjitură Snikars...",
+    "title": ["87.Prăjitură Snikars..."],
     "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-52.jpg",
     "alt": "Cremă de lămâie + Negresă",
-    "title": "Cremă de lămâie + Negresă",
+    "title": ["88. Cremă de lămâie", "89. Negresă"],
     "type": "cakes",
     "ingredients": [
       "Cremă de lămâie: 4 gălbenușuri, zeama de la o lâmăie, 5lg zahăr, 200ml frișcă, 250gr mascarpone, zahăr vanilat sau esență, frișcă bătută",
@@ -603,7 +606,10 @@
   {
     "src": "images/t-53.jpg",
     "alt": "Glazură de lămâie + Chec cu marțipan, mac si galzură lămâie",
-    "title": "Glazură de lămâie + Chec cu marțipan, mac si galzură lămâie",
+    "title": [
+      "90. Glazură de lămâie",
+      "91. Chec cu marțipan, mac si galzură lămâie"
+    ],
     "type": "cakes",
     "ingredients": [
       "Glazură de lămâie: 1lg coajă de lămâie, 3lg unt, 3lg zahăr praf, 2lg suc lămâie, 1lg apă,sare",
@@ -614,7 +620,7 @@
   {
     "src": "images/t-54.jpg",
     "alt": "Pastă de Nubes",
-    "title": "Pastă de Nubes",
+    "title": ["92. Pastă de Nubes"],
     "type": "cakes",
     "ingredients": [
       "Pastă de Nubes: 300gr nubes, 100gr unt, zahăr măcinat, colorant alimentar diferite culori"
@@ -623,7 +629,11 @@
   {
     "src": "images/t-55.jpg",
     "alt": "Blat de Bezea + Crema de Cocos pt Tort + Magdalene",
-    "title": "Blat de Bezea + Crema de Cocos pt Tort + Magdalene",
+    "title": [
+      "93. Blat de Bezea",
+      "94. Crema de Cocos pt Tort",
+      "95. Magdalene"
+    ],
     "type": "cakes",
     "ingredients": [
       "Blat de Bezea: 3 albușuri, 120gr zahăr, 100gr nuci tăiate sau măcinate, 60gr stafide muiate în rom, 3lg făină",
@@ -634,7 +644,7 @@
   {
     "src": "images/t-56.jpg",
     "alt": "Brioșe cu Cocos + Brioșe cu Fulgi de Ciocolată",
-    "title": "Brioșe cu Cocos + Brioșe cu Fulgi de Ciocolată",
+    "title": ["96. Brioșe cu Cocos", "97. Brioșe cu Fulgi de Ciocolată"],
     "type": "cakes",
     "ingredients": [
       "Brioșe cu Cocos 12buc: 200gr făină, bicarbonat, sare, 65ml ulei, 150gr zahăr, 1 ou, 175ml lapte bătut, cocos 2lg, esență vanilie",
@@ -644,7 +654,7 @@
   {
     "src": "images/t-57.jpg",
     "alt": "Brioșe cu Stafide + Melcișiori cu nucă",
-    "title": "Brioșe cu Stafide + Melcișiori cu nucă",
+    "title": ["98. Brioșe cu Stafide", "99. Melcișiori cu nucă"],
     "type": "cakes",
     "ingredients": [
       "Brioșe cu Stafide 20buc: 2 ouă, 1 cană lapte, 1 cană zahăr, 2 căni făină, zahăr vanilat. bicarbonat, coajă portocală, ciocolată rasă, stafide",
@@ -655,7 +665,11 @@
   {
     "src": "images/t-58.jpg",
     "alt": "Baigli cu Mac Ungurești + Brioșe Pufoase + Brioșe Pufoase de Ciocolată cu Crema Ciocolată",
-    "title": "Baigli cu Mac Ungurești + Brioșe Pufoase + Brioșe Pufoase de Ciocolată cu Crema Ciocolată",
+    "title": [
+      "100. Baigli cu Mac Ungurești",
+      "101. Brioșe Pufoase",
+      "102. Brioșe Pufoase de Ciocolată cu Crema Ciocolată"
+    ],
     "type": "cakes",
     "ingredients": [
       "Baigli cu Mac Ungurești: 250gr făină, 1lg zahăr, sare, 50gr unt moale, 90ml lapte călduț, 20gr drojdie crescută, 1 ou, coajă lămâie/portocală",
@@ -667,7 +681,7 @@
   {
     "src": "images/t-59.jpg",
     "alt": "Brioșe americane",
-    "title": "Brioșe americane",
+    "title": ["103. Brioșe americane"],
     "type": "cakes",
     "ingredients": [
       "Brioșe americane: 2 1/2 căni făină, 1 1/2 cană zahăr, 2 ouă, 1 cană iaurt, vanilie, 2lg cacao, 120gr unt moale, 1lg oțet, bicarbonat, sare, praf copt",
@@ -677,7 +691,7 @@
   {
     "src": "images/t-60.jpg",
     "alt": "Brioșe asortate + Tort de Portocale",
-    "title": "Brioșe asortate + Tort de Portocale",
+    "title": ["104. Brioșe asortate", "105. Tort de Portocale"],
     "type": "cakes",
     "ingredients": [
       "Brioșe asortate: 4 ouă, 250gr margarină, 250gr zahăr, 250gr făină, zahăr vanilat, 1/2 coajă lămâie",
@@ -690,14 +704,14 @@
   {
     "src": "images/t-61.jpg",
     "alt": "Tort de Portocale...",
-    "title": "Tort de Portocale...",
+    "title": ["105. Tort de Portocale..."],
     "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-62.jpg",
     "alt": "Coca lămâie + Prăjitură Sofia",
-    "title": "Coca lămâie + Prăjitură Sofia",
+    "title": ["106. Coca lămâie", "107. Prăjitură Sofia"],
     "type": "cakes",
     "ingredients": [
       "Coca lămâie: 4 ouă, 1 plic drojdie Royal, 1 iaurt natudal(Danone), coaja de la 2 lămâi, o cutie de la iaurt cu ulei de măsline, 2 cutii cu zahăr, 3 cutii cu făină",
@@ -707,7 +721,7 @@
   {
     "src": "images/t-63.jpg",
     "alt": "Prăjitură Sofia...",
-    "title": "Prăjitură Sofia...",
+    "title": ["107. Prăjitură Sofia..."],
     "type": "cakes",
     "ingredients": [
       "Prăjitură Sofia foi: 4 ouă, 4lg apă, 8lg zahăr, 8lg făină, bicarbonat",
@@ -719,7 +733,7 @@
   {
     "src": "images/t-64.jpg",
     "alt": "Cremă de Vanilie cu Vișine + Caramele",
-    "title": "Cremă de Vanilie cu Vișine + Caramele",
+    "title": ["108. Cremă de Vanilie cu Vișine", "109. Caramele"],
     "type": "cakes",
     "ingredients": [
       "Cremă de Vanilie cu Vișine: 400ml lapte, 6 plicuri zahăr vanilat, 8 gălbenușuri. 5lg făină, 2 1/2 pachet unt, 250gr zahăr praf, vișine din compot",
@@ -729,7 +743,7 @@
   {
     "src": "images/t-65.jpg",
     "alt": "Savarine",
-    "title": "Savarine",
+    "title": ["110. Savarine"],
     "type": "cakes",
     "ingredients": [
       "Savarine: 250gr făină, 2 ouă, 150ml lapte cald, 30ml ulei, 1lg zahăr, 50gr drojdie, sare",
@@ -739,7 +753,7 @@
   {
     "src": "images/t-66.jpg",
     "alt": "Gofre + Indiene",
-    "title": "Gofre + Indiene",
+    "title": ["111. Gofre", "112. Indiene"],
     "type": "cakes",
     "ingredients": [
       "Gofre: 250gr făină, 3 ouă, 3lg zahăr, 500ml lapte, praf de copt, 100gr unt topit, rom sau vanilie",
@@ -752,7 +766,10 @@
   {
     "src": "images/t-67.jpg",
     "alt": "Prăjitură cu Cireșe + Prăjitură cu Gem si Glazură albă",
-    "title": "Prăjitură cu Cireșe + Prăjitură cu Gem si Glazură albă",
+    "title": [
+      "113. Prăjitură cu Cireșe",
+      "114. Prăjitură cu Gem si Glazură albă"
+    ],
     "type": "cakes",
     "ingredients": [
       "Prăjitură cu Cireșe: 4 ouă, 350gr zahăr, 100ml ulei, 400ml iaurt gras, 300gr cireșe, bicarbonat, vanilie, 350-400gr făină",
@@ -763,7 +780,10 @@
   {
     "src": "images/t-68.jpg",
     "alt": "Prăjitură cu Mac si Glazură Ciocolată + Tort Biscuiți cu Crema Iaurt si Caramel",
-    "title": "Prăjitură cu Mac si Glazură Ciocolată + Tort Biscuiți cu Crema Iaurt si Caramel",
+    "title": [
+      "115. Prăjitură cu Mac si Glazură Ciocolată",
+      "116. Tort Biscuiți cu Crema Iaurt si Caramel"
+    ],
     "type": "cakes",
     "ingredients": [
       "Prăjitură cu Mac si Glazură Ciocolată: 4 ouă, 8lg zahăr, 50gr unt, bicarbonat, esență vanilie, 50gr mac, 5lg făină, nuci măcinate(decor)",
@@ -776,14 +796,14 @@
   {
     "src": "images/t-69.jpg",
     "alt": "Tort Biscuiți cu Crema Iaurt si Caramel...",
-    "title": "Tort Biscuiți cu Crema Iaurt si Caramel...",
+    "title": ["116. Tort Biscuiți cu Crema Iaurt si Caramel..."],
     "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-70.jpg",
     "alt": "Prăjitură Fantezie + Prăjitură cu Vișine",
-    "title": "Prăjitură Fantezie + Prăjitură cu Vișine",
+    "title": ["117. Prăjitură Fantezie", "118. Prăjitură cu Vișine"],
     "type": "cakes",
     "ingredients": [
       "Prăjitură Fantezie blat: 6 albușuri, 12lg zahăr pudră, 12lg nucă măcinată, 3lg făină",
@@ -795,7 +815,7 @@
   {
     "src": "images/t-71.jpg",
     "alt": "Ruladă de Napolitană cu Cocos si Caramel",
-    "title": "Ruladă de Napolitană cu Cocos si Caramel",
+    "title": ["118. Ruladă de Napolitană cu Cocos si Caramel"],
     "type": "cakes",
     "ingredients": [
       "Ruladă de Napolitană cu Cocos si Caramel: 3 foi napolitană",
@@ -806,7 +826,7 @@
   {
     "src": "images/t-72.jpg",
     "alt": "Chec Marmolat",
-    "title": "Chec Marmolat",
+    "title": ["119. Chec Marmolat"],
     "type": "cakes",
     "ingredients": [
       "Chec Marmolat: 5 ouă, 200gr zahăr, 200gr făină, 2 zahăr vanilat, 4lg ulei, 2lg cacao, bicarbonat, sare"
@@ -815,7 +835,7 @@
   {
     "src": "images/t-73.jpg",
     "alt": "Plăcintă Crescută a la Doina",
-    "title": "Plăcintă Crescută a la Doina",
+    "title": ["120. Plăcintă Crescută a la Doina"],
     "type": "cakes",
     "ingredients": [
       "Plăcintă Crescută a la Doina: 1kg făină, 20gr drojdie, 4-5 gălbenușuri, 1 pumn făină, puțină sare, coaja de la 2 lămâi",
@@ -825,7 +845,7 @@
   {
     "src": "images/t-74.jpg",
     "alt": "Sărățele Stana + Cake Pops",
-    "title": "Sărățele Stana + Cake Pops",
+    "title": ["121. Sărățele Stana", "122. Cake Pops"],
     "type": "cakes",
     "ingredients": [
       "Sărățele Stana: 12lg făină, 1lg unt, 1 gălbenuș, sare, 1/2 cană apă minerală",
@@ -838,7 +858,7 @@
   {
     "src": "images/t-75.jpg",
     "alt": "Cuiburi cu nucă, mac, cioco",
-    "title": "Cuiburi cu nucă, mac, cioco",
+    "title": ["123. Cuiburi cu nucă, mac, cioco"],
     "type": "cakes",
     "ingredients": [
       "Cuiburi cu nucă, mac, cioco aluat: 500gr făină, 300ml lapte, 5 gălbenușuri, 10gr drojdie, sare, 50gr unt topit, 50gr zahăr, vanilie, coajă lămâie"
@@ -847,7 +867,7 @@
   {
     "src": "images/t-76.jpg",
     "alt": "Prăjitură Imperial",
-    "title": "Prăjitură Imperial",
+    "title": ["124. Prăjitură Imperial"],
     "type": "cakes",
     "ingredients": [
       "Prăjitură Imperial blat cacao: 6 ouă, 2-3lg zahăr, 2lg cacao neagră, 6lg făină, praf de copt/bicarbonat",
@@ -859,7 +879,7 @@
   {
     "src": "images/t-77.jpg",
     "alt": "Tort Diplomat cu Pișcoturi",
-    "title": "Tort Diplomat cu Pișcoturi",
+    "title": ["125. Tort Diplomat cu Pișcoturi"],
     "type": "cakes",
     "ingredients": [
       "Tort Diplomat cu Pișcoturi: 400gr pișcoturi, fructe din compot sau naturale tăiate cubulețe, 500ml lapte, 500ml frișcă lichidă, 200gr zahăr, 5 gălbenușuri, 2lg făină, 20gr gelatină, esență lămâie"
@@ -868,14 +888,14 @@
   {
     "src": "images/t-78.jpg",
     "alt": "Tort Diplomat cu Pișcoturi",
-    "title": "Tort Diplomat cu Pișcoturi",
+    "title": ["126. Tort Diplomat cu Pișcoturi"],
     "type": "cakes",
     "ingredients": ["", ""]
   },
   {
     "src": "images/t-79.jpg",
     "alt": "Petre Roman",
-    "title": "Petre Roman",
+    "title": ["127. Petre Roman"],
     "type": "cakes",
     "ingredients": [
       "Petre Roman foi: 10 ouă, 300gr zahăr, 120ml apă, coaja de la o lămâie, vanilie, bicarbonat stins cu zeama de la o lămâie, 300gr făină, sare",
@@ -887,7 +907,7 @@
   {
     "src": "images/t-80.jpg",
     "alt": "Cozonac Bontea",
-    "title": "Cozonac Bontea",
+    "title": ["128. Cozonac Bontea"],
     "type": "cakes",
     "ingredients": [
       "Cozonac Bontea(2 buc): 1 kg făină, 350gr zahăr, coaja lămâie + portocală, sare, vanilie, 8 gălbenușuri, 50ml ulei, 14gr drojdie uscată, 400ml lapte, 150gr unt, sare"
@@ -896,7 +916,7 @@
   {
     "src": "images/t-81.jpg",
     "alt": "Coliva",
-    "title": "Coliva",
+    "title": ["129. Coliva"],
     "type": "cakes",
     "ingredients": [
       "Coliva: 500gr arpacas, 2l apă, 12gr sare, 200gr zahăr",
@@ -906,7 +926,7 @@
   {
     "src": "images/t-82.jpg",
     "alt": "Cornulețe Crocante + Cornulețe cu gem si nucă",
-    "title": "Cornulețe Crocante + Cornulețe cu gem si nucă",
+    "title": ["130. Cornulețe Crocante", "131. Cornulețe cu gem si nucă"],
     "type": "cakes",
     "ingredients": [
       "Cornulețe Crocante: 1 ou, 200gr unt sau margarină, 150gr zahăr pudră, 500gr făină(coajă lămâie, zahăr vanilat, esențe)",
@@ -917,7 +937,7 @@
   {
     "src": "images/t-83.jpg",
     "alt": "Tort cu Mere Întregi",
-    "title": "Tort cu Mere Întregi",
+    "title": ["132. Tort cu Mere Întregi"],
     "type": "cakes",
     "ingredients": [
       "Tort cu Mere Întregi: 200gr zahăr, 6 mere, 5 ouă separate, 5lg făină, 5lg zahăr, 5lg ulei, esență vanilie, bicarbonat, câteva nuci, frișcă pt ornat"
@@ -926,7 +946,7 @@
   {
     "src": "images/t-84.jpg",
     "alt": "Caramel Sărat + Cozonac Jamila",
-    "title": "Caramel Sărat + Cozonac Jamila",
+    "title": ["133. Caramel Sărat", "134. Cozonac Jamila"],
     "type": "cakes",
     "ingredients": [
       "Caramel Sărat: 200gr zahăr, 90gr unt, 200gr frișcă lichidă, 2lg apă, 1/2 linguriță sare",
@@ -936,7 +956,7 @@
   {
     "src": "images/t-85.jpg",
     "alt": "Fursecuri Crăpate cu Ciocolată",
-    "title": "Fursecuri Crăpate cu Ciocolată",
+    "title": ["135. Fursecuri Crăpate cu Ciocolată"],
     "type": "cakes",
     "ingredients": [
       "Fursecuri Crăpate cu Ciocolată: 300gr făină, 250gr zahăr, 80gr cacao, 100gr zahăr pudră, 4 ouă, 100gr unt, sare, bicarbonat, rom"
@@ -945,7 +965,7 @@
   {
     "src": "images/t-86.jpg",
     "alt": "Cornuri Lavinia + Rafaelo(bomboane)",
-    "title": "Cornuri Lavinia + Rafaelo(bomboane)",
+    "title": ["136. Cornuri Lavinia", "137. Rafaelo(bomboane)"],
     "type": "cakes",
     "ingredients": [
       "Cornuri Lavinia: 50gr drojdie crescută, 125gr unt topit, 3lg zahăr, 2 ouă, puțină sare, 200ml lapte crescut, făină cât cuprinde, gem, rahat, nucă",
@@ -955,7 +975,7 @@
   {
     "src": "images/t-87.jpg",
     "alt": "Prăjitură Marte",
-    "title": "Prăjitură Marte",
+    "title": ["138. Prăjitură Marte"],
     "type": "cakes",
     "ingredients": [
       "Prăjitură Marte blaturi: 3 ouă, 80gr zahăr, sare, vanilie, 30ml ulei, 50ml lapte80gr făină, 25gr cacao, praf de copt",
@@ -968,7 +988,7 @@
   {
     "src": "images/t-88.jpg",
     "alt": "Cozonac Lavinia",
-    "title": "Cozonac Lavinia",
+    "title": ["139. Cozonac Lavinia"],
     "type": "cakes",
     "ingredients": [
       "Cozonac Lavinia: 1kg făină, sare, 200gr zahăr, 1 cub drojdie(50gr) crescută, 500ml lapte călduț, 5 gălbenușuri, 200ml ulei călduț, vanilie saum rom",
@@ -978,7 +998,7 @@
   {
     "src": "images/t-89.jpg",
     "alt": "Tăvălită",
-    "title": "Tăvălită",
+    "title": ["140. Tăvălită"],
     "type": "cakes",
     "ingredients": [
       "Tăvălită: 1 pachet margarină, 1 cană zahăr, 3 gălbenușuri, 2lg miere, 12-13lg făină, bicarbonat",
@@ -988,7 +1008,7 @@
   {
     "src": "images/t-90.jpg",
     "alt": "Tarta Tatin cu Mere",
-    "title": "Tarta Tatin cu Mere",
+    "title": ["141. Tarta Tatin cu Mere"],
     "type": "cakes",
     "ingredients": [
       "Tarta Tatin cu Mere aluat: 250gr făină, 125gr unt sărat, 1 ou, 60gr zahăr, puțină sare, zeama de la 1 lămâie",
@@ -998,7 +1018,7 @@
   {
     "src": "images/t-91.jpg",
     "alt": "Tort Ralaelo",
-    "title": "Tort Ralaelo",
+    "title": ["142. Tort Ralaelo"],
     "type": "cakes",
     "ingredients": [
       "Tort Ralaelo blat: 6 ouă, sare, 200gr zahăr, 100gr almendre măcinate, 125gr făină, esență almendre",
@@ -1009,7 +1029,7 @@
   {
     "src": "images/t-92.jpg",
     "alt": "Ciocolată de casă",
-    "title": "Ciocolată de casă",
+    "title": ["143. Ciocolată de casă"],
     "type": "cakes",
     "ingredients": [
       "Ciocolată de casă: 200ml apă, 400gr zahăr brun, sare, 500ml lapte praf, 3lg cacao, zahăr vanilat, zeama de la 1/2 lămâie sau 1 linguriță, 200gr unt, 1 linguriță rom, nucă, stafide, alune"
@@ -1018,7 +1038,7 @@
   {
     "src": "images/t-93.jpg",
     "alt": "Mucenici",
-    "title": "Mucenici",
+    "title": ["144. Mucenici"],
     "type": "cakes",
     "ingredients": [
       "Mucenici: 500gr făină, 100gr zahăr praf, 2 vanilie, 10gr drojdie uscată, sare, coajă lămâie și portocală, 100gr unt topit, 150gr Kefir sau iaurt, 3 ouă",
@@ -1028,7 +1048,7 @@
   {
     "src": "images/t-94.jpg",
     "alt": "Cremă Fructe Pădure",
-    "title": "Cremă Fructe Pădure",
+    "title": ["145. Cremă Fructe Pădure"],
     "type": "cakes",
     "ingredients": [
       "Cremă Fructe Pădure: 350gr fructe padure, 80-85gr zahăr, 3lg zeamă de lămâie, 4gr  gelatină, 2lg apă",
@@ -1038,7 +1058,7 @@
   {
     "src": "images/t-95.jpg",
     "alt": "Dantelă de zahăr pt Tort + Colaci Japonezi",
-    "title": "Dantelă de zahăr pt Tort + Colaci Japonezi",
+    "title": ["146. Dantelă de zahăr pt Tort", "147. Colaci Japonezi"],
     "type": "cakes",
     "ingredients": [
       "Dantelă de zahăr pt Tort: 8gr maizena(corn starch/amidon), 70ml apă, 250gr lapte condensat, colorant",
@@ -1049,7 +1069,7 @@
   {
     "src": "images/t-96.jpg",
     "alt": "Chec cu Iaurt si lămâie Bontea",
-    "title": "Chec cu Iaurt si lămâie Bontea",
+    "title": ["148. Chec cu Iaurt si lămâie Bontea"],
     "type": "cakes",
     "ingredients": [
       "Chec cu Iaurt si lămâie Bontea: 60ml ulei, 160gr făină, 6 ouă, 180gr zahăr, 3 lămâi, 120gr iaurt, praf de copt",
@@ -1059,7 +1079,7 @@
   {
     "src": "images/t-97.jpg",
     "alt": "Mucenici + Prăjitură cu nucă și Caramel",
-    "title": "Mucenici + Prăjitură cu nucă și Caramel",
+    "title": ["149. Mucenici", "150. Prăjitură cu nucă și Caramel"],
     "type": "cakes",
     "ingredients": [
       "Mucenici: 500gr făină, 100gr zahăr praf, 10gr drojdie, vanilie, sare, coajă lămâie, 100gr unt topit, 150gr Kefir sau iart, 3 ouă, ou pt uns, miere, nucă pt decor",
@@ -1071,7 +1091,7 @@
   {
     "src": "images/t-99.jpg",
     "alt": "Tort Ciocolată și Fructe de Pădure",
-    "title": "Tort Ciocolată și Fructe de Pădure",
+    "title": ["151. Tort Ciocolată și Fructe de Pădure"],
     "type": "cakes",
     "ingredients": [
       "Tort Ciocolată și Fructe de Pădure crema de ciocolată lapte: 150gr ciocolată lapte, 200ml frișcă lichidă, 250gr mascarpone",
@@ -1082,7 +1102,7 @@
   {
     "src": "images/t-99.jpg",
     "alt": "Tort Ciocolată si Fructe de Pădure...",
-    "title": "Tort Ciocolată si Fructe de Pădure...",
+    "title": ["152. Tort Ciocolată si Fructe de Pădure..."],
     "type": "cakes",
     "ingredients": ["", ""]
   },
@@ -1090,14 +1110,14 @@
   {
     "src": "images/i-1.jpg",
     "alt": "Înghetate",
-    "title": "Înghetate",
+    "title": ["Înghetate"],
     "type": "iceCreams",
     "ingredients": [""]
   },
   {
     "src": "images/i-2.jpg",
     "alt": "Salată de fructe exotice cu înghețată",
-    "title": "Salată de fructe exotice cu înghețată",
+    "title": ["1. Salată de fructe exotice cu înghețată"],
     "type": "iceCreams",
     "ingredients": [
       "2 kiwi, 1/2 ananas, 150gr physalis(fruct chinezesc ca o cireașă galbenă), 1 limetă, 1 linguriță zahăr pudră, 1/2 plic zahăr vaniliat, 1 cutie de înghețată Caramel sau Vanilla"
@@ -1106,7 +1126,7 @@
   {
     "src": "images/i-3.jpg",
     "alt": "Înghetată de banane cu miere",
-    "title": "Înghetată de banane cu miere",
+    "title": ["2. Înghetată de banane cu miere"],
     "type": "iceCreams",
     "ingredients": [
       "500gr banane 150gr salcâm, 50gr nucă cocos, 1lg zeamă lămâie, 1 plic zahăr vanilat, 250gr smântână, 100gr musli, 1 kiwi sau 1lg nucă de cocos pentru decor"
@@ -1115,34 +1135,32 @@
   {
     "src": "images/i-4.jpg",
     "alt": "Înghetată cu banane",
-    "title": "Înghetată cu banane",
+    "title": ["3. Înghetată cu banane"],
     "type": "iceCreams",
     "ingredients": [
-      "3 banane, 3 gălbenușuri, 150gr zahăr, 1/2 lămâie verde, 2 plicuro zahăr vanilat",
-      ""
+      "3 banane, 3 gălbenușuri, 150gr zahăr, 1/2 lămâie verde, 2 plicuro zahăr vanilat"
     ]
   },
   {
     "src": "images/i-5.jpg",
     "alt": "Înghetată cu trei straturi",
-    "title": "Înghetată cu trei straturi",
+    "title": ["4. Înghetată cu trei straturi"],
     "type": "iceCreams",
     "ingredients": [
-      "6 ouă, 180gr zahăr, 1lg cacao, 50gr ciocolată, 250gr fructe, 100ml frișcă lichidă. 1lg nes, 50gr miez de nucă",
-      ""
+      "6 ouă, 180gr zahăr, 1lg cacao, 50gr ciocolată, 250gr fructe, 100ml frișcă lichidă. 1lg nes, 50gr miez de nucă"
     ]
   },
   {
     "src": "images/i-6.jpg",
     "alt": "Înghetată cu lapte și vișine",
-    "title": "Înghetată cu lapte și vișine",
+    "title": ["5. Înghetată cu lapte și vișine"],
     "type": "iceCreams",
     "ingredients": ["1.5kg vișine, 750ml lapte, 300gr zahăr tos"]
   },
   {
     "src": "images/i-7.jpg",
     "alt": "Înghetată cu căpșune",
-    "title": "Înghetată cu căpșune",
+    "title": ["6. Înghetată cu căpșune"],
     "type": "iceCreams",
     "ingredients": [
       "150gr iaurt, 200gr smântână, 100gr zahăr pudră, 150gr capșune sau alte fructe roșii"
@@ -1151,7 +1169,7 @@
   {
     "src": "images/i-8.jpg",
     "alt": "Înghetată de fistic cu ananas caramelizat",
-    "title": "Înghetată de fistic cu ananas caramelizat",
+    "title": ["7. Înghetată de fistic cu ananas caramelizat"],
     "type": "iceCreams",
     "ingredients": [
       "6 gălbenușuri, 250gr zahăr, 500ml lapte, 100gr smântână, 100gr fistic fără sare, 50gr migdale, 1/2 fiolă esență de migdale, 4 lingurițe rom, 2 picături colorant alimentar verde, 6 rondele de anans, cireșe confiate pentru decor"
@@ -1160,34 +1178,30 @@
   {
     "src": "images/i-9.jpg",
     "alt": "Înghetată de piersici",
-    "title": "Înghetată de piersici",
+    "title": ["8. Înghetată de piersici"],
     "type": "iceCreams",
-    "ingredients": [
-      "2 piersici, 150gr zahăr, 1 albuș, 250ml frișcă vegetală",
-      ""
-    ]
+    "ingredients": ["2 piersici, 150gr zahăr, 1 albuș, 250ml frișcă vegetală"]
   },
   {
     "src": "images/i-10.jpg",
     "alt": "Înghetată de portocale",
-    "title": "Înghetată de portocale",
+    "title": ["9. Înghetată de portocale"],
     "type": "iceCreams",
     "ingredients": [
-      "500ml frișcă lichidă, 250ml suc de portocale, 6lg zahăr pudră, zeama de la 3 lămâi, 20ml apă, 1 albuș",
-      ""
+      "500ml frișcă lichidă, 250ml suc de portocale, 6lg zahăr pudră, zeama de la 3 lămâi, 20ml apă, 1 albuș"
     ]
   },
   {
     "src": "images/i-11.jpg",
     "alt": "Înghetată de zmeură",
-    "title": "Înghetată de zmeură",
+    "title": ["10. Înghetată de zmeură"],
     "type": "iceCreams",
     "ingredients": ["1kg zmeură, 250gr zahăr, 500ml frișcă lichidă"]
   },
   {
     "src": "images/i-12.jpg",
-    "alt": "Înghetatăcu frișcă și piersici",
-    "title": "Înghetată cu frișcă și piersici",
+    "alt": "Înghetată cu frișcă și piersici",
+    "title": ["11. Înghetată cu frișcă și piersici"],
     "type": "iceCreams",
     "ingredients": [
       "300gr piersici, 400ml frișcă lichidă, 1 ou, 300ml lapte, zahăr pudră după gust"
@@ -1196,7 +1210,7 @@
   {
     "src": "images/i-13.jpg",
     "alt": "Înghetată de coacăze roșii",
-    "title": "Înghetată de coacăze roșii",
+    "title": ["12. Înghetată de coacăze roșii"],
     "type": "iceCreams",
     "ingredients": [
       "100gr coacăze roșii. 2 gălbenușuri, 20gr smântână, 2lg zahăr"
@@ -1205,7 +1219,7 @@
   {
     "src": "images/i-14.jpg",
     "alt": "Înghetată de pierici cu iaurt",
-    "title": "Înghetată de piersci cu iaurt",
+    "title": ["13. Înghetată de piersci cu iaurt"],
     "type": "iceCreams",
     "ingredients": [
       "800gr compot de piersici, 200gr zahăr, 250gr iaurt, 1 lămâie, 100ml frișcă lichidă, 100gr dulceață de piersici"
@@ -1214,7 +1228,7 @@
   {
     "src": "images/i-15.jpg",
     "alt": "Înghetată de mentă",
-    "title": "Înghetată de mentă",
+    "title": ["14. Înghetată de mentă"],
     "type": "iceCreams",
     "ingredients": [
       "4 ouă, 8lg zahăr, 1lg făină, 500ml lapte, 150ml sirop mentă, o mână mentă proaspătă"
@@ -1223,7 +1237,7 @@
   {
     "src": "images/i-16.jpg",
     "alt": "Înghetată de rubarbă",
-    "title": "Înghetată de rubarbă",
+    "title": ["15. Înghetată de rubarbă"],
     "type": "iceCreams",
     "ingredients": [
       "500gr rubarbă, 200gr zahăr, 1/2 pahar vin roșu, 4 gălbenușuri, 1/2 lămâie, 1/2 l frișcă, 1 baton vanilie, 4-5 căpșune pt decor"
@@ -1232,7 +1246,7 @@
   {
     "src": "images/i-17.jpg",
     "alt": "Înghetată de cacao cu nuci și dulceață",
-    "title": "Înghetată de cacao cu nuci și dulceață",
+    "title": ["16. Înghetată de cacao cu nuci și dulceață"],
     "type": "iceCreams",
     "ingredients": [
       "3lg cacao, 1 cană zahăr tos, 1/2 cană apă, 250gr unt, 2lg fructe din dulceață, 3 buc rahat, 1 mână miez de nucă, 1 fiolă esență rom"
@@ -1241,7 +1255,7 @@
   {
     "src": "images/i-18.jpg",
     "alt": "Înghetată cu ciocolată și fructe",
-    "title": "Înghetată cu ciocolată și fructe",
+    "title": ["17. Înghetată cu ciocolată și fructe"],
     "type": "iceCreams",
     "ingredients": [
       "140gr ciocolaă menaj, 20gr unt, 200gr miez nucă, 6 gălbenușuri, 400ml frișcă, 150gr zahăr, 1lg lapte, 140gr zahăr pudră, 1lg lichior fructe, 1/2lg ulei, 1 portocală"
@@ -1249,8 +1263,8 @@
   },
   {
     "src": "images/i-19.jpg",
-    "alt": "Înghetată de caise cu marscapone",
-    "title": "Înghetată de caise cu marscapone",
+    "alt": "Înghetată de caise cu marscarpone",
+    "title": ["18. Înghetată de caise cu marscarpone"],
     "type": "iceCreams",
     "ingredients": [
       "500gr caise coapte, 200gr zahăr, 100ml lapte, 2ouă, 2 plicuri zahăr vanilat, 400gr mascarpone "
@@ -1259,7 +1273,7 @@
   {
     "src": "images/i-20.jpg",
     "alt": "Parfe de vișine",
-    "title": "Parfe de vișine",
+    "title": ["19. Parfe de vișine"],
     "type": "iceCreams",
     "ingredients": [
       "175gr vișine, 200gr iaurt, 200gr mascarpone, 2lg zahăr, 1lg zahăr vanilat, 1lg suc portocale, 2lg suc lămâie, 5g(1/2)plic gelatină, 4ceșcuțe pt cafea, 4 buc hârtie permanent pt copt brioșe"
@@ -1268,21 +1282,21 @@
   {
     "src": "images/i-21.jpg",
     "alt": "Parfe de vișine",
-    "title": "Parfe de vișine",
+    "title": ["20. Parfe de vișine"],
     "type": "iceCreams",
     "ingredients": [""]
   },
   {
     "src": "images/i-22.jpg",
     "alt": "Parfe de ciocolată",
-    "title": "Parfe de ciocolată",
+    "title": ["21. Parfe de ciocolată"],
     "type": "iceCreams",
     "ingredients": [""]
   },
   {
     "src": "images/i-23.jpg",
     "alt": "Mix de căpțune și afine cu înghetată",
-    "title": "Mix de căpțune și afine cu înghetată",
+    "title": ["22. Mix de căpțune și afine cu înghetată"],
     "type": "iceCreams",
     "ingredients": [
       "500gr căpșune, 250gr afine, zeama de la 1/2 lămâie, 3lg zahăr, 1pliculeț zahăr vanilat, 1 cutie înghețată Muffin"
@@ -1291,7 +1305,7 @@
   {
     "src": "images/i-24.jpg",
     "alt": "Înghetată asortată",
-    "title": "Înghetată asortată",
+    "title": ["23. Înghetată asortată"],
     "type": "iceCreams",
     "ingredients": [
       "400gr fructe de pădure, 1 pepene roșu mic, 1 pepene galben, 2lg rom, 300gr zahăr pudră, 600ml frișcă lichidă, câteva pișcoturi"
@@ -1300,7 +1314,7 @@
   {
     "src": "images/i-25.jpg",
     "alt": "Înghetată de căpșune cu ananas",
-    "title": "Înghetată de căpșune cu ananas",
+    "title": ["24. Înghetată de căpșune cu ananas"],
     "type": "iceCreams",
     "ingredients": [
       "300gr zahăr, 1 cutie compot(600gr) de ananas, 300ml frișcă lichidă, 150gr capșune, sos de căpșuni de la Oetker, 1/2 lămâie"
@@ -1309,7 +1323,7 @@
   {
     "src": "images/i-26.jpg",
     "alt": "Înghetată cu alune, căpșune și ciocolată",
-    "title": "Înghetată cu alune, căpșune și ciocolată",
+    "title": ["25. Înghetată cu alune, căpșune și ciocolată"],
     "type": "iceCreams",
     "ingredients": [
       "500gr căpșune, 300gr zahăr, 500ml frișcă lichidă, 100gr ciocolată amăruie, 100gr alune nesărate, 1/2 lămâie, 1 albuș, 1 praf de sare"
@@ -1318,7 +1332,7 @@
   {
     "src": "images/i-27.jpg",
     "alt": "Căpșune marinate spicy",
-    "title": "Căpșune marinate spicy",
+    "title": ["26. Căpșune marinate spicy"],
     "type": "iceCreams",
     "ingredients": [
       "500gr căpșune, 1 plic zahăr vanilat, 100ml suc(portocale sau vișine), 1 vârf de cuțit piper roz sau roșu, 1 cutie înghețată Mascarpone, frunze de mentă"
@@ -1327,7 +1341,7 @@
   {
     "src": "images/i-28.jpg",
     "alt": "Înghetată cu foi de napolitană",
-    "title": "Înghetată cu foi de napolitană",
+    "title": ["27. Înghetată cu foi de napolitană"],
     "type": "iceCreams",
     "ingredients": [
       "3 foi de napolitană, 5 ouă, 250gr zahăr, 3lg făină, 6lg nucă măcinată, 300ml lapte, 500ml frișcă lichidă, 2 plicuri zahăr vanilat, 2 linguriță nes, 1lg cacao, 50gr ciocolată menaj"
@@ -1336,7 +1350,7 @@
   {
     "src": "images/i-29.jpg",
     "alt": "Înghetată de vanilie",
-    "title": "Înghetată de vanilie",
+    "title": ["28. Înghetată de vanilie"],
     "type": "iceCreams",
     "ingredients": [
       "6 gălbenușuri, 180gr zahăr tos, 1 baton vanilie, 250ml lapte, sos caramel Oetker"
@@ -1345,7 +1359,7 @@
   {
     "src": "images/i-30.jpg",
     "alt": "Înghetată cu frișcă, nuci și ciocolată",
-    "title": "Înghetată cu frișcă, nuci și ciocolată",
+    "title": ["29. Înghetată cu frișcă, nuci și ciocolată"],
     "type": "iceCreams",
     "ingredients": [
       "1kg smântână, 250gr zahăr, 200gr miez nucă, 100gr ciocolata menaj sau amăruie, 1/2 fiolă esență vanilie"
@@ -1354,7 +1368,7 @@
   {
     "src": "images/i-31.jpg",
     "alt": "Desert Triple Chocolate cu ananas",
-    "title": "Desert Triple Chocolate cu ananas",
+    "title": ["30. Desert Triple Chocolate cu ananas"],
     "type": "iceCreams",
     "ingredients": [
       "1 ananas, 8lingurițe zahăr, a cutie înghețată Triple Chocolate sau Stracciatella"
@@ -1363,7 +1377,7 @@
   {
     "src": "images/i-32.jpg",
     "alt": "Înghetată cu fulgi de cereale",
-    "title": "Înghetată cu fulgi de cereale",
+    "title": ["31. Înghetată cu fulgi de cereale"],
     "type": "iceCreams",
     "ingredients": [
       "200gr fulgi de cereale, 100gr miez de nucă, 100gr unt, 4 ouă, 100gr ciocolată, 1 fiolă esență de vanilie, câțiva biscuiți și fructe confiate pentru decor"
@@ -1371,8 +1385,8 @@
   },
   {
     "src": "images/i-33.jpg",
-    "alt": "Înghetată de alune cu ciocolată ",
-    "title": "Înghetată de alune cu ciocolată ",
+    "alt": "Înghetată de alune cu ciocolată",
+    "title": ["32. Înghetată de alune cu ciocolată"],
     "type": "iceCreams",
     "ingredients": [
       "150gr zahăr tos, 500ml lapte, 3 ouă, 100gr alune nesărate, o mână de smeură pentru decor, sos de ciocolată"
@@ -1381,7 +1395,7 @@
   {
     "src": "images/i-34.jpg",
     "alt": "Înghetată cu iaurt și fructe",
-    "title": "Înghetată cu iaurt și fructe",
+    "title": ["33. Înghetată cu iaurt și fructe"],
     "type": "iceCreams",
     "ingredients": [
       "200gr iaurt, 500gr fructe de sezon, 2lg miere, zeamă de la 1 lămâie, 200gr smântână, 100gr frișcă"
@@ -1390,7 +1404,7 @@
   {
     "src": "images/i-35.jpg",
     "alt": "Înghetată de zmeură",
-    "title": "Înghetată cu ",
+    "title": ["34.Înghetată cu zmeură"],
     "type": "iceCreams",
     "ingredients": [
       "250gr zmeură, 300gr zahăr pudră, 750ml lapte rece, 1lg zeamă de lămâie, sos de zmeură"
@@ -1399,7 +1413,7 @@
   {
     "src": "images/i-36.jpg",
     "alt": "Înghetată cu lapte și kiwi",
-    "title": "Înghetată cu lapte și kiwi",
+    "title": ["35. Înghetată cu lapte și kiwi"],
     "type": "iceCreams",
     "ingredients": [
       "6ouă, 400gr zahăr, 1l lapte, 100gr unt, 1/2 baton vanilie, 3-4kiwi, coaja rasă de la 1 lămâie verde, 50gr fistic prăjit si decojit"
@@ -1408,7 +1422,7 @@
   {
     "src": "images/i-37.jpg",
     "alt": "Salată de căpșune cu înghețată și fistic",
-    "title": "Salată de căpșune cu înghețată și fistic",
+    "title": ["36. Salată de căpșune cu înghețată și fistic"],
     "type": "iceCreams",
     "ingredients": [
       "40 gr fistic crud decojit, 2lg zahăr, 500gr căpșune, 1 limetă(lămâie verde), 1/2 pachețel zahăr vanilat(sau baton de vanilie), puțin piper măcinat mare, 1 cutie înghețată Stracciatella, frunze de mentă pentru ornat"
@@ -1417,7 +1431,7 @@
   {
     "src": "images/i-38.jpg",
     "alt": "Înghetată cu rom",
-    "title": "Înghetată cu rom",
+    "title": ["37. Înghetată cu rom"],
     "type": "iceCreams",
     "ingredients": [
       "500ml frișcă lichidă sau 500gr smântână, 150gr zahăr pudră, 1 pliculeț ceai negru, 5 gălbenușuri, 50ml rom, câteva fructe proaspete și rulouri de napolitană, pt decor"
@@ -1426,7 +1440,7 @@
   {
     "src": "images/i-39.jpg",
     "alt": "Banana split",
-    "title": "Banana split",
+    "title": ["38. Banana split"],
     "type": "iceCreams",
     "ingredients": [
       "2 banane, 150gr înghețata Caramel sau Vanilla, 50ml coniac, 50gr topping caramel"
@@ -1435,7 +1449,7 @@
   {
     "src": "images/i-40.jpg",
     "alt": "Înghetată cu brânză dulce și căpșune",
-    "title": "Înghetată cu brânză dulce și căpșune",
+    "title": ["39. Înghetată cu brânză dulce și căpșune"],
     "type": "iceCreams",
     "ingredients": [
       "250gr brânză dulce, 150gr smântână, 150gr zahăr, 400gr căpșune"
@@ -1444,7 +1458,7 @@
   {
     "src": "images/i-41.jpg",
     "alt": "Parfe de zmeură cu bezele",
-    "title": "Parfe de zmeură cu bezele",
+    "title": ["40. Parfe de zmeură cu bezele"],
     "type": "iceCreams",
     "ingredients": [
       "6albușuri, 1 cană zmeură, 300gr zahăr, 500ml frișcă lichidă, 5-6 bezele, câțiva biscuiți și țigarete pentru decor"
@@ -1453,7 +1467,7 @@
   {
     "src": "images/i-42.jpg",
     "alt": "Parfe de căpșune cu sos de portocale",
-    "title": "Parfe de căpșune cu sos de portocale",
+    "title": ["41. Parfe de căpșune cu sos de portocale"],
     "type": "iceCreams",
     "ingredients": [
       "500gr căpșune, 200gr zahăr, 4 gălbenușuri, 400ml frișcă lichidă, 2 portocale, 1lg rasă amidon"
@@ -1462,7 +1476,7 @@
   {
     "src": "images/i-43.jpg",
     "alt": "Parfe de căpșune cu fistic",
-    "title": "Parfe de căpșune cu fistic",
+    "title": ["42. Parfe de căpșune cu fistic"],
     "type": "iceCreams",
     "ingredients": [
       "100gr zahăr tos, 100ml apă, 50gr fistic decojit și prăjit, 1lg ulei, 500gr căpșune, 100gr zahăr pudră, 400ml frișcă lichidă, 5 gălbenușuri, 1 plic zahăr vanilat"
@@ -1471,7 +1485,7 @@
   {
     "src": "images/i-44.jpg",
     "alt": "Shake",
-    "title": "Shake",
+    "title": ["43. Shake"],
     "type": "iceCreams",
     "ingredients": [
       "1 cutie înghețată Cremă de Mascarpone, 250ml lapte rece(1.5% grăsime), 250gr iaurt, 200ml frișcă, 50gr cireșe pt ornat"
@@ -1480,7 +1494,7 @@
   {
     "src": "images/i-45.jpg",
     "alt": "Smoothy de zmeură cu înghețată",
-    "title": "Smoothy de zmeură cu înghețată",
+    "title": ["44. Smoothy de zmeură cu înghețată"],
     "type": "iceCreams",
     "ingredients": [
       "300gr zmeură, 1 cutie înghețată Crema di Mascarpone, 250ml lapte bătut, bine răcit, 1 linguriță coajă de lămâie rasă, frunze de mentă"
@@ -1489,7 +1503,7 @@
   {
     "src": "images/i-46.jpg",
     "alt": "Tort de înghețată cu vișine și ciocolată",
-    "title": "Tort de înghețată cu vișine și ciocolată",
+    "title": ["45. Tort de înghețată cu vișine și ciocolată"],
     "type": "iceCreams",
     "ingredients": [
       "1 blat de pandișpan din comerț, 5 ouă, 500ml lapte, 200gr smântână, 150gr zahăr, 200gr ciocolată amăruie, 500gr vișine"
@@ -1498,18 +1512,18 @@
   {
     "src": "images/i-47.jpg",
     "alt": "Tort de înghețată",
-    "title": "Tort de înghețată",
+    "title": ["46. Tort de înghețată"],
     "type": "iceCreams",
     "ingredients": [
       "Blat: 500gr biscuiți mari,1 fiolă esență de rom, 2 ouă, 200gr unt, 100gr zahăr",
-      "Crema:500ml frișcă lichidă, 4 ouă, coajă și sucul de la 1 lămîie sau de la 1 portocală, 2 plicuri de zahăr vanilat, 100gr zahăr",
+      "Crema:500ml frișcă lichidă, 4 ouă, coajă și sucul de la 1 lămâie sau de la 1 portocală, 2 plicuri de zahăr vanilat, 100gr zahăr",
       "Decor: 5lg frișcă(oprești din cantitatea pt cremă, 1 plic glazură de ciocolată, 5-6 căpșune mari)"
     ]
   },
   {
     "src": "images/i-48.jpg",
     "alt": "Tort de înghețată cu pișcoturi",
-    "title": "Tort de înghețată cu pișcoturi",
+    "title": ["47. Tort de înghețată cu pișcoturi"],
     "type": "iceCreams",
     "ingredients": [
       "3 gălbenușuri, 4lg zahăr, 200ml lapte, 400ml frișcă lichidă, 200gr zmeură, 200gr ciocolată, 1 lămâie, 400gr pișcoturi pt șampanie"
@@ -1518,7 +1532,7 @@
   {
     "src": "images/i-49.jpg",
     "alt": "Tort de nuci, vișine și cacao",
-    "title": "Tort de nuci, vișine și cacao",
+    "title": ["48. Tort de nuci, vișine și cacao"],
     "type": "iceCreams",
     "ingredients": [
       "200gr unt, 150gr zahăr pudră, 3 linguri cacao, 4 gălbenușuri, 100gr vișine proaspete congelate sau din vișinată, 1lg coajă de portocală confiată, 50gr miez de nucă, 100ml frișcă lichidă"
@@ -1527,7 +1541,7 @@
   {
     "src": "images/i-50.jpg",
     "alt": "Tiramisu de fructe cu înghețată",
-    "title": "Tiramisu de fructe cu înghețată",
+    "title": ["49. Tiramisu de fructe cu înghețată"],
     "type": "iceCreams",
     "ingredients": [
       "250gr afine(proaspete/congelate), 1 plic glazură roșie pt tort, 250ml suc de afine sau coacăze negre, 2lg zahăr, coajă de la o lămâie rasă, 2 lg rom sau lichior de fructe, 100gr pișcoturi de șampanie, 1 cutie înghețată Stracciatella sau Tiramisu"
@@ -1536,16 +1550,16 @@
   {
     "src": "images/i-51.jpg",
     "alt": "Desert cu înghețată și pișcoturi",
-    "title": "Desert cu înghețată și pișcoturi",
+    "title": ["50. Desert cu înghețată și pișcoturi"],
     "type": "iceCreams",
     "ingredients": [
-      "200gr pișcoturi pt șampanie,1 cutie mică(600ml înghețată din comerț), 300gr căpșune sau zmeură, 150ml lichior sau coniac, 200ml frișcă lichidă"
+      "200gr pișcoturi pt șampanie, 1 cutie mică(600ml înghețată din comerț), 300gr căpșune sau zmeură, 150ml lichior sau coniac, 200ml frișcă lichidă"
     ]
   },
   {
     "src": "images/i-52.jpg",
     "alt": "Inimioare de gaufre cu înghețată",
-    "title": "Inimioare de gaufre cu înghețată",
+    "title": ["51. Inimioare de gaufre cu înghețată"],
     "type": "iceCreams",
     "ingredients": [
       "Gaufre: 50gr unt moale, 30gr zahăr, 2 ouă(medii), 125gr făină, 1 vârf de cutie de sare, 125ml smântână, grăsime pt aparatul de gaufre",
@@ -1555,7 +1569,7 @@
   {
     "src": "images/i-53.jpg",
     "alt": "Piersici umplute cu înghețată",
-    "title": "Piersici umplute cu înghețată",
+    "title": ["52. Piersici umplute cu înghețată"],
     "type": "iceCreams",
     "ingredients": [
       "6 piersici mari, 1l lapte, 200gr zahăr pudră, 2 plicuri zahăr vanilat, 8 gălbenușuri, 150ml frișcă, 4lg dulceață de vișine, miezul de la 10 nuci, 10lg lichior de vișine"
@@ -1564,7 +1578,7 @@
   {
     "src": "images/i-54.jpg",
     "alt": "Tarte cu migdale și mandarine",
-    "title": "Tarte cu migdale și mandarine",
+    "title": ["53. Tarte cu migdale și mandarine"],
     "type": "iceCreams",
     "ingredients": [
       "Aluat: 150gr făină, 100gr migdale măcinate, 100gr zahăr, 150gr unt rece, 1 gălbenuș(mediu), făină pt suprafața de lucru, unt pt formele de tartă",
@@ -1574,7 +1588,7 @@
   {
     "src": "images/i-55.jpg",
     "alt": "Cuprins",
-    "title": "Cuprins",
+    "title": ["Cuprins"],
     "type": "iceCreams",
     "ingredients": ["..."]
   },
@@ -1582,39 +1596,53 @@
   {
     "src": "images/m-1.jpg",
     "alt": "Sfaturi practice",
-    "title": "Sfaturi practice",
+    "title": ["Sfaturi practice"],
     "type": "mains",
     "ingredients": ["", ""]
   },
   {
     "src": "images/m-2.jpg",
     "alt": "Sfaturi practice",
-    "title": "Sfaturi practice",
+    "title": ["Sfaturi practice"],
     "type": "mains",
     "ingredients": ["", ""]
   },
   {
     "src": "images/m-3.jpg",
     "alt": "Sfaturi practice",
-    "title": "Sfaturi practice",
+    "title": ["Sfaturi practice"],
     "type": "mains",
     "ingredients": ["", ""]
   },
   {
     "src": "images/m-4.jpg",
-    "alt": "Măsuri, Salate, Aperitive, Sosuri Reci și Calde",
-    "title": "Măsuri, Salate, Aperitive, Sosuri Reci și Calde",
+    "alt": "Măsuri, Salate: 1.Salată de varză roșie, 2.Salată de varză albă, 3.Salata de ridichi de lună",
+    "title": [
+      "1. Salată de varză roșie",
+      "2. Salată de varză albă",
+      "3. Salata de ridichi de lună"
+    ],
     "type": "mains",
     "ingredients": [
-      "1.Salată de varză roșie: 1 varză roşie mijlocie, 2 linguri ulei, 2-3 linguri oţet, ½ linguriţă zahăr, sare",
-      "2.Salată de varză albă: 1 varză mijlocie, 2 linguri ulei, 2-3 linguri oţet, sare",
-      "3.Salata de ridichi de lună: 3-4 legături de ridichi, 1 ou răscopt, 2-3 linguri smântână, sare"
+      "1. Salată de varză roșie: 1 varză roşie mijlocie, 2 linguri ulei, 2-3 linguri oţet, ½ linguriţă zahăr, sare",
+      "2. Salată de varză albă: 1 varză mijlocie, 2 linguri ulei, 2-3 linguri oţet, sare",
+      "3. Salata de ridichi de lună: 3-4 legături de ridichi, 1 ou răscopt, 2-3 linguri smântână, sare"
     ]
   },
   {
     "src": "images/m-5.jpg",
     "alt": "Salate",
-    "title": "Salate",
+    "title": [
+      "4. Salată de țelină cu mere",
+      "5. Salată de fasole boabe",
+      "6. Salată de ardei copți 1",
+      "7. Salată de ardei copți 2",
+      "9. Salată de gogoșari copți",
+      "10. Salată de vinete",
+      "11. Salată de vinete prăjite",
+      "12. Salată de vinete cu gogoşari",
+      "13. Salata de dovlecei 1"
+    ],
     "type": "mains",
     "ingredients": [
       "4.Salată de țelină cu mere: 2-3 ţeline, 2-3 mere, 2 linguri ulei, oţet (după gust), sare",
@@ -1632,7 +1660,16 @@
   {
     "src": "images/m-6.jpg",
     "alt": "Salate",
-    "title": "Salate",
+    "title": [
+      "14. Salată de dovlecei 2",
+      "15.Salată de praz",
+      "16.Salată de fasole verde",
+      "17.Salată de conopidă",
+      "18.Salată de cartofi 1",
+      "18.Salată de cartofi 1",
+      "20.Vinegretă 1",
+      "21.Vinegretă 2"
+    ],
     "type": "mains",
     "ingredients": [
       "14.Salată de dovlecei 2: 3-4 dovlecei, 1 lingură ulei, 1 lingură oţet, 2 căţei de usturoi pisat (după plac), sare, puţin pătrunjel şi mărar",
@@ -1640,7 +1677,7 @@
       "16.Salată de fasole verde: 3-4 dovlecei, 1 lingură ulei, 1 lingură oţet, 2 căţei de usturoi pisat (după plac), sare, puţin pătrunjel şi mărar",
       "17.Salată de conopidă: 1 conopidă mijlocie, 2 linguri ulei, 2 linguri oţet, sare",
       "18.Salată de cartofi 1: 500 g cartofi, 2 cepe, 1 castravecior acru, 1 ou fiert tare, 223 linguri ulei, oţet (după gust), sare",
-      "19.Salata de cartofi 2: 400 g cartofi, 2 cepe, 1 scrumbie, 50 g măsline, 2 linguri ulei, 1 lingură oţet, sare (dacă este nevoie)",
+      "18.Salată de cartofi 1: 400 g cartofi, 2 cepe, 1 scrumbie, 50 g măsline, 2 linguri ulei, 1 lingură oţet, sare (dacă este nevoie)",
       "20.Vinegretă 1: 1 sfeclă roşie mică, 3-4 cartofi mari, 1 morcov, o mână de mazăre sau fasole boabe, 1 castravecior acru, 2 ouă răscoapte, 1 ceapă, 3 linguri ulei, oţet (după gust), sare",
       "21.Vinegretă 2: 1 sfeclă roşie mică, 3-4 cartofi mari, 1 morcov, o mână de mazăre sau fasole boabe, 1 castravecior acru, 1 ceapă, 1 scrumbie, 100 g măsline, 1 lingură ulei, oţet (după gust), sare (dacă este nevoie)"
     ]
@@ -1648,7 +1685,14 @@
   {
     "src": "images/m-7.jpg",
     "alt": "Salate",
-    "title": "Salate",
+    "title": [
+      "22.Salată de scrumbii sărate cu ceapă",
+      "23.Salată de icre din scrumbii sărate",
+      "24.Salată de creier 1",
+      "25.Salată de creier 2",
+      "26.Salată de boeuf",
+      "27.Salata 'Sănătate'"
+    ],
     "type": "mains",
     "ingredients": [
       "22.Salată de scrumbii sărate cu ceapă: 2 scrumbii mijlocii, 3 cepe mari, 100 g măsline, 2-3 linguri ulei, 2-3 linguri oţet",
@@ -1662,7 +1706,14 @@
   {
     "src": "images/m-8.jpg",
     "alt": "Salate + Aperitive",
-    "title": "Salate + Aperitive",
+    "title": [
+      "28.Salată 'Primăvara'",
+      "29.Salată 'Vitamina'",
+      "30.Ouă umplute 1",
+      "31.Ouă umplute 2",
+      "32.Ouă umplute cu muștar",
+      "33.Ouă umplute cu maioneză"
+    ],
     "type": "mains",
     "ingredients": [
       "28.Salată 'Primăvara': 5-6 buchete salată verde, 2 legături ridichi de lună, 1 legătură morcovi, 4 cartofi mari, 3 ouă răscoapte, 2 legături ceapă verde, 1 pahar smântână, ½ linguriţă zahăr pudră, 1 lingură zeamă de lămâie sau oţet, sare",
@@ -1676,7 +1727,13 @@
   {
     "src": "images/m-9.jpg",
     "alt": "Aperitive",
-    "title": "Aperitive",
+    "title": [
+      "34.Ouă umplute cu brânză",
+      "35.Ouă umplute cu sos de smântână 1",
+      "36.Ouă umplute cu sos de smântână 2",
+      "37.Ouă umplute cu pastă de pește",
+      "38.Pâine mozaic"
+    ],
     "type": "mains",
     "ingredients": [
       "34.Ouă umplute cu brânză: 6 ouă, 1 gălbenuş crud, 2 linguri unt, 2 linguri brânză rasă (brânză de oaie), 1 linguriţă mărar tocat, sare, mărar",
@@ -1689,7 +1746,16 @@
   {
     "src": "images/m-10.jpg",
     "alt": "Aperitive",
-    "title": "Aperitive",
+    "title": [
+      "39.Roșii umplute cu brânză",
+      "40.Roșii umplute cu zarzavat",
+      "41.Roșii umplute cu vinete",
+      "42.Roșii umplute cu ciuperci",
+      "43.Ardei grași umpluți cu brânză",
+      "44.Cornuri cu brânză",
+      "45.Cornuri cu crenvurști",
+      "46.Chifle umplute"
+    ],
     "type": "mains",
     "ingredients": [
       "39.Roșii umplute cu brânză: 500 g brânză de vacă, 100 g unt, 1 lingură mărar tocat, roşii tari şi frumoase, sare",
@@ -1705,7 +1771,14 @@
   {
     "src": "images/m-11.jpg",
     "alt": "Aperitive",
-    "title": "Aperitive",
+    "title": [
+      "47.Cornute de parizer umplute",
+      "48.Cupe de parizer umplute cu legume",
+      "49.Urdă cu mărar",
+      "50.Brânză cu chimen",
+      "51.Pastă de parizer",
+      "52.Coșulețe umplute cu salată de boeuf"
+    ],
     "type": "mains",
     "ingredients": [
       "47.Cornute de parizer umplute: 6 felii parizer tăiat subţire, 12 măsline, 2 cartofi fierţi, 2-3 linguri maioneză, piper (facultativ), salată verde",
@@ -1719,7 +1792,14 @@
   {
     "src": "images/m-12.jpg",
     "alt": "Aperitive",
-    "title": "Aperitive",
+    "title": [
+      "53.Pastă de ficat copt",
+      "54.Pateu de ficat de pasăre",
+      "55.Ciuperci umplute cu creier",
+      "56.Pateu de ficat cu ciuperci",
+      "57.Ciuperci în gelatină",
+      "58.Ciuperci umplute cu maioneză"
+    ],
     "type": "mains",
     "ingredients": [
       "53.Pastă de ficat copt: 500 g ficat de vacă sau viţel, 2 cepe (după plac), 3 linguri ulei, piper, sare, puţin oţet (după gust), 1 ou, salată verde",
@@ -1733,7 +1813,14 @@
   {
     "src": "images/m-13.jpg",
     "alt": "Aperitive",
-    "title": "Aperitive",
+    "title": [
+      "59.Ciuperci umplute cu brânză de vacă",
+      "60.Ciuperci umplute cu brânză de oi",
+      "61.Ciuperci umplute cu carne",
+      "62.Biftec tartar",
+      "63.Pastă de heringi cu mere",
+      "64.Pastă de heringi cu nuci"
+    ],
     "type": "mains",
     "ingredients": [
       "59.Ciuperci umplute cu brânză de vacă: 6 ciuperci mari, 2 linguri unt, 150 g brânză de vaci, 1 lingură mărar tocat, 1 ou, sare",
@@ -1747,7 +1834,12 @@
   {
     "src": "images/m-14.jpg",
     "alt": "Aperitive",
-    "title": "Aperitive",
+    "title": [
+      "65.Chifteluțe din hringi sau scrumbii sărate:",
+      "66.Ciuperci pe frigănele",
+      "67.Creier în gelatină",
+      "68.Piftie de porc"
+    ],
     "type": "mains",
     "ingredients": [
       "65.Chifteluțe din hringi sau scrumbii sărate: 2 heringi, 1 ou, 2 felii de pâine albă (miezul), 1 ceapă, 1 lingură pătrunjel şi mărar tocat, 2 linguri ulei, pesmet",
@@ -1759,7 +1851,14 @@
   {
     "src": "images/m-15.jpg",
     "alt": "Aperitive",
-    "title": "Aperitive",
+    "title": [
+      "69.Piftie de pasăre",
+      "70.Piftie de pește",
+      "71.Fasole boabe cu maioneză",
+      "72.Fasole păstăi cu maioneză",
+      "73.Țelină cu maioneză",
+      "74.Farsmac"
+    ],
     "type": "mains",
     "ingredients": [
       "69.Piftie de pasăre: Carne de pasăre, 1 ceapă, 1 morcov, 1 ţelină, 1 pătrunjel, 2 foi de dafin, 3-4 boabe ienibahar, gelatină (după nevoie), zeama de la o lămâie, sare",
@@ -1773,7 +1872,18 @@
   {
     "src": "images/m-16.jpg",
     "alt": "Aperitive + Unt pentru sandvișuri",
-    "title": "Aperitive + Unt pentru sandvișuri",
+    "title": [
+      "75.Perișoare cu șvaițer",
+      "76.Cașcaval la capac(pt 1 pers)",
+      "77.Cașcaval panè(pt 1 pers)",
+      "78.Unt cu rocfort",
+      "79.Unt cu muștar",
+      "80.Unt cu raci",
+      "81.Unt cu sardele",
+      "82.Unt cu beringi",
+      "83.Unt galben",
+      "84.Unt verde"
+    ],
     "type": "mains",
     "ingredients": [
       "75.Perișoare cu șvaițer: 300 g șvaițer, 4 albușuri, 250 g ulei, 150 g unt",
@@ -1791,7 +1901,18 @@
   {
     "src": "images/m-17.jpg",
     "alt": "Unt pentru sandvișuri + Sosuri reci și calde",
-    "title": "Unt pentru sandvișuri + Sosuri reci și calde",
+    "title": [
+      "85.Unt negru",
+      "86.Unt roz",
+      "87.Maioneză",
+      "88.Sos de unt cu gălbenuș",
+      "89.Sos de hrean cu smântână",
+      "90.Sos de muștar cu smântână",
+      "91.Sos de roșii",
+      "92.Sos de tarhon 1",
+      "93.Sos de tarhon 2",
+      "94.Sos de castraveți"
+    ],
     "type": "mains",
     "ingredients": [
       "85.Unt negru: 200 g unt, 200 g măsline",
@@ -1809,7 +1930,16 @@
   {
     "src": "images/m-18.jpg",
     "alt": "Sosuri reci și calde",
-    "title": "Sosuri reci și calde",
+    "title": [
+      "95.Sos de ceapă",
+      "96.Sos de lapte(Bechamel)",
+      "97.Sos de ciuperci",
+      "98.Sos de anason",
+      "99.Sos de smântână",
+      "100.Sos de ou 1",
+      "101.Sos de ou 2",
+      "102.Sos de ou 3"
+    ],
     "type": "mains",
     "ingredients": [
       "95.Sos de ceapă: 1 lingură unt sau untură, 1 lingură făină, 2 cepe, 1 linguriţă zahăr, 1 lingură bulion, 1-2 linguri oţet sau zeamă de lămâie, 2 pahare zeamă de carne (în lipsă, apă), sare.",
@@ -1825,7 +1955,11 @@
   {
     "src": "images/m-19.jpg",
     "alt": "Sosuri reci și calde + Budinci sărate",
-    "title": "Sosuri reci și calde + Budinci sărate",
+    "title": [
+      "103.Sos de usturoi",
+      "104.Budincă de cartofi cu carne",
+      "105.Budincă de cartofi cu brânză"
+    ],
     "type": "mains",
     "ingredients": [
       "103.Sos de usturoi: 1/2 lingură de unt, 1/2 lingură făină, 1 ceașcă zeamă de carne sau zarzavat, 1 linguriță oțet sau 1 lingriță zeamă de lămâie, 3-4 căței de usturoi, sare",
@@ -1836,7 +1970,14 @@
   {
     "src": "images/m-20.jpg",
     "alt": "Budinci sărate",
-    "title": "Budinci sărate",
+    "title": [
+      "106.Budină de carne",
+      "107.Budincă de pește",
+      "108.Budincă de raci",
+      "109.Budincă de macaroane cu șuncă",
+      "110.Budincă de macaroane cu brânză",
+      "111.Budincă de cartofi cu carne"
+    ],
     "type": "mains",
     "ingredients": [
       "106.Budină de carne: 500 g carne macră de vacă sau viţel, 2 felii de franzelă, 1½ lingură unt, 5 ouă, sare, piper, sos de ciuperci (v. 97)",
@@ -1850,11 +1991,18 @@
   {
     "src": "images/m-21.jpg",
     "alt": "Budinci sărate",
-    "title": "Budinci sărate",
+    "title": [
+      "112.Budină de șuncă",
+      "113.Budincă de creier 1",
+      "114.Budincă de creier 2",
+      "115.Budincă de ficat",
+      "116.Budincă de carne de iepure",
+      "117.Budincă de clătite cu brânză"
+    ],
     "type": "mains",
     "ingredients": [
       "112.Budină de șuncă: 3 linguri unt proaspăt, 1 pahar lapte, 3 linguri făină, 5 ouă, 200 g şuncă, sare, pesmet",
-      "113.Budincă de creier 1: 1 creier mare de vacă, 5 albuşuri, 2-3 linguri pesmet, 1 linguriţă mărar tocat, 1 ceapă, 1 lingură unt, sare, piper, puţină făină. S o s u l : 1 ceaşcă smîntînă, ½ ceaşcă lapte, 1 lingură rasă făină, 1 lingură unt, puţin mărar tocat, sare",
+      "113.Budincă de creier 1: 1 creier mare de vacă, 5 albuşuri, 2-3 linguri pesmet, 1 linguriţă mărar tocat, 1 ceapă, 1 lingură unt, sare, piper, puţină făină. S o s u l : 1 ceaşcă smântână, ½ ceaşcă lapte, 1 lingură rasă făină, 1 lingură unt, puţin mărar tocat, sare",
       "114.Budincă de creier 2: 1 creier mare de vită, 2 linguri unt, 4-5 ouă, sare, piper, 2 linguri oțet",
       "115.Budincă de ficat: 1/2 kg ficat de vițel sau de vacă, 3 cepe, 3 ouă, 3 linguri făi,ă, 150 g unt(sau untură), 1-2 linguri lapte, sare, piper",
       "116.Budincă de carne de iepure: 0,750 kg carne (pulpă) de iepure, 150 g slănină proaspătă, 3 cepe, 4 ouă, 1 păharel vin alb, 3 linguri untură topită, un vârf cuțit piper pisat, un vârf cuțit eninahar pisat, sare",
@@ -1864,34 +2012,54 @@
   {
     "src": "images/m-22.jpg",
     "alt": "Budinci sărate + Sufleuri sărate",
-    "title": "Budinci sărate + Sufleuri sărate",
+    "title": [
+      "118.Budină de clătite cu spanac",
+      "119.Budincă de sparanghel",
+      "120.Budincă de ciuperci",
+      "121.Budincă de fasole verde",
+      "122.Sufleu de parmezan",
+      "123.Budincă de conopidă"
+    ],
     "type": "mains",
     "ingredients": [
       "118.Budină de clătite cu spanac: Aceleaşi cantităţi ca la budinca de clătite cu brânză înlocuind brânza cu pire de spanac",
       "119.Budincă de sparanghel: 1 kg sparanghel tânăr, 3 ouă, 2 1/2 linguri unt, sare, 3 linguri pesmet, 3 linguri cașcavaș ras",
       "120.Budincă de ciuperci: 500 g ciuperci, 3 ouă, 3 linguri smântână, 4 felii franzelă(groase de două degete), 3/4 pahar lapte, 2 linguri unt, 1 1/2 lingură mărar și pătrunjel tocat, sare, piper",
       "121.Budincă de fasole verde: 1 kg fasole verde, 3 ouă, 1 1/2 lingură făină, 3 linguri unt, sare, 3 linguri cașcaval ras",
-      "122.Sufleu de parmezan: 200 g unt, 3 linguri făină, 500 g lapte, 150 g parmezan ras (sau caşcaval), 5 ouă, pesmet.",
+      "122.Sufleu de parmezan: 200 g unt, 3 linguri făină, 500 g lapte, 150 g parmezan ras (sau caşcaval), 5 ouă, pesmet",
       "123.Budincă de conopidă: 1 conopidă de mărime potrivită, 3 ouă, 1/2 lingură făină, 1 pahar lapte, 2 linguri unt, un vârf de lingură de sare"
     ]
   },
   {
     "src": "images/m-23.jpg",
     "alt": "Sufleuri sărate",
-    "title": "Sufleuri sărate",
+    "title": [
+      "124.Sufleu de fasole verde",
+      "125.Sufleu de dovlecei",
+      "126.Sufleu de spanac cu parmezan",
+      "127.Sufleu de spanac cu șuncă",
+      "128.Sufleu de mazăre verde"
+    ],
     "type": "mains",
     "ingredients": [
       "124.Sufleu de fasole verde: 1 kg fasole, 3 linguri unt, 3 ouă, 2 linguri făină, 1 pahar lapte, 3 linguri brânză de oi rasă sau zdrobită, sare",
       "125.Sufleu de dovlecei: 5 dovlecei potrivit de mari, 3 ouă, 2 linguri făină, ½ pahar smântână, 2 linguri brânză de oi, 1 pahar lapte, mărar tocat, sare, unt",
       "126.Sufleu de spanac cu parmezan: 1 kg spanac, 1 lingură făină, 1 pahar smântână, 3 linguri parmezan (caşcaval sau brânză de oi), 2 linguri unt, 3 ouă, sare, pesmet",
-      "127.Sufleu de spanac cu șuncă: 1 kg spanac, 1 lingură făină, 1 pahar smântână, 2 linguri unt, 2 ouă, 100 g şuncă, sare, pesmet.",
+      "127.Sufleu de spanac cu șuncă: 1 kg spanac, 1 lingură făină, 1 pahar smântână, 2 linguri unt, 2 ouă, 100 g şuncă, sare, pesmet",
       "128.Sufleu de mazăre verde: 1 kg mazăre, 3 linguri unt, 3 ouă, 2 linguri rase făină, 1 pahar lapte, mărar tocat, sare"
     ]
   },
   {
     "src": "images/m-24.jpg",
     "alt": "Supe de legume",
-    "title": "Supe de legume",
+    "title": [
+      "129.Supă de zarzavat cu smântână",
+      "130.Supă de zarzavat 1",
+      "131.Supă de zarzavat 2",
+      "132.Supă de sfeclă",
+      "133.Supă de conopidă",
+      "134.Supă de roșii 1"
+    ],
     "type": "mains",
     "ingredients": [
       "129.Supă de zarzavat cu smântână: 3 l apă, 1 morcov mic, 1 pătrunjel mic, 1 mână de fasole verde, 2 cartofi, 3-4 roşii, 1 linguriţă făină, 1 lingură unt, 1 linguriţă pătrunjel şi mărar tocat, ½ pahar smântână, sare",
@@ -1905,22 +2073,38 @@
   {
     "src": "images/m-25.jpg",
     "alt": "Supe de legume",
-    "title": "Supe de legume",
+    "title": [
+      "135.Supă de roșii 2",
+      "136.Supa de cartofi(cremă)",
+      "137.Supă de spanac(cremă)",
+      "138.Supă de morcovi(cremă)",
+      "139.Supă de fasole boabe(cremă)",
+      "140.Supă de mazăre uscată(cremă)",
+      "141.Supă de mazăre uscată cu smântână"
+    ],
     "type": "mains",
     "ingredients": [
-      "135.Supă de roșii 2: 1,5 l apă, 1 kg roşii, 1 pătrunjel, 1 ceapă, 1 linguriţă zahăr, 2 ardei graşi, 1 lingură orez, 1 linguriţă făină, 1 lingură unt, ½ pahar smîntînă, 1 linguriţă mărar tocat, sare",
+      "135.Supă de roșii 2: 1,5 l apă, 1 kg roşii, 1 pătrunjel, 1 ceapă, 1 linguriţă zahăr, 2 ardei graşi, 1 lingură orez, 1 linguriţă făină, 1 lingură unt, ½ pahar smântână, 1 linguriţă mărar tocat, sare",
       "136.Supa de cartofi(cremă): 2 l apă, 500 g cartofi, 1 ceapă, 1 pahar smântână, 1 linguriţă făină, 1 lingură pătrunjel tocat, 1 linguriţă unt, sare, pâine prăjită",
       "137.Supă de spanac(cremă): 3 l apă, 500 g spanac, 1 felie de lămâie cu coajă, 1 lingură unt, 1 linguriţă făină, ½ pahar smântână, sare, friganele",
       "138.Supă de morcovi(cremă): 3 l apă, 500 g morcovi, 1 ceapă, ½ linguriţă zahăr, 1 lingură unt, ½ pahar smântână, sare, pâine tăiată cuburi şi prăjită",
       "139.Supă de fasole boabe(cremă): 3 l apă, 250 g fasole boabe, 1 morcov, 1 pătrunjel, 1 ceapă, 1 lingură unt sau ulei, pătrunjel verde tocat, sare, pâine tăiată cuburi şi prăjită",
       "140.Supă de mazăre uscată(cremă): 3 l apă, 250 g mazăre, 1 pătrunjel, 1 morcov, 1 ceapă, 1 linguriţă zahăr, 1 lingură unt sau ulei, 1 linguriţă mărar tocat, sare, pâine tăiată cuburi şi prăjită",
-      "141.Supă de mazăre uscată cu smântână: 200 g mazăre, 2 cartofi, 1 ceapă, 1 linguriţă unt, 1 gălbenuş de ou răscopt, ½ pahar smîntînă, 1 linguriţă făină, sare, mărar tocat, pâine tăiată cuburi şi prăjită"
+      "141.Supă de mazăre uscată cu smântână: 200 g mazăre, 2 cartofi, 1 ceapă, 1 linguriţă unt, 1 gălbenuş de ou răscopt, ½ pahar smântână, 1 linguriţă făină, sare, mărar tocat, pâine tăiată cuburi şi prăjită"
     ]
   },
   {
     "src": "images/m-26.jpg",
     "alt": "Supe de legume + Supe de carne",
-    "title": "Supe de legume + Supe de carne",
+    "title": [
+      "142.Supă de gulii",
+      "143.Supă de ciuperci",
+      "144.Supă de linte",
+      "145.Supă de chimen",
+      "146.Supă de carne de vacă",
+      "147.Supă de pasăre",
+      "148.Supă de tăiței de casă"
+    ],
     "type": "mains",
     "ingredients": [
       "142.Supă de gulii: 1 1/2 l apă, 6 gulii, 2 lingurițe unt, 1 linguriță făină, 1 pahar smântână, sare, 1 1/2 linguriță mărar tocat",
@@ -1935,7 +2119,16 @@
   {
     "src": "images/m-27.jpg",
     "alt": "Supe de carne",
-    "title": "Supe de carne",
+    "title": [
+      "149.Supă de orez",
+      "150.Supă de găluște cu griș",
+      "151.Supă de zdrențe",
+      "152.Supă de omletă",
+      "153.Supă de orez și smântână",
+      "154.Supă à la grec",
+      "155.Supă de brânză",
+      "156.Supă cu pateuri de carne"
+    ],
     "type": "mains",
     "ingredients": [
       "149.Supă de orez: Supă de carne de vacă sau de pasăre, pentru fiecare persoană ½ lingură orez",
@@ -1943,15 +2136,22 @@
       "151.Supă de zdrențe: Supă de carne de vacă sau de pasăre. Z d r e n ţ e: 2 ouă, 2-3 linguri făină, sare",
       "152.Supă de omletă: Supă de carne de vacă sau de pasăre. O m l e t ă : 4 ouă, 1 lingură smântână, 1 lingură lapte, 1 linguriţă unt, sare",
       "153.Supă de orez și smântână: Supă de carne de vacă sau de pasăre. 4 linguri orez, 6 linguri smântână bună, 6 felii lămâie, sare",
-      "154.Supă à la grec: Supă de carne de vacă sau de pasăre. Un vîrf de cuţit sare de lămîie, 1 ou",
-      "155.Supă de brânză: Supă de carne de vacă sau de pasăre. 3 linguri brânză de oi, rasă.",
+      "154.Supă à la grec: Supă de carne de vacă sau de pasăre. Un vârf de cuţit sare de lămâie, 1 ou",
+      "155.Supă de brânză: Supă de carne de vacă sau de pasăre. 3 linguri brânză de oi, rasă",
       "156.Supă cu pateuri de carne: 1.250 kg carne de vacă, 3 l apă, 1 morcov, 1 pătrunjel, 1 țelină, 1 ceapă, 1 foaie de dafin, 2-3 boabe ienibahar, sare"
     ]
   },
   {
     "src": "images/m-28.jpg",
     "alt": "Ciorbe și borșuri de legume",
-    "title": "Ciorbe și borșuri de legume",
+    "title": [
+      "157.Borș de dovlecei",
+      "158.Borș de fasole verde",
+      "159.Borș de fasole boabe",
+      "160.Borș de ștevie",
+      "161.Borș de ciuperci",
+      "162.Borș de lobodă"
+    ],
     "type": "mains",
     "ingredients": [
       "157.Borș de dovlecei: 1,5 l apă, 0,5 l borş, 1 ceapă, 1 morcov mic, 1 pătrunjel, 2 dovlecei mari, 3-4 roşii, 1 linguriţă unt, ½ linguriţă făină, smântână, sare, pătrunjel, mărar",
@@ -1959,13 +2159,21 @@
       "159.Borș de fasole boabe: 3 l apă, 250 g fasole boabe, 1 ceapă, 1 morcov, 1 pătrunjel, ½ linguriţă făină, 2 linguri ulei, borş (după gust), pătrunjel şi mărar verde, sare",
       "160.Borș de ștevie: 1 1/2 l apă, 1/2 l borș, 600 g ștevie, 200 g macriș, 2 fire ceapă verde, 2 lingurițe mărar, pătrunjel și leuștean tocate, 2 lingurițe orez, 3 linguri unt, sare, ulei, 1 ou",
       "161.Borș de ciuperci: 1 1/2 l apă, 400 g ciuperci, 1 ceapă, 1 morcov, 1 pătrunjel, 2 1/2 linguri orez, 6 linguri smântână, 1/2 l borș, mărar verde, pătrunjel verde, sare",
-      "162.Borș de lobodă: 1 1/2 l apă, 1/2 l borș, 5-6 legături lobodă, 4 fire ceapă verde, 1 morcov, 1 pătrunjel, 3 lingurițe orez, 3 linfurițe mărar și pătrunjel verde tocate, 1 linguriță leuștean tocat, 3 linguri unt sau ulei, 1 ou, are"
+      "162.Borș de lobodă: 1 1/2 l apă, 1/2 l borș, 5-6 legături lobodă, 4 fire ceapă verde, 1 morcov, 1 pătrunjel, 3 lingurițe orez, 3 linfurițe mărar și pătrunjel verde tocate, 1 linguriță leuștean tocat, 3 linguri unt sau ulei, 1 ou, sare"
     ]
   },
   {
     "src": "images/m-29.jpg",
     "alt": "Ciorbe și borșuri de legume",
-    "title": "Ciorbe și borșuri de legume",
+    "title": [
+      "163.Borș de urzici",
+      "164.Borș de varză dulce",
+      "165.Ciorbă de fasole verde",
+      "166.Ciorbă de varză acră",
+      "167.Ciorbă de cartofi",
+      "168.Ciorbă de rusească fără carne",
+      "169.Ciorbă de salată"
+    ],
     "type": "mains",
     "ingredients": [
       "163.Borș de urzici: 1 l apă, 1/2 l borș, 1 ceapă mică, 2 lingurițe orez, 1 vârf cuțit boia, 2 linguri ulei sau unt, 1/2 linguriță făină, sare, 1 ou, 2 farfurii adânci frunze de urzici",
@@ -1980,12 +2188,19 @@
   {
     "src": "images/m-30.jpg",
     "alt": "Ciorbe și borșuri de carne",
-    "title": "Ciorbe și borșuri de carne",
+    "title": [
+      "170.Ciorbă rusească de carne",
+      "171.Borș de perișoare",
+      "172.Borș de vițel",
+      "173.Borș de dovlecei umpluți",
+      "174.Borș de miel",
+      "175.Borș de berbec"
+    ],
     "type": "mains",
     "ingredients": [
-      "170.Ciorbă rusească de carne: 3 l apă, 500 g carne grasă de vacă, 500 g roşii, 1 morcov mic, 1 pătrunjel mic, 1 ardei gras, 10 păstăi fasole, 1 ceapă, 1 sfeclă roşie de mărimea unui cartof mare, 1 bucăti varză dulce, mărar şi pătrunjel verde tocat, sare, smântână. ",
+      "170.Ciorbă rusească de carne: 3 l apă, 500 g carne grasă de vacă, 500 g roşii, 1 morcov mic, 1 pătrunjel mic, 1 ardei gras, 10 păstăi fasole, 1 ceapă, 1 sfeclă roşie de mărimea unui cartof mare, 1 bucăti varză dulce, mărar şi pătrunjel verde tocat, sare, smântână",
       "171.Borș de perișoare: 2 l apă, 0,500 l borş, 500 g roşii, 1 morcov mic, 1 pătrunjel mic, 1 ceapă, sare, verdeaţă. P e r i ş o a r e : 500 g carne de vacă, 1 lingură orez, 1 ou, 1 ceapă prăjită cu ½ lingură untură, sare, piper",
-      "172.Borș de vițel: 750 g carne de viţel, 2 l apă, 1 l borş, 1 ceapă, 1 morcov, 1 pătrunjel, 1 ţelină, 1 lingură orez, 1 linguriţă leuştean tocat, 1 ou, sare.",
+      "172.Borș de vițel: 750 g carne de viţel, 2 l apă, 1 l borş, 1 ceapă, 1 morcov, 1 pătrunjel, 1 ţelină, 1 lingură orez, 1 linguriţă leuştean tocat, 1 ou, sare",
       "173.Borș de dovlecei umpluți: 500 g carne de vacă, 2 l apă, 1 lingură orez, 1 morcov, 1 pătrunjel, 2 cepe, 1 lingură untură, 3 dovlecei tineri, 1 ţelină, 1 lingură mărar şi pătrunjel tocat, sare, piper, borş (0,500-0,750 l, după gust), ½ pahar smântână",
       "174.Borș de miel: 750 g carne de miel, 2 l apă, 1 l borş, 1 ceapă, 1 morcov, 1 pătrunjel, 1 ţelină, 1 lingură orez, 1 linguriţă leuştean tocat, 1 ou, sare",
       "175.Borș de berbec: 750 g carne, 1 l apă, 0,5 l borş, 1 ceapă, 1 morcov, 1 pătrunjel, 1 ardei gras, 5-6 roşii, 2 linguri orez, leuştean, sare"
@@ -1994,11 +2209,18 @@
   {
     "src": "images/m-31.jpg",
     "alt": "Ciorbe și borșuri de carne + Ciorbe și borșuri de pește",
-    "title": "Ciorbe și borșuri de carne + Ciorbe și borșuri de pește",
+    "title": [
+      "176.Ciorbă de potroace",
+      "177.Borș de pui",
+      "178.Borș de crap",
+      "179.Borș de perișoare de pește",
+      "180.Ciorbă de pește cu zeamă de varză",
+      "181....."
+    ],
     "type": "mains",
     "ingredients": [
       "176.Ciorbă de potroace: 2 la apă, 1 l zeamă de varză, măruntaiele şi aripile de la o pasăre (găină, curcan, gâscă sau amestecate), 1 morcov, 1 pătrunjel, 1 ceapă mare, ½ ţelină, verdeaţă tocată (pătrunjel şi mărar), sare",
-      "177.Borș de pui: 1 pui tânăr, 2 l apă, borş (după gust), 1 pătrunjel, 1 morcov, 1 ceapă, 2 roşii, 2 linguri orez, ½ lingură mărar şi pătrunjel tocat, 1 ou, sare.",
+      "177.Borș de pui: 1 pui tânăr, 2 l apă, borş (după gust), 1 pătrunjel, 1 morcov, 1 ceapă, 2 roşii, 2 linguri orez, ½ lingură mărar şi pătrunjel tocat, 1 ou, sare",
       "178.Borș de crap: Capul şi coada de la crap, 2 l apă, 0,5 l borş, 1 morcov mic, 1 pătrunjel mic, 1 ceapă mare, 1 lingură orez, verdeaţă",
       "179.Borș de perișoare de pește: 2 1 apă, 0,5 l borş sau zeamă de varză, 500 g crap sau ştiucă, 1 morcov, 1 pătrunjel, 2 cepe, 1 ou, 1 lingură ulei, miezul de la o felie de pâine albă, 1 lingură mărar şi pătrunjel tocat, sare, piper",
       "180.Ciorbă de pește cu zeamă de varză: 500 g peşte, 0,5 l apă, zeamă de varză, 1 morcov, 1 pătrunjel, 1 ceapă, leuştean, sare",
@@ -2008,7 +2230,15 @@
   {
     "src": "images/m-32.jpg",
     "alt": "Mâncăruri de legume",
-    "title": "Mâncăruri de legume",
+    "title": [
+      "182.Ghiveci de legume",
+      "183....",
+      "184.Fasole verde cu unt",
+      "185.Fasole verde cu unt și pesmet",
+      "186.Mazăre verde cu unt",
+      "187.Varză de Bruzelles cu unt",
+      "188.Legume asortate cu unt"
+    ],
     "type": "mains",
     "ingredients": [
       "182.Ghiveci de legume: 2 cepe, 1 morcov, 1 pătrunjel, 1 țelină, 1/4 varză, 1 conopidă, o mână fasole verrde, o mână mazăre boabe, o mână bame curățate și opărite cu borș, 2 ardei grași sau gogoșari, 1 vânătă, 2 cartofi, 1 dovlecel, 3-4 roșii mari, pătrunjel verde, 1/2 pahar untdelemn, sare",
@@ -2023,22 +2253,40 @@
   {
     "src": "images/m-33.jpg",
     "alt": "Mâncăruri de legume",
-    "title": "Mâncăruri de legume",
+    "title": [
+      "189.Legume asortate cu unt 2",
+      "190.Legume asortate cu unt 3",
+      "191.Varză dulce cu unt și pesmet",
+      "192.Conopidă cu unt și pesmet",
+      "193.Morcovi cu unt și smântână",
+      "194.Morcovi cu unt",
+      "195.Sfeclă cu unt și smântână"
+    ],
     "type": "mains",
     "ingredients": [
       "189.Legume asortate cu unt 2: 200 g cartofi, 200 g morcovi, 200 g mazăre boabe, 2 linguri unt",
       "190.Legume asortate cu unt 3: ½ conopidă, 250 g carote, 250 g mazăre boabe, 250 g cartofi noi, 2 linguri unt, 1 lingură pesmet, sare",
-      "191.Varză dulce cu unt și pesmet: 1 varză mijlocie, 3 linguri unt, 2 linguri pesmet, sare.",
-      "192.Conopidă cu unt și pesmet: 1 conopidă mijlocie, 3-4 linguri unt, 2 linguri pesmet, sare. ",
-      "193.Morcovi cu unt și smântână: 500 g morcovi, 1 lingură unt, 1 linguriţă zahăr (facultativ), ½ pahar smântână, ½ linguriţă de făină, sare.",
+      "191.Varză dulce cu unt și pesmet: 1 varză mijlocie, 3 linguri unt, 2 linguri pesmet, sare",
+      "192.Conopidă cu unt și pesmet: 1 conopidă mijlocie, 3-4 linguri unt, 2 linguri pesmet, sare",
+      "193.Morcovi cu unt și smântână: 500 g morcovi, 1 lingură unt, 1 linguriţă zahăr (facultativ), ½ pahar smântână, ½ linguriţă de făină, sare",
       "194.Morcovi cu unt: 500 g morcovi tineri, 1½ lingură unt, 1 linguriţă zahăr (facultativ), sare",
-      "195.Sfeclă cu unt și smântână: 1 kg sfeclă, 1 lingură unt, 1 linguriţă zahăr, 1 lingură oţet, ½ pahar smântână, sare."
+      "195.Sfeclă cu unt și smântână: 1 kg sfeclă, 1 lingură unt, 1 linguriţă zahăr, 1 lingură oţet, ½ pahar smântână, sare"
     ]
   },
   {
     "src": "images/m-34.jpg",
     "alt": "Mâncăruri de legume",
-    "title": "Mâncăruri de legume",
+    "title": [
+      "196.Gulii cu unt și pesmet",
+      "197.Țelină cu unt și smântână",
+      "198.Audive cu unt",
+      "199.Iahnie de cartofi",
+      "207.Mâncare de cartofi noi",
+      "208.Chifteluțe de cartofi",
+      "209.Chifteluțe cu cartofi umplute cu brânză",
+      "210.Chifteluțe de cartofi umplute cu varză acră",
+      "211.Chifteluțe umpluți cu cașcaval"
+    ],
     "type": "mains",
     "ingredients": [
       "196.Gulii cu unt și pesmet: 12 gulii tinere, 4 linguri unt, 2 linguri pesmet, sare",
@@ -2046,16 +2294,23 @@
       "198.Audive cu unt: 750 g andive, 3 1/2 linguri unt, 2 lingurițe zeamă de lămâie, sare, 1 1/2 linguriță pătrunjel verde tocat",
       "199.Iahnie de cartofi: 1 kg cartofi, 2 cepe, 5 linguri ulei, 1 linguriţă boia, 2 linguri bulion, 1 linguriţă făină, 1 foaie de dafin, sare ",
       "207.Mâncare de cartofi noi: 750 g cartofi, 1 ceapă mare, 500 g roşii sau 2 linguri bulion, 1 linguriţă verdeaţă, sare, 2 linguri ulei, ½ linguriţă făină",
-      "208.Chifteluțe de cartofi: 500 g cartofi, 2 linguri făină, 1 ou, sare, piper (facultativ), 2-3 linguri untură sau ulei pentru prăjit.",
+      "208.Chifteluțe de cartofi: 500 g cartofi, 2 linguri făină, 1 ou, sare, piper (facultativ), 2-3 linguri untură sau ulei pentru prăjit",
       "209.Chifteluțe cu cartofi umplute cu brânză: 500 g cartofi, 2 linguri făină, 1 ou, sare, 150 g brânză de oi frământată cu un ou, 2-3 linguri untură sau ulei pentru prăjit",
-      "210.Chifteluțe de cartofi umplute cu varză acră: Aceleaşi cantităţi ca la 208, în plus puţină varză acră.",
+      "210.Chifteluțe de cartofi umplute cu varză acră: Aceleaşi cantităţi ca la 208, în plus puţină varză acră",
       "211.Chifteluțe umpluți cu cașcaval: 6 cartofi mari, 1 1/2 lingură unt, 150g cașcaval uscat, 150 g smântână, 1 lingură mărar tocat, sare"
     ]
   },
   {
     "src": "images/m-35.jpg",
     "alt": "Mâncăruri de legume",
-    "title": "Mâncăruri de legume",
+    "title": [
+      "212.Ruladă de cartofi cu legume",
+      "213.Dovlecei în floare cu ulei",
+      "214.Dovlecei prăjiți în ulei",
+      "215.Dovlecei prăjiți cu smântână",
+      "216.Chifteluțe de dovlecei",
+      "217.Mâncare de dovlecei cu cartofi"
+    ],
     "type": "mains",
     "ingredients": [
       "212.Ruladă de cartofi cu legume: 1 kg cartofi, 2 ouă, 1 pahar lapte, 1linguriţă unt, sare. U m p l u t u ra : 500 g morcovi, 2 linguri unt, 1 linguriţă zahăr, sare. Sos de smântână, de lapte sau de ou. ",
@@ -2069,22 +2324,37 @@
   {
     "src": "images/m-36.jpg",
     "alt": "Mâncăruri de legume",
-    "title": "Mâncăruri de legume",
+    "title": [
+      "225.Fasole boabe preparată grecește",
+      "226.Fasole boabe bătută",
+      "227.Fasole verde sau țucără cu sos de roșii și măsline",
+      "228.Mazăre cu smântână",
+      "229.Mazăre pregătită țărănește",
+      "230.Mazăre cu roșii",
+      "231.Mazăre uscată bătută"
+    ],
     "type": "mains",
     "ingredients": [
-      "225.Fasole boabe preparată grecește: 350 g boabe de fasole verde, o mînă de mărar, o mînă de pătrunjel, o mână de leuştean, 10-15 fire de ceapă verde, 1 linguriţă bulion, 4 linguri, sare, piper",
+      "225.Fasole boabe preparată grecește: 350 g boabe de fasole verde, o mână de mărar, o mână de pătrunjel, o mână de leuştean, 10-15 fire de ceapă verde, 1 linguriţă bulion, 4 linguri, sare, piper",
       "226.Fasole boabe bătută: 500 g fasole boabe uscată, 3 l apă, 3 cepe mari, 3-4 linguri ulei, ½ linguriţă boia de ardei, usturoi pisat (facultativ), sare, murături.",
       "227.Fasole verde sau țucără cu sos de roșii și măsline",
       "228.Mazăre cu smântână: 1 kg mazăre boabe, 1 lingură unt, 1 linguriţă făină, 1 linguriţă zahăr (facultativ), 1 linguriţă mărar tocat, 1 pahar smântână, sare, friganele (facultativ).",
       "229.Mazăre pregătită țărănește: 1 kg mazăre, 2 linguri ulei, 4-5 roşii, 1 lingură verdeaţă tocată, sare",
-      "230.Mazăre cu roșii: 1 kg mazăre verde, 1 linguriţă unt, 4-5 roşii, 1 ceapă, 1 linguriţă zahăr (facultativ), 1 linguriţă mărar tocat, sare. ",
+      "230.Mazăre cu roșii: 1 kg mazăre verde, 1 linguriţă unt, 4-5 roşii, 1 ceapă, 1 linguriţă zahăr (facultativ), 1 linguriţă mărar tocat, sare",
       "231.Mazăre uscată bătută: 400 g mazăre, 4 l apă, 1 linguriţă zahăr (facultativ), 5-6 linguri ulei, sare, gogoşari (sfeclă roşie)"
     ]
   },
   {
     "src": "images/m-37.jpg",
     "alt": "Mâncăruri de legume",
-    "title": "Mâncăruri de legume",
+    "title": [
+      "232.Vinete în smântână 1",
+      "233.Vinete în smântână 2",
+      "234.Pireu de vinete",
+      "235.Mâncare de vinete cu usturoi",
+      "236.Vinete preparate grecește",
+      "237.Mâncare de vinete preparată rusește"
+    ],
     "type": "mains",
     "ingredients": [
       "232.Vinete în smântână 1: 3 vinete frumoase, 2 linguri unt sau untură, 1 lingură făină, 1 pahar smântână, 1 linguriţă mărar tocat, sare",
@@ -2098,27 +2368,43 @@
   {
     "src": "images/m-38.jpg",
     "alt": "Mâncăruri de legume",
-    "title": "Mâncăruri de legume",
+    "title": [
+      "238.Chifteluțe de vinete",
+      "239.Varză de Bruxelles cu smântână",
+      "240.Varză de Bruxelles la cuptor",
+      "241.Praz cu măsline",
+      "242.Pilaf de praz",
+      "243.Mâncare de praz",
+      "244.Conopidă cu parmezan"
+    ],
     "type": "mains",
     "ingredients": [
       "238.Chifteluțe de vinete: 2 vinete mari, 2 linguri brânză, 2 ouă, 2 linguri făină, ulei pentru prăjit, sare, salată verde",
       "239.Varză de Bruxelles cu smântână: 750 g varză, 2 linguri unt, 1 pahar smântână, sare",
       "240.Varză de Bruxelles la cuptor: 750 g varză, 2 linguri unt, 2 linguri brânză, 2 ouă, 2-3 linguri lapte, sare, pesmet",
-      "241.Praz cu măsline: 4-5 fire de praz, 4 linguri ulei, ½ linguriţă zahăr, 1 lingură oţet, 1 lingură bulion, 150 g măsline, sare, piper.",
-      "242.Pilaf de praz: 4-5 fire de praz, 2 cepe, 1 pahar orez, 2 pahare apă, 3 linguri ulei, 1 lingură bulion, sare, piper.",
+      "241.Praz cu măsline: 4-5 fire de praz, 4 linguri ulei, ½ linguriţă zahăr, 1 lingură oţet, 1 lingură bulion, 150 g măsline, sare, piper",
+      "242.Pilaf de praz: 4-5 fire de praz, 2 cepe, 1 pahar orez, 2 pahare apă, 3 linguri ulei, 1 lingură bulion, sare, piper",
       "243.Mâncare de praz: 6 fire de praz, 1/2 pahar lapte, 1 pahar smântână, 2-3 linguri cașcaval ras, sare",
-      "244.Conopidă cu parmezan: 1 conopidă mare, 3 linguri unt, 3-4 linguri parmezan ras (se poate înlocui cu caşcaval), 1 lingură pesmet, sare. "
+      "244.Conopidă cu parmezan: 1 conopidă mare, 3 linguri unt, 3-4 linguri parmezan ras (se poate înlocui cu caşcaval), 1 lingură pesmet, sare"
     ]
   },
   {
     "src": "images/m-39.jpg",
     "alt": "Mâncăruri de legume",
-    "title": "Mâncăruri de legume",
+    "title": [
+      "245.Măncare de conopidă",
+      "246.Varză dulce călită",
+      "247.Varză acră călită",
+      "248.Chifteluțe de varză",
+      "249.Varză cu smântână",
+      "250.Bame preparate grecește",
+      "251.Mâncare de țelină"
+    ],
     "type": "mains",
     "ingredients": [
       "245.Măncare de conopidă: 1 conopidă mare, 3 linguri ulei, 1 ceapă mare, ½ linguriţă făină, 5-6 roşii mari, ½ linguriţă zahăr, 1 lingură mărar şi pătrunjel tocat, sare. ",
-      "246.Varză dulce călită: 1 varză mijlocie, 3 linguri untură, câteva boabe piper, 3-4 roşii, sare.",
-      "247.Varză acră călită: 1 varză mijlocie, 3 linguri untură, câteva boabe piper.",
+      "246.Varză dulce călită: 1 varză mijlocie, 3 linguri untură, câteva boabe piper, 3-4 roşii, sare",
+      "247.Varză acră călită: 1 varză mijlocie, 3 linguri untură, câteva boabe piper",
       "248.Chifteluțe de varză: 1 varză mică, 1 ou, 2-3 linguri făină, sare, piper, 1 linguriţă mărar şi pătrunjel tocat, 3 linguri untură sau ulei",
       "249.Varză cu smântână: 1 varză mijlocie, 1/2 kg lapte, 1 pahar smântână, 2-3 linguri parmezan sau cașcaval ras, 1/2 linguriță sare",
       "250.Bame preparate grecește: 500 g bame tinere, 2-3 linguri ulei, 5-6 roşii, 1 ceapă, 1 lingură oţet, ½ linguriţă zahăr, 1 lingură mărar şi pătrunjel tocat, sare. ",
@@ -2128,14 +2414,22 @@
   {
     "src": "images/m-40.jpg",
     "alt": "Mâncăruri de legume",
-    "title": "Mâncăruri de legume",
+    "title": [
+      "252.Mâncare de țelină cu ciuperci",
+      "253.Măncare de gulii",
+      "254.Piure de gulii",
+      "255.Gulii umplute cu orez",
+      "256.Piureu de spanac cu ochiuri",
+      "257.Piureu de spanac cu ceapă",
+      "258.Ardei umpluți cu vinete"
+    ],
     "type": "mains",
     "ingredients": [
       "252.Mâncare de țelină cu ciuperci",
       "253.Măncare de gulii: 6-7 gulii frumoase, 2 linguri unt sau untură, 1 ceapă, 1 pahar lapte, 2 linguri făină, ½ linguriţă zahăr, 1 linguriţă de mărar şi pătrunjel tocat, sare. ",
       "254.Piure de gulii: 600 g gulii, 1 lingură unt, 1/4 pahar lapte, 1/2 linguriță zahăr, sare",
       "255.Gulii umplute cu orez: 6 gulii, 1 pahar orez, 1/4 kg mazăre curățată, mărar, sare, ulei, 1 ceapă, 2 cești supă zarzavat sau apă",
-      "256.Piureu de spanac cu ochiuri: 1,5 kg spanac, 2 linguri unt, 1 pahar lapte, sare. ",
+      "256.Piureu de spanac cu ochiuri: 1,5 kg spanac, 2 linguri unt, 1 pahar lapte, sare",
       "257.Piureu de spanac cu ceapă: 1,5 kg spanac, 2 linguri unt, 1½ pahar lapte, 1 ceapă mică, 1 linguriţă făină, un praf zahăr, sare",
       "258.Ardei umpluți cu vinete: 6 ardei mari, 500 g roşii, 2 vinete mari, 2 cepe, 1 ou, 2 linguriţe făină, 2 linguri untură, ½ linguriţă zahăr, sare, piper, 1 lingură pătrunjel şi mărar tocat. "
     ]
@@ -2143,11 +2437,19 @@
   {
     "src": "images/m-41.jpg",
     "alt": "Mâncăruri de legume",
-    "title": "Mâncăruri de legume",
+    "title": [
+      "259.Ardei umpluți cu orez",
+      "260.Roșii umplute cu orez",
+      "261.Sarmale cu orez(fără carne)",
+      "262.Macriș cu ouă",
+      "263.Urzici bătute",
+      "264.Pilaf de urzici",
+      "265.Sparanghel cu cașcaval"
+    ],
     "type": "mains",
     "ingredients": [
       "259.Ardei umpluți cu orez: 12 ardei nu prea mari, 1 pahar orez, 1 morcov ras, 3 cepe, 3 linguri ulei, 1 lingură pătrunjel şi mărar tocat, 750 g roşii, ½ linguriţă făină, sare, piper",
-      "260.Roșii umplute cu orez: Aceleaşi cantităţi ca la ardeii umpluţi cu orez.",
+      "260.Roșii umplute cu orez: Aceleaşi cantităţi ca la ardeii umpluţi cu orez",
       "261.Sarmale cu orez(fără carne): 1 pahar orez, 3-4 cepe mari, 4-5 linguri ulei, 1 morcov, verdeaţă tocată, piper, sare, 2 linguri bulion, 1 varză mijlocie, dulce sau acră.",
       "262.Macriș cu ouă: 750 g macriș, 1 linguriță făină, 1 linguriță unt, 1 pahar lapte, 2 linguri smâmtână, sare, piper, 2 linguri bulion, 1 varză mijlocie, dulce sau acră",
       "263.Urzici bătute: 1 kg urzici, 2 linguri ulei, 1 linguriță făină, mujdei de usturoi",
@@ -2158,7 +2460,15 @@
   {
     "src": "images/m-42.jpg",
     "alt": "Mâncăruri de legume",
-    "title": "Mâncăruri de legume",
+    "title": [
+      "266.Mâncare de prune",
+      "267.Mâncare de morcovi",
+      "268.Legume asortate în aluat",
+      "269.Chifteluțe de legume",
+      "270.Legume în sos de lapte",
+      "271.Ciulama de ciuperci",
+      "272.Mâncare de ciuperci cu roșii"
+    ],
     "type": "mains",
     "ingredients": [
       "266.Mâncare de prune: 400 g prune uscate, 3 linguri ulei, 1/2 linguriță făină, 1 linguriță zahăr(facultativ), sare",
@@ -2167,25 +2477,39 @@
       "269.Chifteluțe de legume: 4 cartofi, 1 morcov, 1 pătrunjel, o mână de mazăre, 1/2 ceapă mică, 2 lingurișe verdeață tocată, 1 ou, 1 1/2 lingură făină, 1/2 lingură ulei, sau unt, sare",
       "270.Legume în sos de lapte: 1 kg legume(cartofi noi sau mazăre boabe, fasole păstăi, sparanghel, morcovi, gulii), 1/2 lingură făină, 100 g unt, 1/4 pahar lapte, sare",
       "271.Ciulama de ciuperci: 750 g ciuperci, 1 linguri unt sau untură, 1 lingură făină, sare, 1 ceşcuţă lapte",
-      "272.Mâncare de ciuperci cu roșii: 600 g ciuperci, 3-4 cepe, 4-5 roşii mari, 3 linguri ulei, mărar şi pătrunjel tocat, sare, piper."
+      "272.Mâncare de ciuperci cu roșii: 600 g ciuperci, 3-4 cepe, 4-5 roşii mari, 3 linguri ulei, mărar şi pătrunjel tocat, sare, piper"
     ]
   },
   {
     "src": "images/m-43.jpg",
     "alt": "Mâncăruri de legume",
-    "title": "Mâncăruri de legume",
+    "title": [
+      "273.Ciuperci tărănești",
+      "274.Ciuperci cu sos de lapte",
+      "275.Pilaf de ciuperci",
+      "276.Ciuperci la tavă"
+    ],
     "type": "mains",
     "ingredients": [
-      "273.Ciuperci tărănești: 750 g ciuperci, 1 ceapă, 1 lingură unt, 1 pahar smântână, sare, piper ",
-      "274.Ciuperci cu sos de lapte: 750 g ciuperci, 1 pahar lapte, 1 lingură făină, 1 lingură unt, 2 linguri brânză rasă sau parmezan, sare.",
-      "275.Pilaf de ciuperci: 500 g ciuperci, 1 pahar orez, 2 cepe mari, 3 linguri ulei, sare, piper.",
+      "273.Ciuperci tărănești: 750 g ciuperci, 1 ceapă, 1 lingură unt, 1 pahar smântână, sare, piper",
+      "274.Ciuperci cu sos de lapte: 750 g ciuperci, 1 pahar lapte, 1 lingură făină, 1 lingură unt, 2 linguri brânză rasă sau parmezan, sare",
+      "275.Pilaf de ciuperci: 500 g ciuperci, 1 pahar orez, 2 cepe mari, 3 linguri ulei, sare, piper",
       "276.Ciuperci la tavă: 500 g ciuperci, 2 linguri ulei, puţin piper pisat, sare, pătrunjel tocat"
     ]
   },
   {
     "src": "images/m-44.jpg",
     "alt": "Mâncăruri de ouă",
-    "title": "Mâncăruri de ouă",
+    "title": [
+      "277.Omletă",
+      "278.Omletă cu smântână",
+      "279.Omletă cu șuncă",
+      "280.Omletă cu brânză",
+      "281.Omletă cu fasole verde",
+      "282.Omletă cu morcovi cruzi",
+      "283.Omletă cu orez",
+      "284.Omletă cu cartofi fierți"
+    ],
     "type": "mains",
     "ingredients": [
       "277.Omletă: Pentru 1 persoană : 2 ouă, 2 linguri lapte, ½ linguriţă unt sau untură, sare",
@@ -2201,51 +2525,85 @@
   {
     "src": "images/m-45.jpg",
     "alt": "Mâncăruri de ouă",
-    "title": "Mâncăruri de ouă",
+    "title": [
+      "285.Scrob(jumări)",
+      "286.Scrob(jumări) cu smântână",
+      "287.Scrob(jumări) cu șuncă",
+      "288.Scrob(jumări) preparat ardelenește",
+      "289.Scrob(jumări) cu brânză",
+      "290.Scrob(jumări) cu morcovi",
+      "291.Scrob(jumări) cu ciuperci",
+      "292.Scrob(jumări) cu vinete"
+    ],
     "type": "mains",
     "ingredients": [
       "285.Scrob(jumări): Pentru 1 persoană : 2 ouă, 2 linguri lapte, 1 linguriţă unt sau untură, sare",
       "286.Scrob(jumări) cu smântână: Pentru 1 persoană : 2 ouă, 1 lingură smântână, 1 linguriţă unt sau untură, sare",
-      "287.Scrob(jumări) cu șuncă: Pentru 1 persoană : 2 ouă, 50 g şuncă slabă (parizer), 2 linguri lapte, 1½ linguriţă untură, sare.",
-      "288.Scrob(jumări) preparat ardelenește: Pentru 1 persoană : 2 ouă, 80 g slănină afumată, sare. ",
+      "287.Scrob(jumări) cu șuncă: Pentru 1 persoană : 2 ouă, 50 g şuncă slabă (parizer), 2 linguri lapte, 1½ linguriţă untură, sare",
+      "288.Scrob(jumări) preparat ardelenește: Pentru 1 persoană : 2 ouă, 80 g slănină afumată, sare",
       "289.Scrob(jumări) cu brânză: Pentru 1 persoană : 2 ouă, 1 lingură smântână, 50 g brânză rasă, 1 linguriţă unt",
       "290.Scrob(jumări) cu morcovi: Pentru 1 personă: 2 ouă, 2 linguri morcovi sote, 2 linguri lapte, 1 linguriță unt, sare",
       "291.Scrob(jumări) cu ciuperci: Pentru 1 persoană: 2 ouă, 2-3 ciuperci mari(fără codițe), 1 linguriță mărar și pătrunjel tocat, 2 linguri ulei, sare",
-      "292.Scrob(jumări) cu vinete: Pentru 2 persoane : 1 vânătă frumoasă, 4 ouă, 2 linguri ulei, sare."
+      "292.Scrob(jumări) cu vinete: Pentru 2 persoane : 1 vânătă frumoasă, 4 ouă, 2 linguri ulei, sare"
     ]
   },
   {
     "src": "images/m-46.jpg",
     "alt": "Mâncăruri de carne: Mâncăruri din limbă, creier, fincat, rinichi, uger",
-    "title": "Mâncăruri de carne: Mâncăruri din limbă, creier, fincat, rinichi, uger",
+    "title": [
+      "293.Limbă fiartă",
+      "294.Limbă cu măsline",
+      "295.Limbă în sos de smântână",
+      "296.Creier fiert",
+      "297.Creier pane"
+    ],
     "type": "mains",
     "ingredients": [
       "293.Limbă fiartă: 1 limbă de vacă sau 3-4 limbi de porc (cam 1 kg), 2 cepe, 1 pătrunjel, 1 morcov, 1 foaie de dafin, 4-5 boabe de ienibahar, sare, sos de hrean, de muştar sau de bulion",
       "294.Limbă cu măsline: 1 limbă de vacă sau 3-4 limbi de porc (cam 1 kg), zarzavat de supă, 200 g măsline, 3-4 cepe, 1 foaie de dafin, 2-3 boabe de ienibahar, 2 linguri bulion, 1 lingură oţet, 3 linguri ulei, ½ linguriţă zahăr, sare, 1 lămâie, pătrunjel tocat",
-      "295.Limbă în sos de smântână: 1 limbă de vacă sau 3-4 limbi de porc (cam 1 kg), zarzavat de supă, 1 pahar smântână, 1 lingură plină cu unt, ½ lingură făină, ½ pahar din zeama în care a fiert limba, ½ ceapă, mărar tocat.",
-      "296.Creier fiert: 1 creier de vacă sau 2 creieri de viţel, ½ lămîie, 1 lingură unt topit, sare, piper, salată verde.",
+      "295.Limbă în sos de smântână: 1 limbă de vacă sau 3-4 limbi de porc (cam 1 kg), zarzavat de supă, 1 pahar smântână, 1 lingură plină cu unt, ½ lingură făină, ½ pahar din zeama în care a fiert limba, ½ ceapă, mărar tocat",
+      "296.Creier fiert: 1 creier de vacă sau 2 creieri de viţel, ½ lămâie, 1 lingură unt topit, sare, piper, salată verde",
       "297.Creier pane: 1 creier de vacă sau 2 creieri de viţel sau de porc, 2 ouă, 2 linguri făină, 4 linguri pesmet, sare, 2 linguri unt sau untură, sote de mazăre, morcovi sau fasole verde"
     ]
   },
   {
     "src": "images/m-47.jpg",
     "alt": "Mâncăruri de carne: Mâncăruri din limbă, creier, fincat, rinichi, uger",
-    "title": "Mâncăruri de carne: Mâncăruri din limbă, creier, fincat, rinichi, uger",
-    "type": "mains",
-    "ingredients": [
+    "title": [
       "298.Creier în aluat 1: 1 creier de vacă sau 2 creieri de viţel sau de porc, 150 g făină, 1 pahar lapte, 1 ou, 2 linguri sifon, 2 linguri untură, sare, salată verde",
       "299.Creier în aluat 2: 1 creier mare de vită, 1/2 pahar lapte, 1 lingură unt sau ulei, 3 linguri de făină, 2 ouă, sare, piper, 1 linguriță mărar tocat, ulei pentru prăjit",
-      "300.Gulaș de inimă: 750 g inimă de vacă, ½ lingură făină, 1 ceapă, 2-3 linguri untură, unt sau ulei, 1 lingură pastă de bulion, un vîrf de cuţit piper, sare",
+      "300.Gulaș de inimă: 750 g inimă de vacă, ½ lingură făină, 1 ceapă, 2-3 linguri untură, unt sau ulei, 1 lingură pastă de bulion, un vârf de cuţit piper, sare",
       "301.Uger pane: 500 g uger, zarzavat de supă, 1 ou, 1 lingură lapte, 1 lingură untură, sare, piper, 2 linguri făină, pesmet",
       "315.Varză acră cu carne de vacă: 500 g carne grasă, 1 varză mijlocie, 4 linguri untură, ½ linguriţă boia de ardei, 1 lingură bulion",
-      "316.Ghiveci cu carne de vacă: 750 g carne grasă, 3 linguri untură, 1 pătrunjel, 1 morcov, 2 ardei graşi, 1 vânătă, 1 dovlecel, o mână de bame, o mână de fasole verde, o mână de fasole grasă, o mînă de fasole ţuvără, 250 g mazăre, 1 conopidă mică, 2 cepe mari, 3 cartofi, 1 ţelină mică, 5-6 roşii mari, 2 căţei de usturoi (facultativ), verdeaţă tocată, sare",
+      "316.Ghiveci cu carne de vacă: 750 g carne grasă, 3 linguri untură, 1 pătrunjel, 1 morcov, 2 ardei graşi, 1 vânătă, 1 dovlecel, o mână de bame, o mână de fasole verde, o mână de fasole grasă, o mână de fasole ţuvără, 250 g mazăre, 1 conopidă mică, 2 cepe mari, 3 cartofi, 1 ţelină mică, 5-6 roşii mari, 2 căţei de usturoi (facultativ), verdeaţă tocată, sare",
       "317.Cartofi cu carne de vacă: 500 g carne, 2 linguri untură, 2-3 cepe, 500 g cartofi, 2 linguri bulion, 1 linguriţă boia de ardei, sare, puţin cimbru (facultativ)"
+    ],
+    "type": "mains",
+    "ingredients": [
+      "298.Creier în aluat 1",
+      "299.Creier în aluat 2",
+      "300.Gulaș de inimă",
+      "301.Uger pane",
+      "315.Varză acră cu carne de vacă",
+      "316.Ghiveci cu carne de vacă",
+      "317.Cartofi cu carne de vacă"
     ]
   },
   {
     "src": "images/m-48.jpg",
     "alt": "Mâncăruri de carne de porc",
-    "title": "Mâncăruri de carne de porc",
+    "title": [
+      "318.Tocană de carne de porc",
+      "319.Tocană a ala Odobești",
+      "320.Fasole verde cu carne de porc",
+      "321.Mazăre cu carne de porc",
+      "322.Praz cu carne de porc",
+      "323.Ghiveci cu carne de porc",
+      "324.Castraveți cu carne de porc",
+      "325.Varză dulce cu carne de porc",
+      "326.Varză acră cu carne de porc",
+      "327.Cartofi cu carne de porc"
+    ],
     "type": "mains",
     "ingredients": [
       "318.Tocană de carne de porc: 1 kg carne, 4-5 cepe, 2 linguri untură, bulion sau 4-5 roşii, sare, piper.",
@@ -2263,25 +2621,43 @@
   {
     "src": "images/m-49.jpg",
     "alt": "Mâncăruri de carne de porc + Mâncăruri din carne de miel și de berbec",
-    "title": "Mâncăruri de carne de porc + Mâncăruri din carne de miel și de berbec",
+    "title": [
+      "328.Ciuperci cu carne de porc",
+      "329.Miel cu spanac",
+      "330.Stufat de miel",
+      "331.Miel cu tarhon",
+      "332.Ciulama de miel",
+      "333.Miel cu smântână",
+      "334.Miel în sos de iaurt"
+    ],
     "type": "mains",
     "ingredients": [
-      "328.Ciuperci cu carne de porc: 500 g carne de porc 500 g ciuperci, 2 cepe, 2 linguri smîntînă, 1 lingură untură, sare, piper, făină",
+      "328.Ciuperci cu carne de porc: 500 g carne de porc 500 g ciuperci, 2 cepe, 2 linguri smântână, 1 lingură untură, sare, piper, făină",
       "329.Miel cu spanac: 500 g carne de miel, 1,5 kg spanac, 1 ceapă mare, ½ linguriţă făină, 2 linguri untură, 1 lingură bulion, sare, zeamă de lămâie",
       "330.Stufat de miel: 500 g carne de miel, 30 fire ceapă verde, 30 fire usturoi verde, 3 linguri untură, ½ linguriţă făină, 2 linguri bulion (sau 500 g roşii), 1 lingură oţet, sare, un praf de zahăr",
-      "331.Miel cu tarhon: 600 g carne de miel, 1 lingură untură, 1 ceapă, 4-5 roşii, ½ linguriţă făină, tarhon, sare.",
+      "331.Miel cu tarhon: 600 g carne de miel, 1 lingură untură, 1 ceapă, 4-5 roşii, ½ linguriţă făină, tarhon, sare",
       "332.Ciulama de miel: 750 g carne de miel, 2 linguri untură, 1 ceapă, 2 linguri făină, sare",
       "333.Miel cu smântână: 750 g carne de miel, 1 lingură untură, 1 pahar smântână, 1 linguriţă făină, sare, mărar tocat",
-      "334.Miel în sos de iaurt: 750 g carne de miel, 500 g iaurt, ½ lingură făină, 2 linguri unt (sau untură), 1 lingură mărar tocat, sare."
+      "334.Miel în sos de iaurt: 750 g carne de miel, 500 g iaurt, ½ lingură făină, 2 linguri unt (sau untură), 1 lingură mărar tocat, sare"
     ]
   },
   {
     "src": "images/m-50.jpg",
     "alt": "Mâncăruri din carne de miel și de berbec + Mâncăruri din carne de pasăre",
-    "title": "Mâncăruri din carne de miel și de berbec + Mâncăruri din carne de pasăre",
+    "title": [
+      "335.Miel cu ciuperci",
+      "336.Pilaf de miel",
+      "337.Pilaf bulgăresc(cu măruntaie de miel)",
+      "338.Tocană de berbec",
+      "339.Varză acră cu carne de berbec",
+      "340.Pilaf de pui",
+      "341.Pui cu mazăre verde",
+      "342.Anghemaht de pui",
+      "343.Ciulama de pui"
+    ],
     "type": "mains",
     "ingredients": [
-      "335.Miel cu ciuperci:500 g carne de miel, 500 g ciuperci, 2 cepe, 2 linguri smîntînă, 1 lingură untură, sare, piper, făină",
+      "335.Miel cu ciuperci:500 g carne de miel, 500 g ciuperci, 2 cepe, 2 linguri smântână, 1 lingură untură, sare, piper, făină",
       "336.Pilaf de miel: 500 g carne de miel, 1 pahar orez, 2 pahare apă, 1 ceapă mare, sare, mărar, 2 linguri untură",
       "337.Pilaf bulgăresc(cu măruntaie de miel): Măruntaiele şi intestinele de la un miel potrivite de mare, 2 linguri untură, 1½ pahar orez, 2 cepe, 3 pahare apă, sare, ½ linguriţă piper. ",
       "338.Tocană de berbec: 1 kg carne, 4-5 cepe, 2 linguri untură, bulion sau 4-5 roşii, sare, piper.",
@@ -2295,42 +2671,71 @@
   {
     "src": "images/m-51.jpg",
     "alt": "Mâncăruri din carne de pasăre",
-    "title": "Mâncăruri din carne de pasăre",
+    "title": [
+      "344.Pui cu roșii",
+      "345.Pui cu smântână",
+      "346.Pui cu tarhon",
+      "347.Pui cu fasole verde",
+      "348.Pui cu bame",
+      "349.Pui cu vinete",
+      "350.Pui cu conopidă"
+    ],
     "type": "mains",
     "ingredients": [
       "344.Pui cu roșii: 1 pui, 1 lingură unt, 1 ceapă, ½ linguriţă făină, 750 g roşii, ½ linguriţă boia de ardei, sare, un praf de zahăr",
-      "345.Pui cu smântână: 1 pui, 1 lingură unt, 1 linguriţă făină, 1 pahar smîntînă bună, sare",
-      "346.Pui cu tarhon: 1 pui mijlociu, 1 lingură untură, 1 ceapă, 4-5 roşii, ½ linguriţă făină, tarhon, sare.",
+      "345.Pui cu smântână: 1 pui, 1 lingură unt, 1 linguriţă făină, 1 pahar smântână bună, sare",
+      "346.Pui cu tarhon: 1 pui mijlociu, 1 lingură untură, 1 ceapă, 4-5 roşii, ½ linguriţă făină, tarhon, sare",
       "347.Pui cu fasole verde: 1 pui, 750 g fasole, 2 linguri untură, 1 ceapă, ½ pahar zeamă de carne sau apă, 5-6 roşii, 1 linguriţă verdeaţă, sare, 1 linguriţă făină",
       "348.Pui cu bame: 1 pui, 1 lingură untură, 500 g bame, 5-6 roşii, 1 ceapă, verdeaţă tocată, 1 lingură oţet, ½ linguriţă zahăr, sare",
-      "349.Pui cu vinete: 1 pui, 3 vinete mijlocii, 1 ceapă, 1 lingură făină, 3-4 linguri ulei, sare, pătrunjel verde tocat.",
+      "349.Pui cu vinete: 1 pui, 3 vinete mijlocii, 1 ceapă, 1 lingură făină, 3-4 linguri ulei, sare, pătrunjel verde tocat",
       "350.Pui cu conopidă: 1 pui mijlociu, 1 conopidă mijlocie, ½ linguriţă făină, 2-3 linguri vin alb sau 1 lingură zeamă de lămâie, 1 pahar apă, 2 linguri unt, sare, piper"
     ]
   },
   {
     "src": "images/m-52.jpg",
     "alt": "Mâncăruri din carne de pasăre",
-    "title": "Mâncăruri din carne de pasăre",
+    "title": [
+      "352.Găină rasol",
+      "353.Găină cu mazăre verde",
+      "354.Anghermaht de găină",
+      "355.Găină cu roșii",
+      "356.Găină cu tarhon",
+      "357.Găină cu fasole verde",
+      "358.Găină cu gutui",
+      "359.Chifteluțe din piept de rață",
+      "360.Găină cu vinete"
+    ],
     "type": "mains",
     "ingredients": [
       "352.Găină rasol: 1 găină potrivit de mare, 2 morcovi, 1 pătrunjel, 1 ţelină, 1 păstârnac, 1 ceapă, 2 boabe ienibahar (facultativ), 1 foaie de dafin (facultativ), 3-4 cartofi, 3 l apă, sare",
-      "353.Găină cu mazăre verde: 1 găină potrivit de mare, 750 g mazăre boabe, 1 lingură unt, ½ linguriţă făină, ½ linguriţă zahăr, mărar verde tocat, sare.",
+      "353.Găină cu mazăre verde: 1 găină potrivit de mare, 750 g mazăre boabe, 1 lingură unt, ½ linguriţă făină, ½ linguriţă zahăr, mărar verde tocat, sare",
       "354.Anghermaht de găină: 1 găină, 1 lingură unt, 1 linguriţă făină, ½ lămâie, sare",
       "355.Găină cu roșii: 1 găină, 1 lingură unt, 1 ceapă, ½ linguriţă făină, 750 g roşii, ½ linguriţă boia de ardei, sare, un praf de zahăr",
-      "356.Găină cu tarhon 1 găină mijlocie, 1 lingură untură, 1 ceapă, 4-5 roşii, ½ linguriţă făină, tarhon, sare.",
+      "356.Găină cu tarhon: 1 găină mijlocie, 1 lingură untură, 1 ceapă, 4-5 roşii, ½ linguriţă făină, tarhon, sare",
       "357.Găină cu fasole verde: 1 găină, 750 g fasole, 2 linguri untură, 1 ceapă, ½ pahar zeamă de carne sau apă, 5-6 roşii, 1 linguriţă verdeaţă, sare, 1 linguriţă făină",
       "358.Găină cu gutui: 6 porţii de carne de găină, 4 gutui frumoase, 2 linguri făină, 2-3 linguri untură, 2 linguriţe zahăr, sare",
       "359.Chifteluțe din piept de rață: 500 g carne, 3 cepe, 1 ou, 2 felii pâine albă, 1 lingură untură, pătrunjel şi mărar tocat, sare, piper, untură pentru prăjit",
-      "360.Găină cu vinete: 1 găină, 3 vinete mijlocii, 1 ceapă, 1 lingură făină, 3-4 linguri ulei, sare, pătrunjel verde tocat."
+      "360.Găină cu vinete: 1 găină, 3 vinete mijlocii, 1 ceapă, 1 lingură făină, 3-4 linguri ulei, sare, pătrunjel verde tocat"
     ]
   },
   {
     "src": "images/m-53.jpg",
     "alt": "Mâncăruri din carne de pasăre",
-    "title": "Mâncăruri din carne de pasăre",
+    "title": [
+      "361.Găină cu smântănă",
+      "362.Ciulama de găină",
+      "363.Pilaf de găină",
+      "364.Găină cu măsline",
+      "365.Boboc de rață pe varză acră",
+      "366.Boboc de rață pe varză dulce",
+      "367.Rață cu măsline",
+      "368.Rață cu varză acră sau dulce",
+      "369.Rață cu castraveți acri",
+      "370.Gâscă pe varză"
+    ],
     "type": "mains",
     "ingredients": [
-      "361.Găină cu smântănă: 1 găină, 1 lingură unt, 1 linguriţă făină, 1 pahar smîntînă bună, sare",
+      "361.Găină cu smântănă: 1 găină, 1 lingură unt, 1 linguriţă făină, 1 pahar smântână bună, sare",
       "362.Ciulama de găină: 1 găină, 1 ceapă, 1 lingură unt, ½ linguriţă făină, sare",
       "363.Pilaf de găină: 1 găină măricel, 2 linguri unt sau untură, 1 pahar orez, sare",
       "364.Găină cu măsline: 6 porţii carne (pulpe, piept, etc.), 4 linguri ulei, 200 g măsline, 1 lingură bulion, 1 linguriţă făină, 3 cepe, 1 linguriţă oţet sau un păhărel de vin, 1 bucăţică zahăr, sare, 1 foaie de dafin",
@@ -2345,7 +2750,15 @@
   {
     "src": "images/m-54.jpg",
     "alt": "Mâncăruri din carne de pasăre + Tocături",
-    "title": "Mâncăruri din carne de pasăre + Tocături",
+    "title": [
+      "371.Gâscă cu măsline",
+      "372.Mâncare de curcan cu castane",
+      "373.Mâncare de curcan cu caise uscată",
+      "374.Mâncare de curcan cu măsline",
+      "375.Mâncare de curcan cu gutui",
+      "376.Ruladă de carne tocată",
+      "377.Ruladă de carne tocată umplută cu macaroane"
+    ],
     "type": "mains",
     "ingredients": [
       "371.Gâscă cu măsline: Se prepară la fel ca găina cu măsline(364)",
@@ -2353,42 +2766,61 @@
       "373.Mâncare de curcan cu caise uscată: Se pregăteşte ca şi curcanul cu castane (v. 373), înlocuind castanele cu caise uscate",
       "374.Mâncare de curcan cu măsline: 6 porţii carne (pulpe, piept, etc.), 4 linguri ulei, 200 g măsline, 1 lingură bulion, 1 linguriţă făină, 3 cepe, 1 linguriţă oţet sau un păhărel de vin, 1 bucăţică zahăr, sare, 1 foaie de dafin",
       "375.Mâncare de curcan cu gutui: 6 porţii de carne de curcan, 4 gutui frumoase, 2 linguri făină, 2-3 linguri untură, 2 linguriţe zahăr, sare",
-      "376.Ruladă de carne tocată: 1 kg carne macră, 150 g slănină, 2 cepe, 1 felie pâine albă (miezul), 1 ou crud, 4 ouă fierte tari, sare, piper, 1 linguriţă verdeaţă tocată, 1 lingură pesmet, salată verde sau sfeclă roşie.",
-      "377.Ruladă de carne tocată umplută cu macaroane: Tocătura ca la rulada de carne (v. 376), 200 g macaroane, 1 lingură unt, 1 ou, un vârf cuţit piper."
+      "376.Ruladă de carne tocată: 1 kg carne macră, 150 g slănină, 2 cepe, 1 felie pâine albă (miezul), 1 ou crud, 4 ouă fierte tari, sare, piper, 1 linguriţă verdeaţă tocată, 1 lingură pesmet, salată verde sau sfeclă roşie",
+      "377.Ruladă de carne tocată umplută cu macaroane: Tocătura ca la rulada de carne (v. 376), 200 g macaroane, 1 lingură unt, 1 ou, un vârf cuţit piper"
     ]
   },
   {
     "src": "images/m-55.jpg",
     "alt": "Tocături",
-    "title": "Tocături",
+    "title": [
+      "378.Ruladă cu carne tocată umplută cu orez",
+      "379.Ruladă pe iarnă",
+      "380.Mititei",
+      "381.Pârjoale moldovenești",
+      "382.Chiftele marinate",
+      "383.Ardei umpluți cu carne"
+    ],
     "type": "mains",
     "ingredients": [
-      "378.Ruladă cu carne tocată umplută cu orez: Tocătura de carne pentru ruladă (v. 376), 150 g orez, 1 lingură unt, 1 ou, puţin piper. ",
+      "378.Ruladă cu carne tocată umplută cu orez: Tocătura de carne pentru ruladă (v. 376), 150 g orez, 1 lingură unt, 1 ou, puţin piper",
       "379.Ruladă pe iarnă: Tocătura de carne ca pentru ruladă (v. 376), 150 g slănină, 5-6 boabe ienibahar, 2-3 cuişoare, ½ linguriţă cimbru, 10 boabe piper, 3 linguri zeamă de carne sau apă",
-      "380.Mititei: 1 kg carne de vacă, 250 g seu, ¼ linguriţă bicarbonat, 2-3 căţei usturoi, puţin piper, ienibahar şi chimion pisat, 2-3 linguri zeamă de carne, sare.",
-      "381.Pârjoale moldovenești: 500 g carne, 3 cepe, 1 ou, 2 felii pâine albă, 1 lingură untură, pătrunjel şi mărar tocat, sare, piper, untură pentru prăjit. ",
-      "382.Chiftele marinate: Aceeaşi tocătură ca la pârjoale moldoveneşti (v. 381), 4-5 roşii sau 1 lingură bulion, 1 ceapă mică, 2-3 boabe ienibahar, 1 foaie de dafin, ½ linguriţă zahăr, 1-2 linguri oţet, sare, verdeaţă tocată, untură pentru prăjit, făină (1-2 linguri). ",
-      "383.Ardei umpluți cu carne: 12 ardei mijlocii, 750 g carne, 2 cepe, 2 linguri orez, 1 lingură untură, mărar şi pătrunjel tocat, sare, piper, două roşii. S o s u l : 500 g roşii, ½ ceapă, 1 linguriţă zahăr, ½ linguriţă făină, sare, pătrunjel tocat, 1 lingură untură, smântână "
+      "380.Mititei: 1 kg carne de vacă, 250 g seu, ¼ linguriţă bicarbonat, 2-3 căţei usturoi, puţin piper, ienibahar şi chimion pisat, 2-3 linguri zeamă de carne, sare",
+      "381.Pârjoale moldovenești: 500 g carne, 3 cepe, 1 ou, 2 felii pâine albă, 1 lingură untură, pătrunjel şi mărar tocat, sare, piper, untură pentru prăjit",
+      "382.Chiftele marinate: Aceeaşi tocătură ca la pârjoale moldoveneşti (v. 381), 4-5 roşii sau 1 lingură bulion, 1 ceapă mică, 2-3 boabe ienibahar, 1 foaie de dafin, ½ linguriţă zahăr, 1-2 linguri oţet, sare, verdeaţă tocată, untură pentru prăjit, făină (1-2 linguri)",
+      "383.Ardei umpluți cu carne: 12 ardei mijlocii, 750 g carne, 2 cepe, 2 linguri orez, 1 lingură untură, mărar şi pătrunjel tocat, sare, piper, două roşii. S o s u l : 500 g roşii, ½ ceapă, 1 linguriţă zahăr, ½ linguriţă făină, sare, pătrunjel tocat, 1 lingură untură, smântână"
     ]
   },
   {
     "src": "images/m-56.jpg",
     "alt": "Tocături",
-    "title": "Tocături",
+    "title": [
+      "384.Roșii umplute cu carne",
+      "385.Vinete coapte cu carne",
+      "386.Dovlecei umpluți cu carne",
+      "387.Praz umplut cu carne",
+      "388.Varză umplută cu carne",
+      "389.Cartofi umpluți cu carne"
+    ],
     "type": "mains",
     "ingredients": [
-      "384.Roșii umplute cu carne: Aceleaşi cantităţi ca la ardei umpluţi cu carne. ",
-      "385.Vinete coapte cu carne: 6 vinete mici, 400 g carne macră, 2 cepe, 3 linguri untură, 500 g roşii, 1 linguriţă făină, ½ linguriţă zahăr, 1 lingură mărar şi pătrunjel tocat, sare, piper.",
-      "386.Dovlecei umpluți cu carne: 6 dovlecei nu prea mici, 400 g carne macră, 2-3 cepe, 2 linguri orez, pătrunjel şi mărar tocat, sare, piper, 2 linguri untură. S o s u l : 500 g roşii, ½ ceapă, 1 linguriţă făină, sare, pătrunjel tocat, 1 lingură untură, smântână. ",
+      "384.Roșii umplute cu carne: Aceleaşi cantităţi ca la ardei umpluţi cu carne",
+      "385.Vinete coapte cu carne: 6 vinete mici, 400 g carne macră, 2 cepe, 3 linguri untură, 500 g roşii, 1 linguriţă făină, ½ linguriţă zahăr, 1 lingură mărar şi pătrunjel tocat, sare, piper",
+      "386.Dovlecei umpluți cu carne: 6 dovlecei nu prea mici, 400 g carne macră, 2-3 cepe, 2 linguri orez, pătrunjel şi mărar tocat, sare, piper, 2 linguri untură. S o s u l : 500 g roşii, ½ ceapă, 1 linguriţă făină, sare, pătrunjel tocat, 1 lingură untură, smântână",
       "387.Praz umplut cu carne: 700 g carne macră (se recomandă carne de porc amestecată cu carne de vacă), 4 cepe mari, 2 linguri orez, 1 felie pâine, 3 linguri untură, 5-6 roşii sau 1 lingură bulion, sare, piper, mărar tocat, smântână",
       "388.Varză umplută cu carne: 1 varză mijlocie, 500 g carne macră, 2-3 cepe, 1 lingură orez, 2 linguri untură, sare, piper, verdeaţă tocată, 500 g roşii, ½ linguriţă zahăr, ½ linguriţă făină, 1 lingură oţet, smântână",
-      "389.Cartofi umpluți cu carne: 12 cartofi mijlocii, 350 g carne macră, 2 linguri untură, 2 cepe, 1 lingură verdeaţă tocată, 1 lingură făină, 1 lingură bulion sau 500 g roşii, ½ linguriţă zahăr, sare, piper, 1 pahar smântână. "
+      "389.Cartofi umpluți cu carne: 12 cartofi mijlocii, 350 g carne macră, 2 linguri untură, 2 cepe, 1 lingură verdeaţă tocată, 1 lingură făină, 1 lingură bulion sau 500 g roşii, ½ linguriţă zahăr, sare, piper, 1 pahar smântână"
     ]
   },
   {
     "src": "images/m-57.jpg",
     "alt": "Tocături",
-    "title": "Tocături",
+    "title": [
+      "390.Musaca de cartofi cu carne",
+      "391.Musaca de dovlecei",
+      "392.Musaca de vinete",
+      "393.Musaca de macaroane sau tăiței de casă"
+    ],
     "type": "mains",
     "ingredients": [
       "390.Musaca de cartofi cu carne: 500 g carne macră, 750 g cartofi, 2 cepe, 3 linguri untură, sare, piper, verdeaţă, 1 lingură bulion sau 3-4 roşii, pesmet",
@@ -2400,14 +2832,22 @@
   {
     "src": "images/m-58.jpg",
     "alt": "Tocături",
-    "title": "Tocături",
+    "title": [
+      "394.Musaca specială",
+      "395.Musaca specială cu smântână",
+      "396.Sarmale cu varză dulce",
+      "397.Sarmale cu varză acră",
+      "398.Sarmale cu foi de viță",
+      "399.Sarmale cu foi de viță și carne de miel",
+      "400.Drob de miel"
+    ],
     "type": "mains",
     "ingredients": [
       "394.Musaca specială: 750 g antricot, 750 g cartofi, 750 g ceapă, 150 g untură, ulei sau unt, 1 lingură bulion sau 1/2 pahar zeamă de roșii, 1/2 linguriță zahăr, sare, piper, 3/4 pahar apă",
       "395.Musaca specială cu smântână: 1 kg antricot, 1 kg ceapă, 1/2 kg cartofi, 10 gr unt, 2 pahare smântână",
-      "396.Sarmale cu varză dulce: 1 varză mare, 750 g carne macră (se recomandă carne de porc amestecată cu carne de vacă), 4 cepe mari, 2 linguri orez, 1 felie pâine, 3 linguri untură, 5-6 roşii sau 1 lingură bulion, sare, piper, mărar tocat, 1 l borş, smântână.",
-      "397.Sarmale cu varză acră: Pentru tocătură aceleaşi cantităţi şi acelaşi mod de pregătire ca la sarmale cu varză dulce (v. 396), 1 varză acră, 1 linguriţă boia ardei, 1 lingură bulion, cimbru (facultativ). ",
-      "398.Sarmale cu foi de viță: Aceeaşi tocătură ca la sarmale cu varză dulce (v. 396), 250 g foi de viţă, 2 linguri mărar tocat, 0,500 l borş, sare, 1 pahar smîntînă sau iaurt.",
+      "396.Sarmale cu varză dulce: 1 varză mare, 750 g carne macră (se recomandă carne de porc amestecată cu carne de vacă), 4 cepe mari, 2 linguri orez, 1 felie pâine, 3 linguri untură, 5-6 roşii sau 1 lingură bulion, sare, piper, mărar tocat, 1 l borş, smântână",
+      "397.Sarmale cu varză acră: Pentru tocătură aceleaşi cantităţi şi acelaşi mod de pregătire ca la sarmale cu varză dulce (v. 396), 1 varză acră, 1 linguriţă boia ardei, 1 lingură bulion, cimbru (facultativ)",
+      "398.Sarmale cu foi de viță: Aceeaşi tocătură ca la sarmale cu varză dulce (v. 396), 250 g foi de viţă, 2 linguri mărar tocat, 0,500 l borş, sare, 1 pahar smântână sau iaurt",
       "399.Sarmale cu foi de viță și carne de miel: Se prepară la fel ca sarmalele cu foi de viţă şi carne de vacă (v. 398)",
       "400.Drob de miel: Măruntaiele de la un miel, 2 cepe mari, 2 ouă, 1 lingură verdeaţă tocată, 1 lingură cozi de ceapă verde tocate, sare, piper, 1 lingură untură, 1 felie pâine albă"
     ]
@@ -2415,25 +2855,38 @@
   {
     "src": "images/m-59.jpg",
     "alt": "Tocături + Fripturi de vită",
-    "title": "Tocături + Fripturi de vită",
+    "title": [
+      "401.Drob de miel în aluat",
+      "402.Șnițel din carne tocată",
+      "403.Friptură înăbușită 1",
+      "404.Friptură înăbușită 2"
+    ],
     "type": "mains",
     "ingredients": [
-      "401.Drob de miel în aluat: Aceeaşi tocătură ca la drob de miel (v. 400). A l u a t u l : 1 ou, 1 lingură untură, 1 linguriţă smântână, 1 linguriţă oţet, sare, 170 g făină. ",
+      "401.Drob de miel în aluat: Aceeaşi tocătură ca la drob de miel (v. 400). A l u a t u l : 1 ou, 1 lingură untură, 1 linguriţă smântână, 1 linguriţă oţet, sare, 170 g făină",
       "402.Șnițel din carne tocată: 600 g carne macră, 2 linguri unt sau untură, ½ pahar pesmet pisat, puţin piper, sare",
-      "403.Friptură înăbușită 1: 1,5 kg carne (pulpă), 150 g slănină, 1 căpăţână usturoi, 2 linguri untură, sare, piper.",
-      "404.Friptură înăbușită 2: 1,5 kg carne macră (sau rasol alb), 1 ceapă, 2-3 căţei de usturoi, 1 morcov potrivit de mare, 1 păhărel vin, 2 linguri untură, sare, piper, 1 linguriţăbulion"
+      "403.Friptură înăbușită 1: 1,5 kg carne (pulpă), 150 g slănină, 1 căpăţână usturoi, 2 linguri untură, sare, piper",
+      "404.Friptură înăbușită 2: 1,5 kg carne macră (sau rasol alb), 1 ceapă, 2-3 căţei de usturoi, 1 morcov potrivit de mare, 1 păhărel vin, 2 linguri untură, sare, piper, 1 linguriţă bulion"
     ]
   },
   {
     "src": "images/m-60.jpg",
     "alt": "Fripturi de vită + Fripturi de vițel + Fripturi de porc",
-    "title": "Fripturi de vită + Fripturi de vițel + Fripturi de porc",
+    "title": [
+      "405.Biftec",
+      "406.Șnițel de vițel",
+      "407.Friptură de vițel la tavă",
+      "408.Șnițel parizian",
+      "409.Șnițel din carne de porc",
+      "410.Cotlete de porc pane",
+      "411.Coltlete de porc la cuptor"
+    ],
     "type": "mains",
     "ingredients": [
-      "405.Biftec: 600 g muşchi, 3 cepe mari, sare, piper, 2 linguri untură.",
+      "405.Biftec: 600 g muşchi, 3 cepe mari, sare, piper, 2 linguri untură",
       "406.Șnițel de vițel: 750 g carne macră (de la pulpă), 1 linguriţă ulei, 2 ouă, 2-3 linguri untură, făină, pesmet, piper, sare",
-      "407.Friptură de vițel la tavă: O bucată de pulpă de 1-2 kg, sare, puţină untură.Se prepară ca şi pulpa de porc la tavă (v. 412). ",
-      "408.Șnițel parizian: 750 g carne vițel (sau porc), 4 linguri făină, 1 lingură ulei, 2 ouă,4 linguri de lapte sau sifon, sare.",
+      "407.Friptură de vițel la tavă: O bucată de pulpă de 1-2 kg, sare, puţină untură.Se prepară ca şi pulpa de porc la tavă (v. 412)",
+      "408.Șnițel parizian: 750 g carne vițel (sau porc), 4 linguri făină, 1 lingură ulei, 2 ouă,4 linguri de lapte sau sifon, sare",
       "409.Șnițel din carne de porc; Se prepară la fel ca și șnițelul dn carne de vițel( v 406)",
       "410.Cotlete de porc pane: 6 cotlete de porc, 2 ouă, 2 linguri untură, 2 linguri făină, piper, sare, pesmet",
       "411.Coltlete de porc la cuptor: Cotlete de porc(bucată întreagă), sare, puțină untură"
@@ -2442,26 +2895,41 @@
   {
     "src": "images/m-61.jpg",
     "alt": "Fripturi de porc + Fripturi de miel și berbec",
-    "title": "Fripturi de porc + Fripturi de miel și berbec",
+    "title": [
+      "412.Pulpă de porc la tavă",
+      "413.Ceafă de porc(garf) la cuptor",
+      "414.Purcel de lapte la tavă",
+      "415.Purcel de lapte umplut cu măruntaie",
+      "416.Miel pane"
+    ],
     "type": "mains",
     "ingredients": [
-      "412.Pulpă de porc la tavă: O bucată de pulpă de 1-2 kg, sare, puţină untură.",
-      "413.Ceafă de porc(garf) la cuptor: 1 garf (cam 2 kg), 3-4 boabe ienibahar, 1 căţel usturoi, ½ linguriţă boia de ardei, câteva boabe coriandru, sare, puţină grăsime. ",
+      "412.Pulpă de porc la tavă: O bucată de pulpă de 1-2 kg, sare, puţină untură",
+      "413.Ceafă de porc(garf) la cuptor: 1 garf (cam 2 kg), 3-4 boabe ienibahar, 1 căţel usturoi, ½ linguriţă boia de ardei, câteva boabe coriandru, sare, puţină grăsime",
       "414.Purcel de lapte la tavă",
-      "415.Purcel de lapte umplut cu măruntaie: 1 purcel de lapte, 3 ouă, 2 felii de pâine albă, 2 linguri untură, 1 ceapă, 100 g stafide (după plac), pătrunjel verde, sare, piper.",
+      "415.Purcel de lapte umplut cu măruntaie: 1 purcel de lapte, 3 ouă, 2 felii de pâine albă, 2 linguri untură, 1 ceapă, 100 g stafide (după plac), pătrunjel verde, sare, piper",
       "416.Miel pane: Piept de miel (6 bucăţi), 1 ou, 2 linguri lapte, 1 lingură untură, 1 lingură ulei, 2 linguri făină, pesmet, sare"
     ]
   },
   {
     "src": "images/m-62.jpg",
     "alt": "Fripturi de miel și berbec + Fripturi de pasăre",
-    "title": "Fripturi de miel și berbec + Fripturi de pasăre",
+    "title": [
+      "417.Șnițel de miel",
+      "418.Friptură de miel la tavă",
+      "419.Pulpă de berbec la tavă",
+      "420.Pui pane",
+      "421.Pui înăbușit",
+      "422.Pui la tavă",
+      "423.Găină înăbușită",
+      "424.Friptură de găină la tavă"
+    ],
     "type": "mains",
     "ingredients": [
       "417.Șnițel de miel: Pulpă de miel (6 bucăţi), 1 ou, 2 linguri lapte, 1 lingură untură, 1 lingură ulei, 2 linguri făină, pesmet, sare",
       "418.Friptură de miel la tavă: 1,5 kg carne de miel (pulpele), 1-2 linguri untură, sare, câţiva căţei de usturoi",
       "419.Pulpă de berbec la tavă: 1 pulpă de berbec, 125 g slănină, 1 căpăţînă usturoi, 1 lingură untură, 1 păhărel vin sau oţet, sare",
-      "420.Pui pane: 1 pui mijlociu, 1 ou, 2 linguri făină, 1 lingură untură, sare, pesmet. ",
+      "420.Pui pane: 1 pui mijlociu, 1 ou, 2 linguri făină, 1 lingură untură, sare, pesmet",
       "421.Pui înăbușit: 1 pui mare, 1 lingură untură, sare, puţin usturoi",
       "422.Pui la tavă: 1 pui mare, ½ lingură untură, sare",
       "423.Găină înăbușită: 1 găină mare, 1 lingură untură, sare, puţin usturoi",
@@ -2471,10 +2939,16 @@
   {
     "src": "images/m-63.jpg",
     "alt": "Fripturi de pasăre + Preparate din pește",
-    "title": "Fripturi de pasăre + Preparate din pește",
+    "title": [
+      "425.Friptură de gâscă la tavă",
+      "426.Friptură de rață cu mere coapte",
+      "427.Friptură de curcan la tavă",
+      "428.Crap prăjit",
+      "429.Crap rasol"
+    ],
     "type": "mains",
     "ingredients": [
-      "425.Friptură de gâscă la tavă: 1 gâscă, 1 lingură untură, sare. ",
+      "425.Friptură de gâscă la tavă: 1 gâscă, 1 lingură untură, sare",
       "426.Friptură de rață cu mere coapte: 1 raţă, 12 mere mari, 1 lingură untură, sare",
       "427.Friptură de curcan la tavă: 1 curcan, 2 linguri untură, sare",
       "428.Crap prăjit: 1 kg crap, 3 linguri ulei, 2 linguri făină, zeamă de lămâie, sare",
@@ -2484,35 +2958,57 @@
   {
     "src": "images/m-64.jpg",
     "alt": "Preparate din pește",
-    "title": "Preparate din pește",
+    "title": [
+      "430.Plachie de crap",
+      "431.Crap pe orez",
+      "432.Crap cu maioneză",
+      "433.Marinată de crap",
+      "434.Șalău prăjit",
+      "435.Șalău rasol",
+      "436.Șalău cu maioneză"
+    ],
     "type": "mains",
     "ingredients": [
       "430.Plachie de crap: 1 kg crap, 4 linguri ulei, 5-6 cepe mari, 1 lingură bulion, 2 linguri făină, 2-3 boabe de piper, 2-3 boabe ienibahar, 1 pahar vin, câteva felii de lămâie, sare",
       "431.Crap pe orez: 1 kg crap, 1 pahar orez, 1 linguriţă făină, 2 linguri oţet, sare, piper, 4 linguri ulei, ceapă",
       "432.Crap cu maioneză: 1 kg crap, zarzavat de supă, 3-4 boabe de ienibahar, 1 foaie de dafin, 1 ceapă, sare, salată verde",
-      "433.Marinată de crap: 1 kg crap, 3 linguri ulei, 2 linguri făină, sare, 1 ceaşcă oţet, 1 ceaşcă apă, 3-4 boabe ienibahar, 2-3 foi de dafin, 2 bucăţi zahăr, sare.",
+      "433.Marinată de crap: 1 kg crap, 3 linguri ulei, 2 linguri făină, sare, 1 ceaşcă oţet, 1 ceaşcă apă, 3-4 boabe ienibahar, 2-3 foi de dafin, 2 bucăţi zahăr, sare",
       "434.Șalău prăjit: 1 kg șalău, 3 linguri ulei, 2 linguri făină, zeamă de lămâie, sare",
-      "435.Șalău rasol:  1 kg șalău, 1 ceapă, 1 morcov, 1 pătrunjel, 2-3 boabe piper, 1 foaie de dafin, 2 linguri zeamă de lămâie, 2 linguri ulei, 2-3 cartofi, sare",
+      "435.Șalău rasol: 1 kg șalău, 1 ceapă, 1 morcov, 1 pătrunjel, 2-3 boabe piper, 1 foaie de dafin, 2 linguri zeamă de lămâie, 2 linguri ulei, 2-3 cartofi, sare",
       "436.Șalău cu maioneză: 1 kg șalău, zarzavat de supă, 3-4 boabe de ienibahar, 1 foaie de dafin, 1 ceapă, sare, salată verde"
     ]
   },
   {
     "src": "images/m-65.jpg",
     "alt": "Preparate din pește",
-    "title": "Preparate din pește",
+    "title": [
+      "437.Șalău mic pane",
+      "438.Șalău polonez",
+      "439.Șalău cu orez în aluat",
+      "440.Calcan în vin roșu",
+      "441.Știucă rasol"
+    ],
     "type": "mains",
     "ingredients": [
-      "437.Șalău mic pane: 1 kg şalău mic, 2 linguri făină, 2 ouă, 1 lingură lapte, pesmet, sare, 1 lămîie, 4-5 linguri ulei.",
-      "438.Șalău polonez: 1 kg şalău, 1 morcov, 1 pătrunjel, 1 ceapă, 2-3 boabe ienibahar, 3-4 cartofi, 2 ouă, 1 lingură smântână, unt, 1 linguriţă făină, pătrunjel tocat, sare, zeamă de lămâie, sfeclă roşie.",
-      "439.Șalău cu orez în aluat: A l u a t u l : 50 g drojdie, 1 ou, 1 pahar lapte, ½ lingură zahăr, ½ linguriţă sare, ½ pahar unt topit, untură sau ulei, făină cât cuprinde. U m p l u t u r a : 1 pahar orez , 2 pahare lapte, 1 pahar apă, 3 linguri unt, 3 ouărăscoapte, 500 g şalău, un vârf de cuţit piper negru, sare.",
-      "440.Calcan în vin roșu: 1 kg calcan, 1 ceaşcă vin roşu, 1 linguriţă făină, 1 lingură unt, 1 pătrunjel, 1 morcov, 1 ceapă, 2 cuişoare, 2-3 boabe ienibahar, 1 foaie de dafin, sare, 500 g cartofi.",
+      "437.Șalău mic pane: 1 kg şalău mic, 2 linguri făină, 2 ouă, 1 lingură lapte, pesmet, sare, 1 lămâie, 4-5 linguri ulei",
+      "438.Șalău polonez: 1 kg şalău, 1 morcov, 1 pătrunjel, 1 ceapă, 2-3 boabe ienibahar, 3-4 cartofi, 2 ouă, 1 lingură smântână, unt, 1 linguriţă făină, pătrunjel tocat, sare, zeamă de lămâie, sfeclă roşie",
+      "439.Șalău cu orez în aluat: A l u a t u l : 50 g drojdie, 1 ou, 1 pahar lapte, ½ lingură zahăr, ½ linguriţă sare, ½ pahar unt topit, untură sau ulei, făină cât cuprinde. U m p l u t u r a : 1 pahar orez , 2 pahare lapte, 1 pahar apă, 3 linguri unt, 3 ouărăscoapte, 500 g şalău, un vârf de cuţit piper negru, sare",
+      "440.Calcan în vin roșu: 1 kg calcan, 1 ceaşcă vin roşu, 1 linguriţă făină, 1 lingură unt, 1 pătrunjel, 1 morcov, 1 ceapă, 2 cuişoare, 2-3 boabe ienibahar, 1 foaie de dafin, sare, 500 g cartofi",
       "441.Știucă rasol: 1 kg știucă, 1 ceapă, 1 morcov, 1 pătrunjel, 2-3 boabe piper, 1 foaie de dafin, 2 linguri zeamă de lămâie, 2 linguri ulei, 2-3 cartofi, sare"
     ]
   },
   {
     "src": "images/m-66.jpg",
     "alt": "Preparate din pește",
-    "title": "Preparate din pește",
+    "title": [
+      "442.Știucă prăjită",
+      "443.Știucă umplută(fiartă)",
+      "444.Stiucă umplută la cuptor",
+      "445.Somn prăjit",
+      "446.Somn cu maioneză",
+      "447.Mâncare de somn cu roșii",
+      "448.Scumbii în ulei"
+    ],
     "type": "mains",
     "ingredients": [
       "442.Știucă prăjită: 1 kg știucă, 3 linguri ulei, 2 linguri făină, zeamă de lămâie, sare",
@@ -2521,24 +3017,36 @@
       "445.Somn prăjit: 1 kg somn, 3 linguri ulei, 2 linguri făină, zeamă de lămâie, sare",
       "446.Somn cu maioneză: 1 kg somn, zarzavat de supă, 3-4 boabe de ienibahar, 1 foaie de dafin, 1 ceapă, sare, salată verde",
       "447.Mâncare de somn cu roșii: 1 kg somn, 4 linguri ulei, 2 linguri făină, 1 ceapă mare, roşii, ½ linguriţă zahăr, 3-4 boabe ienibahar, 1 foaie de dafin, sare",
-      "448.Scumbii în ulei: 1 kg scrumbie, 3-4 lămîi, 2 foi de dafin, 5-6 boabe de ienibahar, 2 linguriţe sare, ulei cît cere. "
+      "448.Scumbii în ulei: 1 kg scrumbie, 3-4 lămâi, 2 foi de dafin, 5-6 boabe de ienibahar, 2 linguriţe sare, ulei cît cere"
     ]
   },
   {
     "src": "images/m-67.jpg",
     "alt": "Preparate din pește + Vânat",
-    "title": "Preparate din pește + Vânat",
+    "title": [
+      "449.Pește pescăresc",
+      "450.Pește prăjit în ulei",
+      "451.Marinată pentru vânat"
+    ],
     "type": "mains",
     "ingredients": [
       "449.Pește pescăresc: 750 gr crap, sebastă sau barcută, 3 linguri ulei, 2 cepe, 4-5 căței usturoi, 3/4 linguriță cimbru pisat, 2-3 linguri bulion, 1 1/2 pahar apă, un vârf cuțit zahăr, sare",
-      "450.Pește prăjit în ulei: 600 g cod, barcută sau sebastă, 1 ou, 2 linguri ulei sau unt pentru prăjit, 2-3 linguri făinp, 1/2 pahar lapte,",
+      "450.Pește prăjit în ulei: 600 g cod, barcută sau sebastă, 1 ou, 2 linguri ulei sau unt pentru prăjit, 2-3 linguri făinp, 1/2 pahar lapte",
       "451.Marinată pentru vânat: 1,5 kg apă, 1 kg oţet de vin, ½ linguriţă ienibahar, ½ linguriţă piper, 5-6 foi de dafin, coaja de la ½ lămâie, 1 lingură sare, 5-6 cuişoare, 2-3 căţei usturoi"
     ]
   },
   {
     "src": "images/m-68.jpg",
     "alt": "Vânat",
-    "title": "Vânat",
+    "title": [
+      "452.Iepure cu smântână",
+      "453.Papricaș de iepure",
+      "454.Iepure cu măsline",
+      "455.Pârjoale de iepure",
+      "456.Cârnați din carne de iepure",
+      "457.Pastă din carne iepure",
+      "458.Friptură de iepure"
+    ],
     "type": "mains",
     "ingredients": [
       "452.Iepure cu smântână: 6 bucăţi (porţii) de carne de iepure, 1 lingură untură, 1 linguriţă făină, 1 lingură unt proaspăt, 1 pahar smântână, 2-3 boabe ienibahar, ½ ceapătocată, sare",
@@ -2546,31 +3054,46 @@
       "454.Iepure cu măsline: Pulpele din faţă şi din spate şi gîtul, ½ pahar ulei, 5-6 cepe mari, 2 linguri bulion, 5-6 boabe ienibahar, 1 foaie de dafin, 200 g măsline, ½ linguriţăzahăr, 1 ceaşcă de vin (în lipsă, o ceaşcă de apă cu o lingură oţet de bună calitate), sare",
       "455.Pârjoale de iepure: Se prepară ca şi cele din carne de vacă(381)  + usturoi, untură",
       "456.Cârnați din carne de iepure: ???",
-      "457.Pastă din carne iepure: 1 kg carne macră de iepure, 250 g unt proaspăt, 2 cepe, 1 lingură untură, 1 pahar lapte, 2-3 boabe de ienibahar, 20 boabe de piper pisat cu 1 cuişoară şi un vîrf de cuţit de nucşoară rasă, sare, piper, castraveciori acri, sfeclă roşie",
-      "458.Friptură de iepure: Spinarea şi pulpele din spate ale unui iepure, sare, slănină, usturoi , untură, 1 lingură oţet."
+      "457.Pastă din carne iepure: 1 kg carne macră de iepure, 250 g unt proaspăt, 2 cepe, 1 lingură untură, 1 pahar lapte, 2-3 boabe de ienibahar, 20 boabe de piper pisat cu 1 cuişoară şi un vârf de cuţit de nucşoară rasă, sare, piper, castraveciori acri, sfeclă roşie",
+      "458.Friptură de iepure: Spinarea şi pulpele din spate ale unui iepure, sare, slănină, usturoi , untură, 1 lingură oţet"
     ]
   },
   {
     "src": "images/m-69.jpg",
     "alt": "Vânat",
-    "title": "Vânat",
+    "title": [
+      "459.Friptură de rață sălbatică",
+      "460.Gâscă sălbatică cu măsline",
+      "461.Friptură de gâscă sălbatică",
+      "462.Potârnichi cu smântână",
+      "463.Pilaf de potârnichi",
+      "464.Friptură de potârnichi",
+      "465.Potârnichi umplute",
+      "466.Prepelițe cu smântână",
+      "467.Prepelițe fripte"
+    ],
     "type": "mains",
     "ingredients": [
       "459.Friptură de rață sălbatică: 1 raţă sălbatică, 2-3 linguri untură, 150 g slănină pentru împănat, 4-5 linguri vin, sare",
       "460.Gâscă sălbatică cu măsline: Se prepară ca găina cu măsline",
       "461.Friptură de gâscă sălbatică:Se prepară ca friptura de raţă sălbatică ",
-      "462.Potârnichi cu smântână: Se prepară ca puiul cu smîntînă",
+      "462.Potârnichi cu smântână: Se prepară ca puiul cu smântână",
       "463.Pilaf de potârnichi: Se prepară ca pilaful de pui",
       "464.Friptură de potârnichi: 6 potîrnichi, 3 linguri unt sau untură, 3-4 linguri vin, sare",
       "465.Potârnichi umplute: 6 potârnichi, 1 ceapă 100 g slănină proaspătă, miezul de la 2 felii de franzelă muiat în lapte, 1 ou, măruntaiele de la 4 potîrnichi, 1 lingură unt, 1 lingură untură, piper şi ienibahar pisat, sare, pătrunjel tocat",
-      "466.Prepelițe cu smântână: 6 prepeliţe, 1 lingură unt, 1 ceaşcă smântână, 1 linguriţă făină, sare.",
+      "466.Prepelițe cu smântână: 6 prepeliţe, 1 lingură unt, 1 ceaşcă smântână, 1 linguriţă făină, sare",
       "467.Prepelițe fripte: 6 prepeliţe, 6 felii de slănină proaspătă, 1 linguriţă untură, sare, 3-4 linguri vin"
     ]
   },
   {
     "src": "images/m-70.jpg",
     "alt": "Vânat + Făinoase",
-    "title": "Vânat + Făinoase",
+    "title": [
+      "468.Prepelițe fripte vânătorește",
+      "469.Friptură de fazan",
+      "470.Pâine cu lapte",
+      "471.Chifle cu chimen"
+    ],
     "type": "mains",
     "ingredients": [
       "468.Prepelițe fripte vânătorește: 6 prepeliţe, 3 linguri unt sau untură, sare",
@@ -2582,12 +3105,19 @@
   {
     "src": "images/m-71.jpg",
     "alt": "Făinoase",
-    "title": "Făinoase",
+    "title": [
+      "472.Chifle",
+      "473.Tăiței",
+      "474.Iofca(Laște)",
+      "475.Tăiței cu nuci",
+      "476.Macaroane cu brânză sau parmezan",
+      "477.Macaroane cu brânză și sos de roșii"
+    ],
     "type": "mains",
     "ingredients": [
       "472.Chifle: 200 g unt, 5 gălbenușuri, 1 lingură drojdie, 600 g făină, 1 1/2 pahar smântână dulce, 150 g zahăr pudră, sare, 1 praf zahăr vanilat, 1-2 linguri zahăr tos, 1 ou pt uns",
       "473.Tăiței:3 ouă, 1 ceşcuţă cu apă, făină cât cuprinde, ½ linguriţă sare",
-      "474.Iofca(Laște): 3 ouă, 1 ceşcuţă cu apă, făină cât cuprinde, ½ linguriţă sare.",
+      "474.Iofca(Laște): 3 ouă, 1 ceşcuţă cu apă, făină cât cuprinde, ½ linguriţă sare",
       "475.Tăiței cu nuci: 5 mîini de tăiţei, 4 linguri zahăr, 5-6 linguri nuci pisate, puţină vanilie sau scorţişoară pisată",
       "476.Macaroane cu brânză sau parmezan: 350 g macaroane, 3 l apă, sare, 3-4 linguri brânză sau parmezan (ras), 3 linguri unt sau untură",
       "477.Macaroane cu brânză și sos de roșii: Aceleaşi cantităţi ca la macaroanele cu brânză, în plus sos de roşii"
@@ -2596,13 +3126,21 @@
   {
     "src": "images/m-72.jpg",
     "alt": "Făinoase",
-    "title": "Făinoase",
+    "title": [
+      "478.Macaroane cu carne",
+      "479.Piroști",
+      "480.Piroști cu cocă fiartă",
+      "481.Colțunași cu brânză de vacă",
+      "482.Colțunași cu carne crudă",
+      "483.Colțunași cu carne fiartă",
+      "484.Colțunași cu vișine"
+    ],
     "type": "mains",
     "ingredients": [
       "478.Macaroane cu carne: 250 g macaroane, 300 g carne macră, 2 cepe, 3 linguri untură, sare, piper",
       "479.Piroști: 3 pahare făină, 2 ouă, 1/2 pahar smântână, 150 g unt, sare",
       "480.Piroști cu cocă fiartă: 1 1/4 pahar apă, 1/2 pahar unt sau margarină, 1 1/2 pahar făină, 3 ouă, sare",
-      "481.Colțunași cu brânză de vacă: 350 g făină, 1 ou, ½ pahar apă, sare, 250 g brînză de vacă frământată cu 1 ou şi puţină sare, 2 linguri unt, 1 pahar smântână.",
+      "481.Colțunași cu brânză de vacă: 350 g făină, 1 ou, ½ pahar apă, sare, 250 g brînză de vacă frământată cu 1 ou şi puţină sare, 2 linguri unt, 1 pahar smântână",
       "482.Colțunași cu carne crudă: Aluat cu colţunaşi făcut din aceleaşi cantităţi şi în acelaşi fel ca la colţunaşi cu brînză de vacă (v. ). U m pl ut u r a : 300 g carne macră, 1 ceapă mare, 1 lingură untură, piper, sare, 2 linguri untură pentru opărit colţunaşii",
       "483.Colțunași cu carne fiartă: Aceleaşi cantităţi ca la colţunaşi umpluţi cu carne crudă (v.)",
       "484.Colțunași cu vișine: Pentru aluat aceleaşi cantităţi ca la colţunaşi cu brânză de vacă (v. ). U m p l u t u r a : 500 g vişine coapte, ¾ pahar zahăr tos, 1 pahar smântână"
@@ -2611,7 +3149,13 @@
   {
     "src": "images/m-73.jpg",
     "alt": "Făinoase",
-    "title": "Făinoase",
+    "title": [
+      "485.Blinele de cartofi",
+      "486.Blinele",
+      "487.Gogoși din cartofi",
+      "488.Găluște cu prune",
+      "489.Găluște cu caise"
+    ],
     "type": "mains",
     "ingredients": [
       "485.Blinele de cartofi: 500 g cartofi, ½ pahar făină, 25 g drojdie, 2 linguri ulei sau untură, ¼ pahar lapte, 1 lingură zahăr, sare, smântână",
@@ -2624,7 +3168,15 @@
   {
     "src": "images/m-74.jpg",
     "alt": "Făinoase",
-    "title": "Făinoase",
+    "title": [
+      "490.Găluște cu brânză",
+      "491.Chifteluțe de orez",
+      "492.Crochete de griș",
+      "493.Orez cu lapte 1",
+      "494.Orez cu lapte 2",
+      "495.Griș cu lapte",
+      "496.Griș cu lapte și ciocolată în formă de șarlotă"
+    ],
     "type": "mains",
     "ingredients": [
       "490.Găluște cu brânză: Pentru aluat aceleaşi cantităţi ca la găluşte cu prune (v. 175) 2-3 linguri brânză de oi, 2 linguri unt sau untură",
@@ -2639,7 +3191,15 @@
   {
     "src": "images/m-75.jpg",
     "alt": "Făinoase",
-    "title": "Făinoase",
+    "title": [
+      "497.Griș cu fructe în formă de șarlotă",
+      "498.Papanași prăjiți",
+      "499.Papanași fierți",
+      "500.Frigănele",
+      "501.Clătite",
+      "502.Mămăliguță la capac",
+      "503.Alivancă"
+    ],
     "type": "mains",
     "ingredients": [
       "497.Griș cu fructe în formă de șarlotă: 750 g apă, 500 g fructe (vişine sau zmeură, căpşuni, fragi, coacăze), 3-4 linguri zahăr, 150 g griş, 1 praf vanilie",
@@ -2654,26 +3214,39 @@
   {
     "src": "images/m-76.jpg",
     "alt": "Făinoase + Dulciuri de casă: Sufleuri calde",
-    "title": "Făinoase + Dulciuri de casă: Sufleuri calde",
+    "title": [
+      "504.Balmuș",
+      "505.Romburi din mălai cu sos de roșii",
+      "506.Sufleu de lapte",
+      "507.Sufleu de smântână"
+    ],
     "type": "mains",
     "ingredients": [
       "504.Balmuș",
       "505.Romburi din mălai cu sos de roșii",
-      "506.Sufleu de lapte: 300 g lapte, 100 g zahăr, 40 g făină de cartofi, 30 g unt, 4 ouă, un vîrf de cuţit sare",
-      "507.Sufleu de smântână: 2 pahare smântână, 3 linguri făină, 5 ouă, ½ pahar zahăr, coaja rasă de la o lămâie."
+      "506.Sufleu de lapte: 300 g lapte, 100 g zahăr, 40 g făină de cartofi, 30 g unt, 4 ouă, un vârf de cuţit sare",
+      "507.Sufleu de smântână: 2 pahare smântână, 3 linguri făină, 5 ouă, ½ pahar zahăr, coaja rasă de la o lămâie"
     ]
   },
   {
     "src": "images/m-77.jpg",
     "alt": "Dulciuri de casă: Sufleuri calde + Budinci calde",
-    "title": "Dulciuri de casă: Sufleuri calde + Budinci calde",
+    "title": [
+      "508.Sufleu de mere",
+      "509.Sufleu japonez",
+      "510.Sufleu de ciocolată",
+      "511.Budincă de smântână 1",
+      "512.Budincă de smântână 2",
+      "513.Budincă de nuci 1",
+      "514.Budincă de nuci 2"
+    ],
     "type": "mains",
     "ingredients": [
-      "508.Sufleu de mere: 6 mere mari, 6-7 albuşuri, ½ pahar zahăr, scorţişoară pisată.",
+      "508.Sufleu de mere: 6 mere mari, 6-7 albuşuri, ½ pahar zahăr, scorţişoară pisată",
       "509.Sufleu japonez: 200 g unt, 100 g ciocolată sau cacao, 200 g zahăr pudră, 1 lingură făină, 4 ouă, unt şi făină pentru formă",
       "510.Sufleu de ciocolată: 2 pahare smântână, 100 g unt, 4 ouă, 1 pahar făină, 50 g ciocolată menaj, 1/2 pahar zahăr, vanilie, 2 linguri rom",
-      "511.Budincă de smântână 1: 6 ouă, 100 g zahăr, 4 linguri făină, 2 pahare smântână, vanilie, un praf de sare, coaja rasă de lămâie, unt şi pesmet pentru formă, sos de vin sau şodou de ciocolată.",
-      "512.Budincă de smântână 2: 500 g smântână, 6 ouă, 5 linguri făină, coaja de la ½ lămîie, 4 linguri zahăr, 1 praf sare, unt şi pesmet pentru formă, sos de vin ",
+      "511.Budincă de smântână 1: 6 ouă, 100 g zahăr, 4 linguri făină, 2 pahare smântână, vanilie, un praf de sare, coaja rasă de lămâie, unt şi pesmet pentru formă, sos de vin sau şodou de ciocolată",
+      "512.Budincă de smântână 2: 500 g smântână, 6 ouă, 5 linguri făină, coaja de la ½ lămâie, 4 linguri zahăr, 1 praf sare, unt şi pesmet pentru formă, sos de vin",
       "513.Budincă de nuci 1: 60 g făină, 60 g unt, 80 g zahăr, 4 ouă, 250 g nuci pisate şi opărite cu 250 g lapte, un pumn de nuci pisate, neopărite, 1 praf vanilie, şodou de ciocolată, zahăr pudră pentru formă",
       "514.Budincă de nuci 2: 150 g nuci pisate, 150 g unt, 150 g zahăr, 8 ouă, 3 linguri rom, 1 lingură pesmet pisat fin, 1 praf vanilie, unt pentru formă"
     ]
@@ -2681,7 +3254,11 @@
   {
     "src": "images/m-78.jpg",
     "alt": "Dulciuri de casă: Budinci calde",
-    "title": "Dulciuri de casă: Budinci calde",
+    "title": [
+      "515.Budincă de orez 1",
+      "516.Budincă de orez cu vin",
+      "517.Budincă de orez 2"
+    ],
     "type": "mains",
     "ingredients": [
       "515.Budincă de orez 1: 1 ceaşcă orez, 2 l apă, 100 g unt, 3 ouă, 150 g zahăr, 1 praf vanilie, coaja rasă de lămâie, 150 g stafide, 1 praf sare, unt şi pesmet pentru formă",
@@ -2692,7 +3269,7 @@
   {
     "src": "images/m-79.jpg",
     "alt": "300 de rețete ieftine alese din caietul bunicii - Dulciuri",
-    "title": "300 de rețete ieftine alese din caietul bunicii - Dulciuri",
+    "title": ["47.Salam de biscuiți", "48.Saloane"],
     "type": "mains",
     "ingredients": [
       "47.Salam de biscuiți: 500 g zahăr, 1 pahar apă, 50 g cacao, stafide, nuci, rahat",
@@ -2702,7 +3279,16 @@
   {
     "src": "images/m-80.jpg",
     "alt": "300 de rețete ieftine alese din caietul bunicii - Dulciuri",
-    "title": "300 de rețete ieftine alese din caietul bunicii - Dulciuri",
+    "title": [
+      "49.Înghețată din iaurt",
+      "50.Înghețată de fragi",
+      "51.Înghețată de orez",
+      "52.Înghețată de caise",
+      "53.Înghețată de struguri",
+      "54.Înghețată de căpșuni",
+      "55.Înghețată de vanilie",
+      "56.Parfe de ciocolată"
+    ],
     "type": "mains",
     "ingredients": [
       "49.Înghețată din iaurt:2 ouă, 200 gr zahăr farin, coaja rasa și zeama unei lămâi, 2 borcane mici de iaurt ",
@@ -2718,7 +3304,15 @@
   {
     "src": "images/m-81.jpg",
     "alt": "300 de rețete ieftine alese din caietul bunicii - Dulciuri",
-    "title": "300 de rețete ieftine alese din caietul bunicii - Dulciuri",
+    "title": [
+      "57.Înghețată marmorată",
+      "58.Lichior de zmeură",
+      "59.Punci",
+      "60.Lichior de lămâie",
+      "61.Lichior de ouă",
+      "62.Lichior de bere",
+      "63.Lichior de zmeură"
+    ],
     "type": "mains",
     "ingredients": [
       "57.Înghețată marmorată: 6 gălbenușuri, 1 lingură făină, 4 l lapte, 6 albușuri, 200 gr zahăr, o lingură de apă, 2-3 pachete zahăr vanilat, 4 lingurițe cacao, 4 linguri zahăr, 2-3 linguri lapte",
@@ -2733,7 +3327,15 @@
   {
     "src": "images/m-82.jpg",
     "alt": "300 de rețete ieftine alese din caietul bunicii - Dulciuri",
-    "title": "300 de rețete ieftine alese din caietul bunicii - Dulciuri",
+    "title": [
+      "64.Cocteil de cacao",
+      "65.Florio",
+      "66.Prăjitură marmorată",
+      "67.Felii cu unt și nucă",
+      "68.Frida",
+      "69.Fluturași",
+      "70.Zebre"
+    ],
     "type": "mains",
     "ingredients": [
       "64.Cocteil de cacao: 1/2 l lapte, 300 gr zahăr, 50 gr cacao",
@@ -2748,23 +3350,38 @@
   {
     "src": "images/m-83.jpg",
     "alt": "300 de rețete ieftine alese din caietul bunicii - Dulciuri",
-    "title": "300 de rețete ieftine alese din caietul bunicii - Dulciuri",
+    "title": [
+      "71.Felii de cacao",
+      "72.Dora",
+      "73.Prăjitură rusească",
+      "73.Prăjitură cu griș",
+      "103.Sucitură cu mac",
+      "104.Sucitură",
+      "104.Sucitură umplutura 1",
+      "104.Sucitură umplutura 2"
+    ],
     "type": "mains",
     "ingredients": [
       "71.Felii de cacao: 180 gr zahăr, 100 gr untură, 2 linguri cacao, 2 gălbenușuri, 1 pahar lapte, 350 gr făină, 1 praf de copt, 2 albușuri spumă, unt și făină pt tavă",
       "72.Dora: 1 ou, 50 gr untură sau 80 gr unt, 1 cană zahăr, 1 cană lapte, 1 linguriță bicarbonat stins cu lămâie, 2 linguri gem, coajă rasă lămâie, 3 căni făină, nuci, rahat, fructe sau glazură pt decor",
       "73.Prăjitură rusească: 150 gr unt, 150 gr zahăr, 7 gălbenușuri, 5 linguri apă, 150 gr făină, praf de copt, 7 albușuri spumă, 150 gr zahăr, 3 lingurițe cacao, 50 gr ciocolată rasă, 150 gr nucă măcinată",
       "73.Prăjitură cu griș:??? 6 gălbenușuri, 6 linguri zahăr, 14 linguri griș, 6 albușuri spumă.... ",
-      "103.Sucitură cu mac: 6 gălbenușuri, 6 linguri zahăr, untură cât o nucă, o lingură saligar(amoniac) topit în 3 linguri de lapte și făină cât cuprinde, 1 cană mac măcinat fiert în lapte cu o cană de lapte, 6 albușuri spumă, coajă de lămâie, ",
-      "104.Sucitură: 20 gr drojdie, lapte călduț, 2 lingurițe zahăr, 300 gr făină, 300 gr cartofi fierți, 1 ou, sare, ",
-      "104.Sucitură umplutura 1: 250 gr mac măcinat, 250 gr zahăr, 250 ml apă, stafide, coajă lămâie ",
-      "104.Sucitură umplutura 2: 250 gr zahăr, 250 ml apă, 250 gr nucă măcinată,stafide , coajă lămâie "
+      "103.Sucitură cu mac: 6 gălbenușuri, 6 linguri zahăr, untură cât o nucă, o lingură saligar(amoniac) topit în 3 linguri de lapte și făină cât cuprinde, 1 cană mac măcinat fiert în lapte cu o cană de lapte, 6 albușuri spumă, coajă de lămâie",
+      "104.Sucitură: 20 gr drojdie, lapte călduț, 2 lingurițe zahăr, 300 gr făină, 300 gr cartofi fierți, 1 ou, sare",
+      "104.Sucitură umplutura 1: 250 gr mac măcinat, 250 gr zahăr, 250 ml apă, stafide, coajă lămâie",
+      "104.Sucitură umplutura 2: 250 gr zahăr, 250 ml apă, 250 gr nucă măcinată, stafide , coajă lămâie "
     ]
   },
   {
     "src": "images/m-84.jpg",
     "alt": "300 de rețete ieftine alese din caietul bunicii - Dulciuri",
-    "title": "300 de rețete ieftine alese din caietul bunicii - Dulciuri",
+    "title": [
+      "105.Sucitură mică",
+      "106.Prăjitură cu mac",
+      "107.Prăjitură cu mac sau nucă",
+      "108.Ștrudel tirolez",
+      "109.Plăcintă dulce"
+    ],
     "type": "mains",
     "ingredients": [
       "105.Sucitură mică: 500 gr făină, 200 gr margarină sau 140 gr untură, 2 linguri smântână, 2 gălbenușuri, sare, drojdie cât o nucă, dizolvată în lapte cu 2 lingurițe zahăr",
@@ -2777,7 +3394,7 @@
   {
     "src": "images/m-85.jpg",
     "alt": "300 de rețete ieftine alese din caietul bunicii - Dulciuri",
-    "title": "300 de rețete ieftine alese din caietul bunicii - Dulciuri",
+    "title": ["110.Felii de la bunica", "111.Harlechine"],
     "type": "mains",
     "ingredients": [
       "110.Felii de la bunica: 380 gr făină, 120 g untură, 1 ou, 2 linguri smântână, 20 gr drojdie muiată în lapte si zahăr, gem de caise sau măceșe, 250 gr nucă măcinată, 250 gr zahăr, rom, ou pt uns",
@@ -2786,9 +3403,9 @@
   },
 
   {
-    "src": "images/logo.",
+    "src": "images/logo.png",
     "alt": "logo",
-    "title": "logo",
+    "title": ["logo"],
     "type": "none",
     "ingredients": []
   }
